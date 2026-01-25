@@ -7,7 +7,9 @@
     "build": "vite build",
     "dev": "vite",
     "preview": "vite preview",
-    "deploy": "npm run build && npx wrangler pages deploy"
+    "deploy": "npm run build && npx wrangler pages deploy",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix"
   },
   "dependencies": {
     "@emotion/react": "11.14.0",
@@ -70,8 +72,16 @@
     "vaul": "1.1.2"
   },
   "devDependencies": {
+    "@eslint/js": "^9.39.2",
     "@tailwindcss/vite": "4.1.12",
+    "@typescript-eslint/eslint-plugin": "^8.53.1",
+    "@typescript-eslint/parser": "^8.53.1",
     "@vitejs/plugin-react": "4.7.0",
+    "eslint": "^9.39.2",
+    "eslint-plugin-jsx-a11y": "^6.10.2",
+    "eslint-plugin-react": "^7.37.5",
+    "eslint-plugin-react-hooks": "^7.0.1",
+    "globals": "^17.1.0",
     "tailwindcss": "4.1.12",
     "vite": "6.3.5"
   },

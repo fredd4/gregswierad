@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
+import type { ChangeEvent, FormEvent, KeyboardEvent } from "react";
 import { ImageWithFallback } from "@/app/components/figma/ImageWithFallback";
 import { Button } from "@/app/components/ui/button";
-import { Card } from "@/app/components/ui/card";
 import { Dialog, DialogContent, DialogDescription, DialogHeader, DialogTitle } from "@/app/components/ui/dialog";
 import { DropdownMenu, DropdownMenuContent, DropdownMenuRadioGroup, DropdownMenuRadioItem, DropdownMenuTrigger } from "@/app/components/ui/dropdown-menu";
 import { Input } from "@/app/components/ui/input";
@@ -84,7 +84,7 @@ export default function App() {
     </DropdownMenu>
   );
 
-  const handleFormChange = (event: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) => {
+  const handleFormChange = (event: ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) => {
     const { name, value } = event.target;
     setFormValues((prev) => ({ ...prev, [name]: value }));
     if (formStatus === "success") {
@@ -92,7 +92,7 @@ export default function App() {
     }
   };
 
-  const handleFormSubmit = async (event: React.FormEvent<HTMLFormElement>) => {
+  const handleFormSubmit = async (event: FormEvent<HTMLFormElement>) => {
     event.preventDefault();
     setFormStatus("submitting");
     setFormError(null);
@@ -142,9 +142,19 @@ export default function App() {
         role: "",
         message: "",
       }));
-    } catch (error) {
+    } catch {
       setFormStatus("error");
       setFormError(t("form.errors.network"));
+    }
+  };
+
+  const handleCardKeyDown = (
+    event: KeyboardEvent<HTMLDivElement>,
+    onActivate: () => void,
+  ) => {
+    if (event.key === "Enter" || event.key === " ") {
+      event.preventDefault();
+      onActivate();
     }
   };
 
@@ -610,6 +620,13 @@ export default function App() {
                   key={achievement.id}
                   className={`p-8 ${bgColors[index]} rounded-3xl shadow-md hover:shadow-xl transition-all cursor-pointer group`}
                   onClick={() => setSelectedAchievement(achievement.id)}
+                  onKeyDown={(event) =>
+                    handleCardKeyDown(event, () =>
+                      setSelectedAchievement(achievement.id),
+                    )
+                  }
+                  role="button"
+                  tabIndex={0}
                 >
                   <div className="flex items-start gap-4">
                     <div className="w-14 h-14 flex items-center justify-center flex-shrink-0">
@@ -679,6 +696,13 @@ export default function App() {
                 key={item.id} 
                 className="grid md:grid-cols-2 gap-8 items-center cursor-pointer group"
                 onClick={() => setSelectedExpertise(item.id)}
+                onKeyDown={(event) =>
+                  handleCardKeyDown(event, () =>
+                    setSelectedExpertise(item.id),
+                  )
+                }
+                role="button"
+                tabIndex={0}
               >
                 {/* Text Content */}
                 <div className={`${isEven ? 'md:order-1' : 'md:order-2'} space-y-4`}>
