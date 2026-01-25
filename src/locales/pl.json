@@ -1,0 +1,203 @@
+{
+  "common": {
+    "brandName": "Greg Swierad",
+    "logoAlt": "Logo Grega Swierada",
+    "profileAlt": "Greg Swierad",
+    "speakingAlt": "Greg Swierad na scenie podczas konferencji",
+    "language": "Język"
+  },
+  "nav": {
+    "bookCall": "Umów rozmowę",
+    "backHome": "Wróć na stronę główną"
+  },
+  "hero": {
+    "title": {
+      "before": "Buduj",
+      "highlight": "rentowne",
+      "after": "produkty szybciej"
+    },
+    "subtitle": "CTO/CEO na część etatu lub cofounder dla startupów i MŚP. Pomagam weryfikować pomysły, szybko dostarczać produkt i skalować pozyskanie klientów dzięki praktycznemu wykonaniu.",
+    "cta": "Umów rozmowę"
+  },
+  "about": {
+    "title": "Co zyskujesz",
+    "paragraphs": [
+      "Seniorowe wsparcie na część etatu, łączące strategię z realnym deliverym. Pozyskałem 550 tys. euro, budowałem zespoły, skalowałem produkty do 8 mln użytkowników i doprowadziłem kilka biznesów do rocznych przychodów rzędu sześciu cyfr.",
+      "Mogę objąć cały lejek: strategię produktu, UX/UI, inżynierię i user acquisition. Dostajesz jedną osobę, która zbuduje tech stack i zadba o konwersję, wykorzystując AI do przyspieszenia dostaw.",
+      "Najlepsze dopasowanie: startupy B2C i małe oraz średnie firmy, które potrzebują lidera na część etatu. Wchodzę w projekt i pcham biznes do przodu."
+    ]
+  },
+  "work": {
+    "title": "Jak pracuję",
+    "paragraphs": [
+      "Jasna komunikacja, szybkie wykonanie i mierzalne efekty. To standard, który wnoszę do każdego projektu.",
+      "Swobodnie prowadzę zespoły i wyrównuję oczekiwania stakeholderów. Utrzymuję komunikację prostą i praktyczną, nawet gdy technologia jest złożona.",
+      "Organizowałem spotkania mastermind dla founderów w Krakowie, gdzie operatorzy rozwiązywali realne problemy. To wzmocniło moje nastawienie na wykonanie, a nie teorię.",
+      "Wystąpienia publiczne są częścią mojego doświadczenia (Toastmasters, App Growth Summit w Londynie z ponad 300 uczestnikami itd.), ale prawdziwy cel to dowożenie wyników dla Twojego biznesu."
+    ]
+  },
+  "achievements": {
+    "title": "Moje 4 największe osiągnięcia",
+    "subtitle": "Dostarczam wyniki, nie tylko o nich mówię.",
+    "readStory": "Przeczytaj całą historię →",
+    "visit": "Odwiedź",
+    "visitWebsite": "Odwiedź stronę",
+    "items": {
+      "mentorist": {
+        "title": "Mentorist",
+        "shortDescription": "Produkt B2C z rocznym przychodem rzędu sześciu cyfr i inwestycją 550 tys. euro.",
+        "revenue": "Roczny przychód rzędu sześciu cyfr, inwestycja 550 tys. euro",
+        "fullStory": "Mentorist to mój flagowy produkt B2C. Osiągnął roczny przychód rzędu sześciu cyfr i pozyskał 550 tys. euro inwestycji.\n\nPomysł powstał z mojej frustracji wobec aplikacji z podsumowaniami książek. Zbudowałem Mentorist, aby pomagać ludziom wdrażać wiedzę, a nie tylko ją czytać. Przez lata pracowałem nad nim sam, a potem pozyskałem finansowanie i zbudowałem zespół.\n\nObecna wersja została w 100% przebudowana przeze mnie — frontend, backend, UX/UI, grafiki i treści — z intensywnym wykorzystaniem narzędzi AI."
+      },
+      "iqelite": {
+        "title": "IQElite",
+        "shortDescription": "8 mln zarejestrowanych użytkowników, rentowność przez 8 lat.",
+        "revenue": "8 mln zarejestrowanych użytkowników, rentowność przez 8 lat",
+        "fullStory": "Dołączyłem do IQElite w Barcelonie jako cofounder i CTO, odpowiadając za technologię. Po 1,5 roku zostałem CEO i przejąłem stery firmy.\n\nMieliśmy 5-osobowy zespół i traciliśmy pieniądze. W ciągu trzech miesięcy od przejęcia przeze mnie firmy wyszliśmy na zero i pozostaliśmy rentowni przez kolejne sześć lat.\n\nIQElite było serwisem randkowym opartym o testy psychometryczne (IQ, osobowość, EQ, kompatybilność w miłości). Osiągnęliśmy 8 milionów zarejestrowanych użytkowników. Platforma później podupadła, gdy Tinder i Bumble przedefiniowały rynek."
+      },
+      "neurony": {
+        "title": "Neurony Szaleją",
+        "shortDescription": "Performance marketing i optymalizacja konwersji, które doprowadziły do rocznego przychodu rzędu sześciu cyfr.",
+        "revenue": "Roczny przychód rzędu sześciu cyfr",
+        "fullStory": "Neurony Szaleją to marka sprzedająca produkty dla mam małych dzieci. W 2024 roku biznes opierał się głównie na organicznym dotarciu.\n\nPomogłem w performance marketingu: kierunek kreatywny, zarządzanie reklamami na Facebooku oraz później dedykowane landing pages w React, aby poprawić konwersję. Prowadziliśmy szybkie testy A/B i optymalizowaliśmy lejek krok po kroku.\n\nMarka osiągnęła roczny przychód rzędu sześciu cyfr i rozwija się na kolejne kraje."
+      },
+      "hackyeah": {
+        "title": "1. miejsce – HackYeah 2025",
+        "shortDescription": "Zbudowaliśmy grę symulującą emeryturę w 24 godziny; 1. miejsce na HackYeah 2025.",
+        "revenue": "",
+        "fullStory": "Dołączyłem do HackYeah 2025 w Krakowie bez zespołu. Na miejscu poznałem dwie osoby i stworzyliśmy trzyosobowy zespół.\n\nWybraliśmy kategorię \"live run\" i zbudowaliśmy grę symulującą emeryturę w 24 godziny. Projekt zdobył 1. miejsce.\n\nIntensywnie używałem narzędzi AI do zarządzania pracą i wytworzyliśmy około 14 000 linii kodu podczas hackathonu."
+      }
+    }
+  },
+  "expertise": {
+    "title": "Kluczowe kompetencje",
+    "subtitle": "Dostarczam kompletne produkty, a nie fragmenty. To oznacza strategię, architekturę i wykonanie dopasowane do celów biznesowych.",
+    "readMore": "Czytaj więcej →",
+    "items": {
+      "performanceMarketing": {
+        "title": "Performance marketing",
+        "shortDescription": "Ponad 700 tys. euro wydane na reklamy, kreacje nastawione na konwersję i skalowalne systemy kampanii.",
+        "details": {
+          "intro": "W trakcie kariery zarządzałem ponad 700 000 euro wydatków reklamowych w Meta. To daje głęboką wiedzę o tym, co naprawdę napędza dochodowe pozyskiwanie użytkowników.",
+          "whatYouGetTitle": "Co zyskujesz:",
+          "whatYouGetItems": [
+            "Rentowne struktury kampanii i sprawdzone ramy skalowania",
+            "Strategię kreatywną, która poprawia CTR i współczynnik konwersji",
+            "Zarządzanie kontem, które równoważy wzrost i zrównoważony CAC",
+            "Własne narzędzia do śledzenia kreacji konkurencji i nowych trendów"
+          ],
+          "closing": "Pracuję z founderami, którzy potrzebują praktycznego wsparcia, aby zamienić budżet reklamowy w powtarzalny przychód, a nie tylko vanity metrics."
+        }
+      },
+      "fullStack": {
+        "title": "Rozwój full-stack",
+        "shortDescription": "Kompleksowe delivery produktu: React Native, Firebase, Django/Python.",
+        "details": {
+          "intro": "Dostarczam kompletne produkty, a nie fragmenty. To oznacza strategię, architekturę i wykonanie dopasowane do celów biznesowych.",
+          "typicalStackTitle": "Typowy stack:",
+          "typicalStackFrontend": "Frontend: React, React Native dla aplikacji mobilnych",
+          "typicalStackBackend": "Backend: Firebase, Django/Python",
+          "typicalStackInfrastructure": "Infrastruktura: produkcyjne deploymenty, skalowanie i monitoring",
+          "whatThisMeansTitle": "Co to oznacza dla Ciebie:",
+          "whatThisMeansBody": "Mogę dostarczyć MVP, ustabilizować stack lub wejść jako CTO na część etatu i poprowadzić delivery, gdy Ty skupiasz się na sprzedaży i dystrybucji.",
+          "closing": "Dostajesz seniorowe wykonanie bez kosztów pełnego zespołu."
+        }
+      },
+      "productUx": {
+        "title": "Projektowanie produktu i UX/UI",
+        "shortDescription": "UX/UI, które konwertuje: klarowność, psychologia i mierzalne wyniki.",
+        "details": {
+          "intro": "Świetne produkty są proste do zrozumienia i trudne do zignorowania. Projektuję z myślą o klarowności, konwersji i retencji.",
+          "approachTitle": "Podejście:",
+          "approachItems": [
+            "Projektowanie z myślą o użytkowniku, które priorytetyzuje klarowność i konwersję",
+            "Systemy designu w Figmie od wireframe'ów po high‑fidelity UI",
+            "Szybkie prototypowanie i iteracje na podstawie feedbacku od użytkowników",
+            "Behawioralny UX, który usuwa tarcie i prowadzi do działania"
+          ],
+          "examplesTitle": "Przykłady:",
+          "examplesItems": [
+            "Mentorist UX/UI zrobione end‑to‑end",
+            "System designu EnglishSeries zbudowany od zera",
+            "Zwycięski projekt HackYeah: UX był kluczowym wyróżnikiem"
+          ],
+          "closing": "Projektuję tak, aby ruszać metryki, a nie tylko piksele."
+        }
+      },
+      "aiTools": {
+        "title": "Rozwój wspierany przez AI",
+        "shortDescription": "Dostawa z pomocą AI, która skraca cykle budowy 5–10x.",
+        "details": {
+          "intro": "AI to dźwignia, gdy idzie w parze z dojrzałym osądem produktowym. Używam go, aby dostarczać szybciej bez obniżania jakości.",
+          "proofTitle": "Dowód:",
+          "proofItems": [
+            "14 000 linii kodu w 24 godziny na HackYeah (1. miejsce)",
+            "Przebudowa całej aplikacji Mentorist solo z pomocą AI",
+            "Dostarczanie landing pages, systemów backendowych i UX szybciej niż typowe zespoły"
+          ],
+          "howItHelpsTitle": "Jak to pomaga:",
+          "howItHelpsBody": "Szybsza walidacja, szybsze deploymenty i niższe koszty. Mogę budować i iterować, gdy Ty skupiasz się na klientach i przychodzie.",
+          "idealUseTitle": "Idealne zastosowanie:",
+          "idealUseBody": "Wsparcie CTO na część etatu lub cofoundera dla startupów i MŚP, które potrzebują częściowego, seniorowego wykonania."
+        }
+      }
+    }
+  },
+  "cta": {
+    "title": "Potrzebujesz CTO na część etatu lub cofoundera?",
+    "subtitle": "Jeśli potrzebujesz seniorowego wsparcia w produkcie, technologii i wzroście, porozmawiajmy o tym, jak mogę pomóc.",
+    "button": "Porozmawiaj z ekspertem"
+  },
+  "contact": {
+    "title": "Porozmawiajmy o Twoich celach",
+    "benefitsTitle": "Co zyskujesz",
+    "benefits": {
+      "items": [
+        {
+          "emphasis": "Seniorowe, praktyczne wskazówki",
+          "body": "z obszaru produktu, technologii lub wzrostu — w ciągu 24 godzin."
+        },
+        {
+          "emphasis": "Jasna ścieżka współpracy",
+          "body": "dla lidera na część etatu lub pracy praktycznej."
+        },
+        {
+          "emphasis": "Bez presji sprzedażowej.",
+          "body": "Jeśli nie jestem odpowiednim wyborem, wskażę lepszą opcję."
+        }
+      ]
+    },
+    "formTitle": "Wyślij wiadomość",
+    "success": "Dziękuję za kontakt. Odpowiem w ciągu 24 godzin.",
+    "replyTime": "Odezwę się w ciągu 24 godzin."
+  },
+  "form": {
+    "fields": {
+      "firstName": "Imię *",
+      "lastName": "Nazwisko *",
+      "email": "E-mail *",
+      "organization": "Nazwa organizacji",
+      "role": "Twoja rola",
+      "message": "Twoja wiadomość *"
+    },
+    "placeholders": {
+      "firstName": "Jan",
+      "lastName": "Kowalski",
+      "email": "jan@firma.com",
+      "organization": "Nazwa firmy",
+      "role": "CEO, founder, CTO itd.",
+      "message": "Opowiedz o projekcie lub o tym, jak mogę pomóc..."
+    },
+    "submit": "Wyślij wiadomość",
+    "sending": "Wysyłam...",
+    "errors": {
+      "notConfigured": "Formularz nie jest jeszcze skonfigurowany. Spróbuj ponownie później.",
+      "generic": "Coś poszło nie tak. Spróbuj ponownie.",
+      "network": "Błąd sieci. Spróbuj ponownie."
+    }
+  },
+  "footer": {
+    "rights": "© 2026 Greg Swierad. Wszelkie prawa zastrzeżone.",
+    "domain": "gregswierad.com"
+  }
+}

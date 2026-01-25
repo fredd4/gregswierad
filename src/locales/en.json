@@ -1,0 +1,203 @@
+{
+  "common": {
+    "brandName": "Greg Swierad",
+    "logoAlt": "Greg Swierad logo",
+    "profileAlt": "Greg Swierad",
+    "speakingAlt": "Greg Swierad speaking at a conference",
+    "language": "Language"
+  },
+  "nav": {
+    "bookCall": "Book a Call",
+    "backHome": "Back to Home"
+  },
+  "hero": {
+    "title": {
+      "before": "Build",
+      "highlight": "Profitable",
+      "after": "Products Faster"
+    },
+    "subtitle": "Fractional CTO, CEO, or co-founder support for startups and SMBs. I help you validate ideas, ship fast, and scale acquisition with hands-on execution.",
+    "cta": "Book a Call"
+  },
+  "about": {
+    "title": "What You Get",
+    "paragraphs": [
+      "Senior, part-time leadership that combines strategy with real execution. I've raised €550k, built teams, scaled products to 8M users, and delivered multiple 6-figure revenue businesses.",
+      "I can own the full funnel: product strategy, UX/UI, engineering, and acquisition. You get a single operator who can build the stack and make it convert, using AI to multiply delivery speed.",
+      "Best fit: B2C startups and small-to-mid businesses that need fractional leadership. I can step in part-time and move the business forward."
+    ]
+  },
+  "work": {
+    "title": "How I Work",
+    "paragraphs": [
+      "Clear communication, fast execution, and measurable outcomes. That's the standard I bring to every engagement.",
+      "I'm comfortable leading teams and aligning stakeholders. I keep communication simple and practical, even when the tech is complex.",
+      "I've organized founder masterminds in Krakow where operators solved real problems together. It reinforced my bias toward execution over theory.",
+      "Public speaking is part of my background (Toastmasters, App Growth Summit in London with 300+ attendees, etc), but the real focus is delivering results for your business."
+    ]
+  },
+  "achievements": {
+    "title": "My Top 4 Achievements",
+    "subtitle": "I deliver results, not just talk about them.",
+    "readStory": "Read full story \u2192",
+    "visit": "Visit",
+    "visitWebsite": "Visit Website",
+    "items": {
+      "mentorist": {
+        "title": "Mentorist",
+        "shortDescription": "B2C product with 6-figure yearly revenue and \u20ac550k investment.",
+        "revenue": "6-figure yearly revenue, \u20ac550k investment",
+        "fullStory": "Mentorist is my flagship B2C product. It reached 6-figure yearly revenue and raised \u20ac550k in investment.\n\nThe idea came from my frustration with book-summary apps. I built Mentorist to help people implement knowledge, not just read it. I worked on it solo for years, then raised funding and built a team.\n\nThe current version is rebuilt 100% by me\u2014frontend, backend, UX/UI, visuals, and content\u2014using AI tools extensively."
+      },
+      "iqelite": {
+        "title": "IQElite",
+        "shortDescription": "8M registered users, profitable for 8 years.",
+        "revenue": "8M registered users, profitable for 8 years",
+        "fullStory": "I joined IQElite in Barcelona as a co-founder and CTO, focused on technology. After 1.5 years, I became CEO and took control of the company.\n\nWe had a 5-person team and were losing money. Within three months of me taking over, we broke even and stayed profitable for the next six years.\n\nIQElite was a dating service built on psychometric tests (IQ, personality, EQ, love compatibility). We reached 8 million registered users. The platform later declined as Tinder and Bumble reshaped the market."
+      },
+      "neurony": {
+        "title": "Neurony Szalej\u0105",
+        "shortDescription": "Performance marketing and conversion work that led to 6-figure yearly revenue.",
+        "revenue": "6-figure yearly revenue",
+        "fullStory": "Neurony Szalej\u0105 is a brand selling products for mothers of small children. In 2024, the business relied mostly on organic outreach.\n\nI helped with performance marketing: creative guidance, Facebook Ads management, and later custom landing pages in React to improve conversion. We ran rapid A/B tests and optimized the funnel step by step.\n\nThe brand reached 6-figure yearly revenue and is expanding into other countries."
+      },
+      "hackyeah": {
+        "title": "1st Place - HackYeah 2025",
+        "shortDescription": "Built a retirement simulation game in 24 hours; 1st place at HackYeah 2025.",
+        "revenue": "",
+        "fullStory": "I joined HackYeah 2025 in Krakow without a team. I met two people on-site, and we formed a three-person team.\n\nWe chose the \"live run\" category and built a retirement simulation game in 24 hours. The project won 1st place.\n\nI used AI tools heavily to manage the workload and we produced around 14,000 lines of code during the hackathon."
+      }
+    }
+  },
+  "expertise": {
+    "title": "Core Expertise",
+    "subtitle": "I deliver complete products, not partial handoffs. That means strategy, architecture, and execution aligned with business goals.",
+    "readMore": "Read more \u2192",
+    "items": {
+      "performanceMarketing": {
+        "title": "Performance Marketing",
+        "shortDescription": "\u20ac700k+ in ad spend, conversion-focused creative, and scalable campaign systems.",
+        "details": {
+          "intro": "Over my career, I've managed \u20ac700,000+ in Meta ad spend. That translates into deep knowledge of what actually drives profitable acquisition.",
+          "whatYouGetTitle": "What You Get:",
+          "whatYouGetItems": [
+            "Profitable campaign structures and scaling frameworks",
+            "Creative strategy that improves CTR and conversion rate",
+            "Account management that balances growth with sustainable CAC",
+            "Custom tools that track competitor creatives and emerging trends"
+          ],
+          "closing": "I work with founders who need hands-on help to turn ad spend into repeatable revenue, not just vanity metrics."
+        }
+      },
+      "fullStack": {
+        "title": "Full-Stack Development",
+        "shortDescription": "End-to-end product delivery: React Native, Firebase, Django/Python.",
+        "details": {
+          "intro": "I deliver complete products, not partial handoffs. That means strategy, architecture, and execution aligned with business goals.",
+          "typicalStackTitle": "Typical Stack:",
+          "typicalStackFrontend": "Frontend: React, React Native for mobile apps",
+          "typicalStackBackend": "Backend: Firebase, Django/Python",
+          "typicalStackInfrastructure": "Infrastructure: Production deployment, scaling, and monitoring",
+          "whatThisMeansTitle": "What This Means for You:",
+          "whatThisMeansBody": "I can ship the MVP, stabilize the stack, or step in as a fractional CTO to lead delivery while you focus on sales and distribution.",
+          "closing": "You get senior execution without the overhead of a full team."
+        }
+      },
+      "productUx": {
+        "title": "Product & UX/UI Design",
+        "shortDescription": "UX/UI that converts: clarity, psychology, and measurable outcomes.",
+        "details": {
+          "intro": "Great products are simple to understand and hard to ignore. I design for clarity, conversion, and retention.",
+          "approachTitle": "Approach:",
+          "approachItems": [
+            "User-first design that prioritizes clarity and conversion",
+            "Design systems in Figma from wireframes to high-fidelity UI",
+            "Rapid prototyping and iteration based on user feedback",
+            "Behavioral UX that removes friction and drives action"
+          ],
+          "examplesTitle": "Examples:",
+          "examplesItems": [
+            "Mentorist UX/UI created end-to-end",
+            "EnglishSeries design system built from scratch",
+            "HackYeah winning project: UX polish was the differentiator"
+          ],
+          "closing": "I design to move metrics, not just pixels."
+        }
+      },
+      "aiTools": {
+        "title": "AI-Powered Development",
+        "shortDescription": "AI-assisted delivery that compresses build cycles by 5-10x.",
+        "details": {
+          "intro": "AI is a leverage tool when paired with senior product judgment. I use it to deliver faster without lowering quality.",
+          "proofTitle": "Proof:",
+          "proofItems": [
+            "14,000 lines of code in 24 hours at HackYeah (1st place)",
+            "Rebuilt the entire Mentorist app solo with AI assistance",
+            "Delivered landing pages, backend systems, and UX faster than typical teams"
+          ],
+          "howItHelpsTitle": "How It Helps You:",
+          "howItHelpsBody": "Rapid validation, faster launches, and lower burn. I can build and iterate while you focus on customers and revenue.",
+          "idealUseTitle": "Ideal Use:",
+          "idealUseBody": "Fractional CTO or co-founder support for startups and SMBs that need part-time, senior execution."
+        }
+      }
+    }
+  },
+  "cta": {
+    "title": "Need a Fractional CTO or Co-Founder?",
+    "subtitle": "If you need part-time senior execution across product, tech, and growth, let's talk about how I can help.",
+    "button": "Speak With an Expert"
+  },
+  "contact": {
+    "title": "Let's Talk About Your Goals",
+    "benefitsTitle": "What You'll Get",
+    "benefits": {
+      "items": [
+        {
+          "emphasis": "Senior, actionable guidance",
+          "body": "on product, tech, or growth\u2014within 24 hours."
+        },
+        {
+          "emphasis": "A clear engagement path",
+          "body": "for fractional leadership or hands-on execution."
+        },
+        {
+          "emphasis": "No sales pressure.",
+          "body": "If I am not the right fit, I will point you to a better option."
+        }
+      ]
+    },
+    "formTitle": "Send Me a Message",
+    "success": "Thanks for reaching out. I will reply within 24 hours.",
+    "replyTime": "I'll get back to you within 24 hours."
+  },
+  "form": {
+    "fields": {
+      "firstName": "First Name *",
+      "lastName": "Last Name *",
+      "email": "Email *",
+      "organization": "Organization Name",
+      "role": "Your Role",
+      "message": "Your Message *"
+    },
+    "placeholders": {
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john@company.com",
+      "organization": "Your company name",
+      "role": "CEO, Founder, CTO, etc.",
+      "message": "Tell me about your project or how I can help..."
+    },
+    "submit": "Send Message",
+    "sending": "Sending...",
+    "errors": {
+      "notConfigured": "Form is not configured yet. Please try again later.",
+      "generic": "Something went wrong. Please try again.",
+      "network": "Network error. Please try again."
+    }
+  },
+  "footer": {
+    "rights": "\u00a9 2026 Greg Swierad. All rights reserved.",
+    "domain": "gregswierad.com"
+  }
+}
