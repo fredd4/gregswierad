@@ -6,7 +6,8 @@
   "scripts": {
     "build": "vite build",
     "dev": "vite",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "deploy": "npm run build && npx wrangler pages deploy"
   },
   "dependencies": {
     "@emotion/react": "11.14.0",

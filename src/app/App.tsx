@@ -316,7 +316,7 @@ export default function App() {
           <div className="max-w-6xl mx-auto px-6 py-6 flex items-center justify-between">
             <button 
               onClick={() => setCurrentView("home")}
-              className="flex items-center gap-3 text-2xl font-bold text-teal-600 hover:opacity-80 transition-opacity"
+              className="flex items-center gap-2 text-lg font-bold text-teal-600 hover:opacity-80 transition-opacity whitespace-nowrap sm:text-xl md:text-2xl"
             >
               <ImageWithFallback 
                 src="/images/logo.webp" 
@@ -325,7 +325,7 @@ export default function App() {
               />
               {t("common.brandName")}
             </button>
-            <div className="flex items-center gap-3">
+            <div className="flex items-center gap-2 sm:gap-3">
               {renderLanguageSwitcher()}
               <Button 
                 variant="ghost" 
@@ -485,7 +485,7 @@ export default function App() {
       {/* Header */}
       <header className="bg-card shadow-sm sticky top-0 z-50">
           <div className="max-w-6xl mx-auto px-6 py-6 flex items-center justify-between">
-            <div className="flex items-center gap-3 text-2xl font-bold text-teal-600">
+            <div className="flex items-center gap-2 text-lg font-bold text-teal-600 whitespace-nowrap sm:text-xl md:text-2xl">
               <ImageWithFallback 
                 src="/images/logo.webp" 
                 alt={t("common.logoAlt")}
@@ -493,13 +493,13 @@ export default function App() {
               />
               {t("common.brandName")}
             </div>
-          <div className="flex items-center gap-3">
+          <div className="flex items-center gap-2 sm:gap-3">
             {renderLanguageSwitcher()}
             <Button 
               onClick={() => setCurrentView("contact")}
               className="bg-gradient-to-r from-teal-600 to-teal-500 hover:from-teal-700 hover:to-teal-600 text-white rounded-full px-6"
             >
-              <Mail className="mr-2 h-4 w-4" />
+              <Mail className="mr-2 hidden h-4 w-4 sm:inline-flex" />
               {t("nav.bookCall")}
             </Button>
           </div>
