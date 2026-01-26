@@ -45,25 +45,25 @@
     "items": {
       "mentorist": {
         "title": "Mentorist",
-        "shortDescription": "Produkt B2C z rocznym przychodem rzędu sześciu cyfr i inwestycją 550 tys. euro.",
+        "shortDescription": "B2C aplikacja do wdrażania wiedzy z książek, a nie tylko ich podsumowań.",
         "revenue": "Roczny przychód rzędu sześciu cyfr, inwestycja 550 tys. euro",
         "fullStory": "Mentorist to mój flagowy produkt B2C. Osiągnął roczny przychód rzędu sześciu cyfr i pozyskał 550 tys. euro inwestycji.\n\nPomysł powstał z mojej frustracji wobec aplikacji z podsumowaniami książek. Zbudowałem Mentorist, aby pomagać ludziom wdrażać wiedzę, a nie tylko ją czytać. Przez lata pracowałem nad nim sam, a potem pozyskałem finansowanie i zbudowałem zespół.\n\nObecna wersja została w 100% przebudowana przeze mnie — frontend, backend, UX/UI, grafiki i treści — z intensywnym wykorzystaniem narzędzi AI."
       },
       "iqelite": {
         "title": "IQElite",
-        "shortDescription": "8 mln zarejestrowanych użytkowników, rentowność przez 8 lat.",
+        "shortDescription": "Serwis randkowy oparty o testy psychometryczne i dopasowanie osobowości.",
         "revenue": "8 mln zarejestrowanych użytkowników, rentowność przez 8 lat",
         "fullStory": "Dołączyłem do IQElite w Barcelonie jako cofounder i CTO, odpowiadając za technologię. Po 1,5 roku zostałem CEO i przejąłem stery firmy.\n\nMieliśmy 5-osobowy zespół i traciliśmy pieniądze. W ciągu trzech miesięcy od przejęcia przeze mnie firmy wyszliśmy na zero i pozostaliśmy rentowni przez kolejne sześć lat.\n\nIQElite było serwisem randkowym opartym o testy psychometryczne (IQ, osobowość, EQ, kompatybilność w miłości). Osiągnęliśmy 8 milionów zarejestrowanych użytkowników. Platforma później podupadła, gdy Tinder i Bumble przedefiniowały rynek."
       },
       "neurony": {
         "title": "Neurony Szaleją",
-        "shortDescription": "Performance marketing i optymalizacja konwersji, które doprowadziły do rocznego przychodu rzędu sześciu cyfr.",
+        "shortDescription": "Marka produktów dla mam małych dzieci, dla której zwiększałem sprzedaż online.",
         "revenue": "Roczny przychód rzędu sześciu cyfr",
         "fullStory": "Neurony Szaleją to marka sprzedająca produkty dla mam małych dzieci. W 2024 roku biznes opierał się głównie na organicznym dotarciu.\n\nPomogłem w performance marketingu: kierunek kreatywny, zarządzanie reklamami na Facebooku oraz później dedykowane landing pages w React, aby poprawić konwersję. Prowadziliśmy szybkie testy A/B i optymalizowaliśmy lejek krok po kroku.\n\nMarka osiągnęła roczny przychód rzędu sześciu cyfr i rozwija się na kolejne kraje."
       },
       "hackyeah": {
         "title": "1. miejsce – HackYeah 2025",
-        "shortDescription": "Zbudowaliśmy grę symulującą emeryturę w 24 godziny; 1. miejsce na HackYeah 2025.",
+        "shortDescription": "Zbudowaliśmy grę symulującą emeryturę w 24 godziny; zajęliśmy 1. miejsce.",
         "revenue": "",
         "fullStory": "Dołączyłem do HackYeah 2025 w Krakowie bez zespołu. Na miejscu poznałem dwie osoby i stworzyliśmy trzyosobowy zespół.\n\nWybraliśmy kategorię \"live run\" i zbudowaliśmy grę symulującą emeryturę w 24 godziny. Projekt zdobył 1. miejsce.\n\nIntensywnie używałem narzędzi AI do zarządzania pracą i wytworzyliśmy około 14 000 linii kodu podczas hackathonu."
       }
@@ -144,9 +144,9 @@
     }
   },
   "cta": {
-    "title": "Potrzebujesz CTO na część etatu lub cofoundera?",
-    "subtitle": "Jeśli potrzebujesz seniorowego wsparcia w produkcie, technologii i wzroście, porozmawiajmy o tym, jak mogę pomóc.",
-    "button": "Porozmawiaj z ekspertem"
+    "title": "Wzrost idzie wolniej niż powinien? Znajdźmy blokadę.",
+    "subtitle": "Masz produkt lub pomysł, ale czujesz, że to jeszcze nie to — marketing nie dowozi, a po drodze wychodzą problemy techniczne. Przeszedłem ten cykl wiele razy: pomogę Ci wypuścić produkt, który działa i zarabia, a następnie go zoptymalizuję.",
+    "button": "Umów diagnozę wzrostu"
   },
   "contact": {
     "title": "Porozmawiajmy o Twoich celach",

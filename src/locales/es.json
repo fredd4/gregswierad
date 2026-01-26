@@ -45,25 +45,25 @@
     "items": {
       "mentorist": {
         "title": "Mentorist",
-        "shortDescription": "Producto B2C con ingresos anuales de seis cifras e inversión de 550 mil euros.",
+        "shortDescription": "App B2C para ayudar a implementar conocimiento de libros, no solo leer resúmenes.",
         "revenue": "Ingresos anuales de seis cifras, inversión de 550 mil euros",
         "fullStory": "Mentorist es mi producto B2C insignia. Alcanzó ingresos anuales de seis cifras y levantó 550 mil euros de inversión.\n\nLa idea nació de mi frustración con las apps de resúmenes de libros. Construí Mentorist para ayudar a la gente a implementar conocimiento, no solo a leerlo. Trabajé en ello solo durante años, luego levanté financiación y construí un equipo.\n\nLa versión actual fue reconstruida 100% por mí — frontend, backend, UX/UI, visuales y contenido — usando herramientas de IA de forma intensiva."
       },
       "iqelite": {
         "title": "IQElite",
-        "shortDescription": "8 millones de usuarios registrados, rentable durante 8 años.",
+        "shortDescription": "Servicio de citas basado en pruebas psicométricas y compatibilidad.",
         "revenue": "8 millones de usuarios registrados, rentable durante 8 años",
         "fullStory": "Me uní a IQElite en Barcelona como cofounder y CTO, enfocado en tecnología. Tras 1,5 años, me convertí en CEO y tomé el control de la empresa.\n\nTeníamos un equipo de cinco personas y perdíamos dinero. En tres meses desde que asumí el control, alcanzamos el punto de equilibrio y nos mantuvimos rentables durante los siguientes seis años.\n\nIQElite era un servicio de citas basado en pruebas psicométricas (IQ, personalidad, EQ, compatibilidad amorosa). Alcanzamos 8 millones de usuarios registrados. La plataforma decayó cuando Tinder y Bumble remodelaron el mercado."
       },
       "neurony": {
         "title": "Neurony Szaleją",
-        "shortDescription": "Performance marketing y optimización de conversión que llevaron a ingresos anuales de seis cifras.",
+        "shortDescription": "Marca de productos para madres de niños pequeños; mejoré sus ventas online.",
         "revenue": "Ingresos anuales de seis cifras",
         "fullStory": "Neurony Szaleją es una marca que vende productos para madres con niños pequeños. En 2024, el negocio dependía principalmente del alcance orgánico.\n\nAyudé en performance marketing: dirección creativa, gestión de anuncios en Facebook y luego landing pages en React para mejorar la conversión. Hicimos pruebas A/B rápidas y optimizamos el embudo paso a paso.\n\nLa marca alcanzó ingresos anuales de seis cifras y se está expandiendo a otros países."
       },
       "hackyeah": {
         "title": "1.er lugar – HackYeah 2025",
-        "shortDescription": "Construimos un juego de simulación de jubilación en 24 horas; 1.er lugar en HackYeah 2025.",
+        "shortDescription": "Construimos un juego de simulación de jubilación en 24 horas; ganamos el 1.er lugar.",
         "revenue": "",
         "fullStory": "Me uní a HackYeah 2025 en Cracovia sin equipo. En el lugar conocí a dos personas y formamos un equipo de tres.\n\nElegimos la categoría \"live run\" y construimos un juego de simulación de jubilación en 24 horas. El proyecto ganó el 1.er lugar.\n\nUsé herramientas de IA intensivamente para gestionar el trabajo y produjimos alrededor de 14.000 líneas de código durante el hackathon."
       }
@@ -144,9 +144,9 @@
     }
   },
   "cta": {
-    "title": "¿Necesitas un CTO fraccional o un cofounder?",
-    "subtitle": "Si necesitas apoyo senior a tiempo parcial en producto, tecnología y crecimiento, hablemos de cómo puedo ayudar.",
-    "button": "Habla con un experto"
+    "title": "¿El crecimiento va más lento de lo que debería? Encontremos el cuello de botella.",
+    "subtitle": "Tienes un producto o una idea, pero sientes que no es suficiente: el marketing no rinde y aparecen problemas técnicos. He pasado por este ciclo muchas veces: te ayudaré a lanzar un producto que funciona, los usuarios aman y genera beneficios, y luego lo optimizaré.",
+    "button": "Reserva un diagnóstico de crecimiento"
   },
   "contact": {
     "title": "Hablemos de tus objetivos",

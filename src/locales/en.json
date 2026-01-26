@@ -45,25 +45,25 @@
     "items": {
       "mentorist": {
         "title": "Mentorist",
-        "shortDescription": "B2C product with 6-figure yearly revenue and \u20ac550k investment.",
+        "shortDescription": "B2C app that helps people implement knowledge from books, not just read summaries.",
         "revenue": "6-figure yearly revenue, \u20ac550k investment",
         "fullStory": "Mentorist is my flagship B2C product. It reached 6-figure yearly revenue and raised \u20ac550k in investment.\n\nThe idea came from my frustration with book-summary apps. I built Mentorist to help people implement knowledge, not just read it. I worked on it solo for years, then raised funding and built a team.\n\nThe current version is rebuilt 100% by me\u2014frontend, backend, UX/UI, visuals, and content\u2014using AI tools extensively."
       },
       "iqelite": {
         "title": "IQElite",
-        "shortDescription": "8M registered users, profitable for 8 years.",
+        "shortDescription": "Dating service built on psychometric tests and personality matching.",
         "revenue": "8M registered users, profitable for 8 years",
         "fullStory": "I joined IQElite in Barcelona as a co-founder and CTO, focused on technology. After 1.5 years, I became CEO and took control of the company.\n\nWe had a 5-person team and were losing money. Within three months of me taking over, we broke even and stayed profitable for the next six years.\n\nIQElite was a dating service built on psychometric tests (IQ, personality, EQ, love compatibility). We reached 8 million registered users. The platform later declined as Tinder and Bumble reshaped the market."
       },
       "neurony": {
         "title": "Neurony Szalej\u0105",
-        "shortDescription": "Performance marketing and conversion work that led to 6-figure yearly revenue.",
+        "shortDescription": "Brand selling products for mothers of small children; I improved its online sales.",
         "revenue": "6-figure yearly revenue",
         "fullStory": "Neurony Szalej\u0105 is a brand selling products for mothers of small children. In 2024, the business relied mostly on organic outreach.\n\nI helped with performance marketing: creative guidance, Facebook Ads management, and later custom landing pages in React to improve conversion. We ran rapid A/B tests and optimized the funnel step by step.\n\nThe brand reached 6-figure yearly revenue and is expanding into other countries."
       },
       "hackyeah": {
         "title": "1st Place - HackYeah 2025",
-        "shortDescription": "Built a retirement simulation game in 24 hours; 1st place at HackYeah 2025.",
+        "shortDescription": "Built a retirement simulation game in 24 hours; won 1st place.",
         "revenue": "",
         "fullStory": "I joined HackYeah 2025 in Krakow without a team. I met two people on-site, and we formed a three-person team.\n\nWe chose the \"live run\" category and built a retirement simulation game in 24 hours. The project won 1st place.\n\nI used AI tools heavily to manage the workload and we produced around 14,000 lines of code during the hackathon."
       }
@@ -144,9 +144,9 @@
     }
   },
   "cta": {
-    "title": "Need a Fractional CTO or Co-Founder?",
-    "subtitle": "If you need part-time senior execution across product, tech, and growth, let's talk about how I can help.",
-    "button": "Speak With an Expert"
+    "title": "Growth feels slower than it should? Let's find the bottleneck.",
+    "subtitle": "You have a product or an idea, but it doesn’t feel good enough—marketing underperforms and technical issues creep in. I’ve been through this cycle many times: I’ll help you launch a product users love that makes money, then optimize it for profit.",
+    "button": "Book a Growth Diagnosis"
   },
   "contact": {
     "title": "Let's Talk About Your Goals",
