@@ -1,6 +1,7 @@
-// Writes dist/<route>/index.html for each subpage with its own title, description and
+// Writes dist/<route>.html for each subpage with its own title, description and
 // canonical URL, so link previews and crawlers see the right page before JS runs.
-// Cloudflare Pages serves these files ahead of the SPA fallback in public/_redirects.
+// Cloudflare Pages serves dist/podcast.html at /podcast (a folder with index.html would
+// force a redirect to /podcast/ instead).
 import fs from "node:fs";
 import path from "node:path";
 
@@ -53,8 +54,6 @@ for (const route of routes) {
     .replace(/(<meta property="og:description" content=")[^"]*/, `$1${description}`)
     .replace(/(<meta name="twitter:description" content=")[^"]*/, `$1${description}`);
 
-  const dir = path.join(DIST, route.path);
-  fs.mkdirSync(dir, { recursive: true });
-  fs.writeFileSync(path.join(dir, "index.html"), html);
+  fs.writeFileSync(path.join(DIST, `${route.path.slice(1)}.html`), html);
   console.log(`route page: ${route.path}`);
 }
