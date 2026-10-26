@@ -32,11 +32,13 @@ export const LISTENERS_PATHS: Record<Lang, string> = {
   es: "/oyentes",
 };
 
-export const PORTRAITS = [
-  { web: "/images/portraits/greg-swierad-1.webp", download: "/media/greg-swierad-1.jpg" },
-  { web: "/images/portraits/greg-swierad-2.webp", download: "/media/greg-swierad-2.jpg" },
-  { web: "/images/portraits/greg-swierad-3.webp", download: "/media/greg-swierad-3.jpg" },
-];
+export const HERO_PORTRAIT = "/images/portraits/greg-swierad-1.webp";
+
+/** Photos offered to podcast hosts on /podcast. */
+export const SPEAKING_PHOTOS = [
+  { id: "speaking", web: "/images/gregspeaking.webp", download: "/images/gregspeaking.webp" },
+  { id: "ags", web: "/images/ags-barcelona-2024.webp", download: "/media/greg-swierad-ags-barcelona-2024.jpg" },
+] as const;
 
 export type ProjectId =
   | "mentorist"

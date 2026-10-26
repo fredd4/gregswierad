@@ -4,7 +4,7 @@ import { useTranslation } from "react-i18next";
 import ContactForm from "@/app/components/ContactForm";
 import SiteLayout, { useLang } from "@/app/components/SiteLayout";
 import { AppearanceList, TopicGrid } from "@/app/components/Sections";
-import { LANGS, LISTENERS_PATHS, PORTRAITS, type Lang } from "@/content/site";
+import { LANGS, LISTENERS_PATHS, SPEAKING_PHOTOS, type Lang } from "@/content/site";
 import { track } from "@/lib/analytics/posthog";
 
 function CopyButton({ text, onCopied }: { text: string; onCopied?: () => void }) {
@@ -51,10 +51,7 @@ export default function PodcastPage() {
     text: t(`podcast.bio.${variant}`, { lng: activeBioLang }),
   }));
 
-  const photos = [
-    ...PORTRAITS.map((portrait, index) => ({ ...portrait, label: `${t("common.portraitAlt")} ${index + 1}` })),
-    { web: "/images/gregspeaking.webp", download: "/images/gregspeaking.webp", label: t("podcast.photos.speaking") },
-  ];
+  const photos = SPEAKING_PHOTOS.map((photo) => ({ ...photo, label: t(`podcast.photos.${photo.id}`) }));
 
   return (
     <SiteLayout title={t("podcast.title")}>
@@ -121,17 +118,18 @@ export default function PodcastPage() {
       <section id="photos" className="scroll-mt-24 max-w-6xl mx-auto px-4 sm:px-6 py-10">
         <h2 className="text-3xl font-bold mb-2">{t("podcast.photos.title")}</h2>
         <p className="text-foreground/60 mb-6">{t("podcast.photos.note")}</p>
-        <div className="grid grid-cols-2 lg:grid-cols-4 gap-4">
-          {photos.map((photo, index) => (
+        <div className="grid sm:grid-cols-2 gap-4 max-w-4xl">
+          {photos.map((photo) => (
             <figure key={photo.web} className="bg-white rounded-3xl overflow-hidden shadow-sm border border-foreground/5">
-              <div className="aspect-[4/5] bg-black">
+              <div className="aspect-[4/3] bg-black">
                 <img src={photo.web} alt={photo.label} loading="lazy" className="w-full h-full object-cover object-top" />
               </div>
-              <figcaption className="p-3">
+              <figcaption className="p-4 flex items-center justify-between gap-3">
+                <span className="text-sm text-foreground/70">{photo.label}</span>
                 <a
                   href={photo.download}
                   download
-                  onClick={() => track("photo_downloaded", { photo: index + 1 })}
+                  onClick={() => track("photo_downloaded", { photo: photo.id })}
                   className="inline-flex items-center gap-1 text-sm font-medium text-teal-700 hover:underline"
                 >
                   <Download className="h-4 w-4" />

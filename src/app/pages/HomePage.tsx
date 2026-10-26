@@ -4,7 +4,7 @@ import { Button } from "@/app/components/ui/button";
 import ContactForm from "@/app/components/ContactForm";
 import SiteLayout, { primaryButtonClass, useLang } from "@/app/components/SiteLayout";
 import { AppearanceList, TopicGrid } from "@/app/components/Sections";
-import { PORTRAITS, PROJECTS, SUBIDA_URLS } from "@/content/site";
+import { HERO_PORTRAIT, PROJECTS, SUBIDA_URLS } from "@/content/site";
 
 export default function HomePage() {
   const { t } = useTranslation();
@@ -36,7 +36,7 @@ export default function HomePage() {
             </div>
           </div>
           <div className="rounded-3xl overflow-hidden shadow-xl bg-black aspect-[4/5] max-w-sm mx-auto md:max-w-none w-full">
-            <img src={PORTRAITS[0].web} alt={t("common.portraitAlt")} className="w-full h-full object-cover object-top" />
+            <img src={HERO_PORTRAIT} alt={t("common.portraitAlt")} className="w-full h-full object-cover object-top" />
           </div>
         </div>
       </section>
