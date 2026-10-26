@@ -4,7 +4,7 @@ import { Button } from "@/app/components/ui/button";
 import ContactForm from "@/app/components/ContactForm";
 import SiteLayout, { primaryButtonClass, useLang } from "@/app/components/SiteLayout";
 import { AppearanceList, TopicGrid } from "@/app/components/Sections";
-import { HERO_PORTRAIT, PROJECTS, SUBIDA_URLS } from "@/content/site";
+import { ABOUT_PHOTO, HERO_PHOTO, PROJECTS, SUBIDA_URLS } from "@/content/site";
 
 export default function HomePage() {
   const { t } = useTranslation();
@@ -35,8 +35,8 @@ export default function HomePage() {
               </p>
             </div>
           </div>
-          <div className="rounded-3xl overflow-hidden shadow-xl bg-black aspect-[4/5] max-w-sm mx-auto md:max-w-none w-full">
-            <img src={HERO_PORTRAIT} alt={t("common.portraitAlt")} className="w-full h-full object-cover object-top" />
+          <div className="rounded-3xl overflow-hidden shadow-xl bg-black aspect-square max-w-sm mx-auto md:max-w-none w-full">
+            <img src={HERO_PHOTO} alt={t("common.speakingAlt")} className="w-full h-full object-cover object-top" />
           </div>
         </div>
       </section>
@@ -53,7 +53,7 @@ export default function HomePage() {
             </div>
           </div>
           <div className="rounded-3xl overflow-hidden shadow-lg md:mt-16">
-            <img src="/images/gregspeaking.webp" alt={t("common.speakingAlt")} className="w-full h-full object-cover" />
+            <img src={ABOUT_PHOTO} alt={t("podcast.photos.ags")} loading="lazy" className="w-full h-full object-cover" />
           </div>
         </div>
       </section>

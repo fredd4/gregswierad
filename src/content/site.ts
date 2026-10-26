@@ -32,7 +32,8 @@ export const LISTENERS_PATHS: Record<Lang, string> = {
   es: "/oyentes",
 };
 
-export const HERO_PORTRAIT = "/images/portraits/greg-swierad-1.webp";
+export const HERO_PHOTO = "/images/gregspeaking.webp";
+export const ABOUT_PHOTO = "/images/ags-barcelona-2024.webp";
 
 /** Photos offered to podcast hosts on /podcast. */
 export const SPEAKING_PHOTOS = [
