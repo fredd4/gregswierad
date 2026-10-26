@@ -25,7 +25,9 @@ i18n
       escapeValue: false,
     },
     detection: {
-      order: ["localStorage", "navigator"],
+      // ?lang=en lets a pitch link open the site in the host's language.
+      order: ["querystring", "localStorage", "navigator"],
+      lookupQuerystring: "lang",
       caches: ["localStorage"],
     },
     returnNull: false,

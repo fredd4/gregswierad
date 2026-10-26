@@ -1,203 +1,281 @@
 {
   "common": {
     "brandName": "Greg Swierad",
-    "logoAlt": "Logo Grega Swierada",
-    "profileAlt": "Greg Swierad",
-    "speakingAlt": "Greg Swierad na scenie podczas konferencji",
-    "language": "Język"
+    "logoAlt": "Logo Greg Swierad",
+    "portraitAlt": "Grzegorz (Greg) Świerad",
+    "speakingAlt": "Greg Swierad podczas wystąpienia na konferencji",
+    "language": "Język",
+    "copy": "Kopiuj",
+    "copied": "Skopiowano"
   },
   "nav": {
-    "bookCall": "Umów rozmowę",
-    "backHome": "Wróć na stronę główną"
+    "about": "O mnie",
+    "topics": "Tematy",
+    "projects": "Projekty",
+    "podcast": "Dla podcastów",
+    "invite": "Zaproś do podcastu",
+    "home": "Strona główna"
   },
   "hero": {
-    "title": {
-      "before": "Buduj",
-      "highlight": "rentowne",
-      "after": "produkty szybciej"
-    },
-    "subtitle": "Pomagam weryfikować pomysły, szybko dostarczać produkt i skalować pozyskanie klientów dzięki pracy hands-on przy produkcie i skalowaniu. CTO/CEO na część etatu lub cofounder dla startupów i MŚP.",
-    "cta": "Umów się na rozmowę"
+    "eyebrow": "Founder Subida AI · twórca Mentorista",
+    "title": "Buduję aplikacje mobilne i to, jak rosną",
+    "subtitle": "Za mną Mentorist (ponad 500 tys. użytkowników) i IQElite (8 mln zarejestrowanych kont). Dziś prowadzę Subida AI i na co dzień pracuję z agentami AI. Opowiadam o tym, co naprawdę działa we wzroście aplikacji: z liczbami i bez lukru.",
+    "ctaPrimary": "Zaproś mnie do podcastu",
+    "ctaSecondaryLead": "Szukasz zespołu do aplikacji?",
+    "ctaSecondary": "Subida AI"
   },
   "about": {
-    "title": "Co zyskujesz, pracując ze mną",
+    "title": "O mnie",
     "paragraphs": [
-      "Seniorowe wsparcie na część etatu, łączące strategię z realnym deliverym. Pozyskałem 550 tys. euro, budowałem zespoły, skalowałem produkty do 8 mln użytkowników i doprowadziłem kilka biznesów do rocznych przychodów rzędu sześciu cyfr.",
-      "Mogę objąć cały lejek: strategię produktu, UX/UI, inżynierię i user acquisition. Dostajesz jedną osobę, która zbuduje tech stack i zadba o konwersję, wykorzystując AI do przyspieszenia dostaw.",
-      "Najlepsze dopasowanie: startupy B2C i małe oraz średnie firmy, które potrzebują lidera na część etatu. Wchodzę w projekt i pcham biznes do przodu."
+      "Od lat robię właściwie jedno: buduję produkty cyfrowe i szukam sposobu, żeby ludzie naprawdę chcieli z nich korzystać. Kod, design i reklama to dla mnie jedna robota, a nie trzy działy.",
+      "IQElite w Barcelonie, platforma dopasowań oparta na testach psychometrycznych: najpierw rola CTO w zespole założycielskim, po półtora roku stanowisko CEO. Firma traciła pieniądze; w 90 dni wyszła na break-even i była rentowna przez kolejne 8 lat. Platforma dotarła do 8 mln zarejestrowanych użytkowników.",
+      "Potem Mentorist, aplikacja, która pomaga wdrażać wiedzę z książek. Runda 550 tys. €, ponad 500 tys. użytkowników i ponad 500 testów A/B. Z tych testów wiem najwięcej o tym, co ludzie robią w aplikacji, a co tylko deklarują.",
+      "Dziś prowadzę Subida AI, studio, które buduje aplikacje mobilne, projektuje je i zajmuje się ich marketingiem. Agenci AI piszą ze mną kod, kreacje reklamowe i landing page'e, więc mała ekipa robi to, co kiedyś wymagało całego działu.",
+      "Ta strona jest o mnie, nie o ofercie. Jeśli szukasz zespołu do swojej aplikacji, zajrzyj na subida.ai."
     ]
   },
-  "work": {
-    "title": "Jak pracuję",
-    "paragraphs": [
-      "Jasna komunikacja, szybkie wykonanie i mierzalne efekty. To standard, który wnoszę do każdego projektu.",
-      "Swobodnie prowadzę zespoły i wyrównuję oczekiwania stakeholderów. Utrzymuję komunikację prostą i praktyczną, nawet gdy technologia jest złożona.",
-      "Organizowałem spotkania mastermind dla founderów w Krakowie, gdzie operatorzy rozwiązywali realne problemy. To wzmocniło moje nastawienie na wykonanie, a nie teorię.",
-      "Wystąpienia publiczne są częścią mojego doświadczenia (Toastmasters, App Growth Summit w Londynie z ponad 300 uczestnikami itd.), ale prawdziwy cel to dowożenie wyników dla Twojego biznesu."
+  "topics": {
+    "title": "O czym mogę opowiedzieć",
+    "subtitle": "Sześć tematów, w których mam własne liczby i własne błędy. Chętnie dopasuję rozmowę do Twoich słuchaczy.",
+    "more": "Pełne opisy i materiały dla gospodarzy →",
+    "items": [
+      {
+        "title": "Ponad 500 testów A/B: czego uczą o aplikacjach",
+        "hook": "Co realnie zmienia konwersję i retencję, a co jest kosmetyką.",
+        "points": [
+          "Które testy w Mentoriście przesunęły wyniki, a które nic nie dały",
+          "Jak ustawić kolejkę testów, gdy ruch i budżet są małe",
+          "Gdzie testować najpierw: onboarding, paywall czy funkcje"
+        ]
+      },
+      {
+        "title": "Od zera do ponad 500 tys. użytkowników: historia Mentorista",
+        "hook": "Budowa aplikacji subskrypcyjnej od pomysłu do skali.",
+        "points": [
+          "Runda 550 tys. € i to, co dzieje się po podpisaniu",
+          "Facebook Ads jako główny kanał wzrostu",
+          "Błędy, które kosztowały najwięcej"
+        ]
+      },
+      {
+        "title": "Jedna osoba z agentami AI zamiast działu",
+        "hook": "Jak dziś wygląda budowa produktu w bardzo małym składzie.",
+        "points": [
+          "Dzień pracy z agentami: kod, kreacje, landing page'e",
+          "English Series: aplikacja zbudowana end-to-end",
+          "Gdzie AI zawodzi i trzeba wszystko sprawdzać ręcznie"
+        ]
+      },
+      {
+        "title": "Turnaround: z CTO na CEO i break-even w 90 dni",
+        "hook": "Co robić, gdy firma traci pieniądze, a czasu jest mało.",
+        "points": [
+          "Co ciąć, a co zostawić w pięcioosobowym zespole",
+          "IQElite: 8 mln zarejestrowanych użytkowników i 8 lat rentowności",
+          "Przejście z technologii do zarządzania całą firmą"
+        ]
+      },
+      {
+        "title": "Reklama, która się spłaca",
+        "hook": "Ponad 700 tys. € wydanych na Mecie, w dużej części z własnych pieniędzy.",
+        "points": [
+          "Jak czytać koszt pozyskania i zwrot w modelu subskrypcyjnym",
+          "Kreacje jako główna dźwignia kampanii",
+          "Przedsprzedaż jako test rynku: 500 egzemplarzy Silnego Dziecka"
+        ]
+      },
+      {
+        "title": "Product design i marketing to jedna decyzja",
+        "hook": "Obietnica z reklamy musi zgadzać się z pierwszym ekranem aplikacji.",
+        "points": [
+          "Lighthouse: design produktu, marketing i wzrost w jednym zespole",
+          "Jak spójny przekaz obniża koszt pozyskania",
+          "Czego mały rynek uczy o oszczędnym wzroście"
+        ]
+      }
     ]
   },
-  "achievements": {
-    "title": "Moje 4 największe osiągnięcia",
-    "subtitle": "Dostarczam wyniki, nie tylko o nich mówię.",
-    "readStory": "Przeczytaj całą historię →",
-    "visit": "Odwiedź",
-    "visitWebsite": "Odwiedź stronę",
+  "appearances": {
+    "title": "Występy",
+    "empty": "Pierwsze rozmowy są w drodze.",
+    "emptyCta": "Prowadzisz podcast? Tematy i materiały są tutaj →",
+    "listen": "Posłuchaj"
+  },
+  "projects": {
+    "title": "Projekty",
+    "subtitle": "Produkty, które nauczyły mnie najwięcej.",
+    "visit": "Zobacz",
+    "allCases": "Pełne case studies na subida.ai →",
     "items": {
       "mentorist": {
-        "title": "Mentorist",
-        "shortDescription": "B2C aplikacja do wdrażania wiedzy z książek, a nie tylko ich podsumowań.",
-        "revenue": "Roczny przychód rzędu sześciu cyfr, inwestycja 550 tys. euro",
-        "fullStory": "Mentorist to mój flagowy produkt B2C. Osiągnął roczny przychód rzędu sześciu cyfr i pozyskał 550 tys. euro inwestycji.\n\nPomysł powstał z mojej frustracji wobec aplikacji z podsumowaniami książek. Zbudowałem Mentorist, aby pomagać ludziom wdrażać wiedzę, a nie tylko ją czytać. Przez lata pracowałem nad nim sam, a potem pozyskałem finansowanie i zbudowałem zespół.\n\nObecna wersja została w 100% przebudowana przeze mnie — frontend, backend, UX/UI, grafiki i treści — z intensywnym wykorzystaniem narzędzi AI."
+        "name": "Mentorist",
+        "stat": "Ponad 500 tys. użytkowników · ponad 500 testów A/B · runda 550 tys. €",
+        "body": "Aplikacja, która pomaga wdrażać wiedzę z książek, a nie tylko je streszcza. Najważniejsza szkoła wzrostu: prawie każdy ekran był kiedyś testem."
       },
       "iqelite": {
-        "title": "IQElite",
-        "shortDescription": "Serwis randkowy oparty o testy psychometryczne i dopasowanie osobowości.",
-        "revenue": "8 mln zarejestrowanych użytkowników, rentowność przez 8 lat",
-        "fullStory": "Dołączyłem do IQElite w Barcelonie jako cofounder i CTO, odpowiadając za technologię. Po 1,5 roku zostałem CEO i przejąłem stery firmy.\n\nMieliśmy 5-osobowy zespół i traciliśmy pieniądze. W ciągu trzech miesięcy od przejęcia przeze mnie firmy wyszliśmy na zero i pozostaliśmy rentowni przez kolejne sześć lat.\n\nIQElite było serwisem randkowym opartym o testy psychometryczne (IQ, osobowość, EQ, kompatybilność w miłości). Osiągnęliśmy 8 milionów zarejestrowanych użytkowników. Platforma później podupadła, gdy Tinder i Bumble przedefiniowały rynek."
+        "name": "IQElite",
+        "stat": "8 mln zarejestrowanych użytkowników · break-even w 90 dni · 8 lat rentowności",
+        "body": "Platforma dopasowań oparta na testach IQ, osobowości i kompatybilności. Rola CTO, a potem CEO w pięcioosobowym zespole, który musiał zacząć zarabiać."
+      },
+      "englishSeries": {
+        "name": "English Series",
+        "stat": "Produkt end-to-end",
+        "body": "Aplikacja iOS do nauki angielskiego z seriali i filmów. Od koncepcji i designu po kod i marketing."
+      },
+      "lighthouse": {
+        "name": "Lighthouse",
+        "stat": "Design · marketing · wzrost",
+        "body": "Life tracker z subskrypcją Lighthouse PLUS. Projekt produktu oraz prowadzenie marketingu i wzrostu."
+      },
+      "silneDziecko": {
+        "name": "Silne Dziecko",
+        "stat": "500 egzemplarzy w przedsprzedaży",
+        "body": "Przedsprzedaż jako test rynku, zanim produkt powstał w całości. Strona sprzedażowa i kampanie."
       },
       "neurony": {
-        "title": "Neurony Szaleją",
-        "shortDescription": "Marka produktów dla mam małych dzieci, dla której zwiększałem sprzedaż online.",
-        "revenue": "Roczny przychód rzędu sześciu cyfr",
-        "fullStory": "Neurony Szaleją to marka sprzedająca produkty dla mam małych dzieci. W 2024 roku biznes opierał się głównie na organicznym dotarciu.\n\nPomogłem w performance marketingu: kierunek kreatywny, zarządzanie reklamami na Facebooku oraz później dedykowane landing pages w React, aby poprawić konwersję. Prowadziliśmy szybkie testy A/B i optymalizowaliśmy lejek krok po kroku.\n\nMarka osiągnęła roczny przychód rzędu sześciu cyfr i rozwija się na kolejne kraje."
+        "name": "Neurony Szaleją",
+        "stat": "Sześciocyfrowy roczny przychód",
+        "body": "Marka produktów dla mam małych dzieci, wyskalowana na płatnym ruchu i własnych landing page'ach."
       },
       "hackyeah": {
-        "title": "1. miejsce – HackYeah 2025",
-        "shortDescription": "Zbudowaliśmy grę symulującą emeryturę w 24 godziny; zajęliśmy 1. miejsce.",
-        "revenue": "",
-        "fullStory": "Dołączyłem do HackYeah 2025 w Krakowie bez zespołu. Na miejscu poznałem dwie osoby i stworzyliśmy trzyosobowy zespół.\n\nWybraliśmy kategorię \"live run\" i zbudowaliśmy grę symulującą emeryturę w 24 godziny. Projekt zdobył 1. miejsce.\n\nIntensywnie używałem narzędzi AI do zarządzania pracą i wytworzyliśmy około 14 000 linii kodu podczas hackathonu."
+        "name": "HackYeah 2025",
+        "stat": "1. miejsce",
+        "body": "Działający produkt w 24 godziny, w zespole poznanym na miejscu, z pomocą narzędzi AI."
       }
     }
-  },
-  "expertise": {
-    "title": "Kluczowe kompetencje",
-    "subtitle": "Dostarczam kompletne produkty, a nie fragmenty. To oznacza strategię, architekturę i wykonanie dopasowane do celów biznesowych.",
-    "readMore": "Czytaj więcej →",
-    "items": {
-      "performanceMarketing": {
-        "title": "Performance marketing",
-        "shortDescription": "Ponad 700 tys. euro wydane na reklamy, kreacje nastawione na konwersję i skalowalne systemy kampanii.",
-        "details": {
-          "intro": "W trakcie kariery zarządzałem ponad 700 000 euro wydatków reklamowych w Meta. To daje głęboką wiedzę o tym, co naprawdę napędza dochodowe pozyskiwanie użytkowników.",
-          "whatYouGetTitle": "Co zyskujesz:",
-          "whatYouGetItems": [
-            "Rentowne struktury kampanii i sprawdzone ramy skalowania",
-            "Strategię kreatywną, która poprawia CTR i współczynnik konwersji",
-            "Zarządzanie kontem, które równoważy wzrost i zrównoważony CAC",
-            "Własne narzędzia do śledzenia kreacji konkurencji i nowych trendów"
-          ],
-          "closing": "Pracuję z founderami, którzy potrzebują praktycznego wsparcia, aby zamienić budżet reklamowy w powtarzalny przychód, a nie tylko vanity metrics."
-        }
-      },
-      "fullStack": {
-        "title": "Rozwój full-stack",
-        "shortDescription": "Kompleksowe delivery produktu: React Native, Firebase, Django/Python.",
-        "details": {
-          "intro": "Dostarczam kompletne produkty, a nie fragmenty. To oznacza strategię, architekturę i wykonanie dopasowane do celów biznesowych.",
-          "typicalStackTitle": "Typowy stack:",
-          "typicalStackFrontend": "Frontend: React, React Native dla aplikacji mobilnych",
-          "typicalStackBackend": "Backend: Firebase, Django/Python",
-          "typicalStackInfrastructure": "Infrastruktura: produkcyjne deploymenty, skalowanie i monitoring",
-          "whatThisMeansTitle": "Co to oznacza dla Ciebie:",
-          "whatThisMeansBody": "Mogę dostarczyć MVP, ustabilizować stack lub wejść jako CTO na część etatu i poprowadzić delivery, gdy Ty skupiasz się na sprzedaży i dystrybucji.",
-          "closing": "Dostajesz seniorowe wykonanie bez kosztów pełnego zespołu."
-        }
-      },
-      "productUx": {
-        "title": "Projektowanie produktu i UX/UI",
-        "shortDescription": "UX/UI, które konwertuje: klarowność, psychologia i mierzalne wyniki.",
-        "details": {
-          "intro": "Świetne produkty są proste do zrozumienia i trudne do zignorowania. Projektuję z myślą o klarowności, konwersji i retencji.",
-          "approachTitle": "Podejście:",
-          "approachItems": [
-            "Projektowanie z myślą o użytkowniku, które priorytetyzuje klarowność i konwersję",
-            "Systemy designu w Figmie od wireframe'ów po high‑fidelity UI",
-            "Szybkie prototypowanie i iteracje na podstawie feedbacku od użytkowników",
-            "Behawioralny UX, który usuwa tarcie i prowadzi do działania"
-          ],
-          "examplesTitle": "Przykłady:",
-          "examplesItems": [
-            "Mentorist UX/UI zrobione end‑to‑end",
-            "System designu EnglishSeries zbudowany od zera",
-            "Zwycięski projekt HackYeah: UX był kluczowym wyróżnikiem"
-          ],
-          "closing": "Projektuję tak, aby ruszać metryki, a nie tylko piksele."
-        }
-      },
-      "aiTools": {
-        "title": "Rozwój wspierany przez AI",
-        "shortDescription": "Dostawa z pomocą AI, która skraca cykle budowy 5–10x.",
-        "details": {
-          "intro": "AI to dźwignia, gdy idzie w parze z dojrzałym osądem produktowym. Używam go, aby dostarczać szybciej bez obniżania jakości.",
-          "proofTitle": "Dowód:",
-          "proofItems": [
-            "14 000 linii kodu w 24 godziny na HackYeah (1. miejsce)",
-            "Przebudowa całej aplikacji Mentorist solo z pomocą AI",
-            "Dostarczanie landing pages, systemów backendowych i UX szybciej niż typowe zespoły"
-          ],
-          "howItHelpsTitle": "Jak to pomaga:",
-          "howItHelpsBody": "Szybsza walidacja, szybsze deploymenty i niższe koszty. Mogę budować i iterować, gdy Ty skupiasz się na klientach i przychodzie.",
-          "idealUseTitle": "Idealne zastosowanie:",
-          "idealUseBody": "Wsparcie CTO na część etatu lub cofoundera dla startupów i MŚP, które potrzebują częściowego, seniorowego wykonania."
-        }
-      }
-    }
-  },
-  "cta": {
-    "title": "Wzrost idzie wolniej niż powinien? Znajdźmy blokadę.",
-    "subtitle": "Masz produkt lub pomysł, ale czujesz, że to jeszcze nie to — marketing nie dowozi, a po drodze wychodzą problemy techniczne. Przeszedłem ten cykl wiele razy: pomogę Ci wypuścić produkt, który działa i zarabia, a następnie go zoptymalizuję.",
-    "button": "Umów diagnozę wzrostu"
   },
   "contact": {
-    "title": "Porozmawiajmy o Twoich celach",
-    "benefitsTitle": "Co zyskujesz",
-    "benefits": {
-      "items": [
-        {
-          "emphasis": "Seniorowe, praktyczne wskazówki",
-          "body": "z obszaru produktu, technologii lub wzrostu — w ciągu 24 godzin."
-        },
-        {
-          "emphasis": "Jasna ścieżka współpracy",
-          "body": "dla lidera na część etatu lub pracy praktycznej."
-        },
-        {
-          "emphasis": "Bez presji sprzedażowej.",
-          "body": "Jeśli nie jestem odpowiednim wyborem, wskażę lepszą opcję."
-        }
-      ]
-    },
-    "formTitle": "Wyślij wiadomość",
-    "success": "Dziękuję za kontakt. Odpowiem w ciągu 24 godzin.",
-    "replyTime": "Odezwę się w ciągu 24 godzin."
+    "title": "Napisz do mnie",
+    "subtitle": "Zaproszenie do podcastu, wywiad, wystąpienie albo po prostu pytanie. Wszystkie wiadomości czytam osobiście.",
+    "success": "Dzięki! Odezwę się w ciągu 24 godzin.",
+    "replyTime": "Odezwę się w ciągu 24 godzin.",
+    "collabHint": "Projekty aplikacji prowadzimy w Subida AI. Najszybciej będzie przez subida.ai."
   },
   "form": {
     "fields": {
-      "firstName": "Imię *",
-      "lastName": "Nazwisko *",
+      "name": "Imię i nazwisko *",
       "email": "E-mail *",
-      "organization": "Nazwa organizacji",
-      "role": "Twoja rola",
-      "message": "Twoja wiadomość *"
+      "topic": "W jakiej sprawie *",
+      "show": "Nazwa podcastu lub redakcji",
+      "message": "Wiadomość *"
     },
     "placeholders": {
-      "firstName": "Jan",
-      "lastName": "Kowalski",
-      "email": "jan@firma.com",
-      "organization": "Nazwa firmy",
-      "role": "CEO, founder, CTO itd.",
-      "message": "Opowiedz o projekcie lub o tym, jak mogę pomóc..."
+      "name": "Jan Kowalski",
+      "email": "jan@podcast.pl",
+      "show": "np. Mój Podcast",
+      "message": "Kilka słów o podcaście, słuchaczach i temacie, który Cię interesuje."
+    },
+    "topics": {
+      "podcast": "Zaproszenie do podcastu",
+      "media": "Wywiad / media",
+      "speaking": "Wystąpienie",
+      "collab": "Współpraca przy aplikacji",
+      "other": "Inne"
     },
     "submit": "Wyślij wiadomość",
-    "sending": "Wysyłam...",
+    "sending": "Wysyłanie...",
     "errors": {
       "notConfigured": "Formularz nie jest jeszcze skonfigurowany. Spróbuj ponownie później.",
       "generic": "Coś poszło nie tak. Spróbuj ponownie.",
       "network": "Błąd sieci. Spróbuj ponownie."
     }
   },
+  "podcast": {
+    "eyebrow": "Media kit",
+    "title": "Materiały dla gospodarzy podcastów",
+    "intro": "Wszystko, czego potrzebujesz, żeby przygotować odcinek: bio do skopiowania, zdjęcia, tematy, przykładowe pytania i prezent dla słuchaczy.",
+    "facts": {
+      "title": "W skrócie",
+      "items": [
+        "Founder Subida AI, studia aplikacji mobilnych",
+        "Mentorist: ponad 500 tys. użytkowników, ponad 500 testów A/B, runda 550 tys. €",
+        "IQElite: CTO, potem CEO; 8 mln zarejestrowanych użytkowników, break-even w 90 dni",
+        "Ponad 700 tys. € wydanych na reklamy na Mecie",
+        "English Series (produkt end-to-end), Lighthouse (design, marketing, wzrost)",
+        "Silne Dziecko: 500 egzemplarzy w przedsprzedaży",
+        "1. miejsce na HackYeah 2025"
+      ]
+    },
+    "bio": {
+      "title": "Bio",
+      "langNote": "Wybierz język bio. Tekst jest w trzeciej osobie, gotowy do wklejenia w opis odcinka.",
+      "shortLabel": "Krótkie (ok. 50 słów)",
+      "longLabel": "Długie (ok. 150 słów)",
+      "short": "Grzegorz (Greg) Świerad — founder Subida AI, studia aplikacji mobilnych, oraz aplikacji Mentorist (ponad 500 tys. użytkowników, ponad 500 testów A/B, runda 550 tys. €). Wcześniej CTO, a następnie CEO platformy IQElite (8 mln zarejestrowanych użytkowników), która w 90 dni wyszła na break-even. Dziś buduje produkty z agentami AI i opowiada o tym, co naprawdę działa we wzroście aplikacji.",
+      "long": "Grzegorz (Greg) Świerad — founder Subida AI, studia, które buduje aplikacje mobilne, projektuje je i prowadzi ich marketing.\n\nW IQElite w Barcelonie, platformie dopasowań opartej na testach psychometrycznych, najpierw CTO w zespole założycielskim, a po półtora roku CEO. W 90 dni od tej zmiany firma wyszła na break-even i pozostała rentowna przez 8 lat; platforma dotarła do 8 mln zarejestrowanych użytkowników.\n\nPotem Mentorist, aplikacja do wdrażania wiedzy z książek: runda 550 tys. €, ponad 500 tys. użytkowników i ponad 500 testów A/B. Na koncie także ponad 700 tys. € wydanych na reklamy na Mecie, przedsprzedaż 500 egzemplarzy Silnego Dziecka i kampanie, dzięki którym marka Neurony Szaleją osiągnęła sześciocyfrowy roczny przychód.\n\nW Subida AI prowadzi projekty takie jak English Series (aplikacja zbudowana end-to-end) i Lighthouse (product design, marketing i wzrost). Na co dzień pracuje z agentami AI; z ich pomocą zespół wygrał HackYeah 2025."
+    },
+    "photos": {
+      "title": "Zdjęcia",
+      "note": "Możesz ich używać w opisie odcinka, miniaturach i w social mediach.",
+      "download": "Pobierz JPG",
+      "speaking": "Na scenie"
+    },
+    "topicsTitle": "Tematy",
+    "questions": {
+      "title": "Przykładowe pytania",
+      "items": [
+        "Jak IQElite wyszło na break-even w 90 dni i co trzeba było wtedy uciąć?",
+        "Czego nauczyło ponad 500 testów A/B w Mentoriście?",
+        "Ile naprawdę kosztuje zdobycie użytkownika aplikacji subskrypcyjnej?",
+        "Jak wygląda praca z agentami AI na co dzień: co robią dobrze, a gdzie zawodzą?",
+        "Czy mała ekipa z AI może dziś konkurować z dużym studiem?",
+        "Jak sprawdzić, czy rynek chce produktu, zanim produkt powstanie?",
+        "Jakie błędy przy budowie Mentorista kosztowały najwięcej?",
+        "Co poradzić komuś, kto dziś zaczyna budować aplikację mobilną?"
+      ]
+    },
+    "practical": {
+      "title": "Praktycznie",
+      "items": [
+        { "label": "Języki", "value": "polski, angielski" },
+        { "label": "Format", "value": "nagrania zdalne na platformie gospodarza (Riverside, Zoom, StreamYard i inne)" },
+        { "label": "Długość", "value": "od krótkiej rozmowy po długi wywiad" },
+        { "label": "Odpowiedź", "value": "w ciągu 24 godzin" }
+      ]
+    },
+    "gift": {
+      "title": "Prezent dla Twoich słuchaczy",
+      "body": "Miesiąc Naralingo za darmo i subskrypcja Mentorista w prezencie. Wystarczy podać w odcinku adres:",
+      "linkNote": "Wersja angielska: gregswierad.com/listeners · hiszpańska: gregswierad.com/oyentes"
+    },
+    "appearancesTitle": "Dotychczasowe występy",
+    "contactTitle": "Zaproś mnie",
+    "contactBody": "Napisz kilka słów o podcaście i słuchaczach. Zaproponuję temat, który będzie dla nich najciekawszy."
+  },
+  "listeners": {
+    "eyebrow": "Prezent z podcastu",
+    "title": "Dzięki, że słuchasz!",
+    "intro": "Dla słuchaczy rozmów, w których biorę udział, mam dwa prezenty. Wybierz jeden albo oba.",
+    "offers": {
+      "naralingo": {
+        "title": "Naralingo: miesiąc za darmo",
+        "body": "Opisujesz sytuację z życia, a Naralingo zamienia ją w spersonalizowaną lekcję językową audio. Naciskasz play i słuchasz w drodze, na siłowni, gdziekolwiek."
+      },
+      "mentorist": {
+        "title": "Mentorist: subskrypcja w prezencie",
+        "body": "Twój osobisty mentor: codziennie jeden mały, wykonalny krok oparty na najlepszych książkach. Aplikacja działa po polsku i po angielsku."
+      }
+    },
+    "visit": "Zobacz aplikację",
+    "formTitle": "Odbierz prezent",
+    "fields": {
+      "email": "E-mail *",
+      "apps": "Co chcesz dostać *",
+      "show": "Z jakiego podcastu przychodzisz?"
+    },
+    "placeholders": {
+      "email": "twoj@email.pl",
+      "show": "Nazwa podcastu"
+    },
+    "submit": "Wyślij mi kody",
+    "pickOne": "Zaznacz przynajmniej jedną aplikację.",
+    "success": "Gotowe! Kody dostępu przyjdą na podany e-mail.",
+    "note": "Kody wysyłam ręcznie, zwykle w ciągu 1–2 dni. Twojego adresu nie przekażę nikomu i nie zapiszę Cię na newsletter.",
+    "aboutLink": "Kim jestem? →"
+  },
   "footer": {
-    "rights": "© 2026 Greg Swierad. Wszelkie prawa zastrzeżone.",
-    "domain": "gregswierad.com"
+    "rights": "© 2026 Greg Swierad",
+    "studio": "Studio aplikacji mobilnych: Subida AI",
+    "linkedin": "LinkedIn"
   }
 }
