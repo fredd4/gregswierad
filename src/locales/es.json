@@ -1,175 +1,175 @@
 {
   "common": {
     "brandName": "Greg Swierad",
-    "logoAlt": "Logotipo de Greg Swierad",
+    "logoAlt": "Logo de Greg Swierad",
     "profileAlt": "Greg Swierad",
-    "speakingAlt": "Greg Swierad en el escenario durante una conferencia",
+    "speakingAlt": "Greg Swierad hablando en una conferencia",
     "language": "Idioma"
   },
   "nav": {
-    "bookCall": "Reserva una llamada",
+    "bookCall": "Agendar una llamada",
     "backHome": "Volver al inicio"
   },
   "hero": {
     "title": {
-      "before": "Construye",
-      "highlight": "rentables",
-      "after": "productos más rápido"
+      "before": "Descubre lo que",
+      "highlight": "realmente ocurre",
+      "after": "con tu tecnología"
     },
-    "subtitle": "Te ayudo a validar ideas, lanzar rápido y escalar user acquisition con ejecución práctica. CTO/CEO fraccional o cofounder para startups y pymes.",
-    "cta": "Reserva una llamada"
+    "subtitle": "Llevo 15 años como CTO y 20 como ingeniero. Entro por semanas, no por trimestres: para decirte qué es cierto sobre tu ingeniería, arreglar lo que se está rompiendo y dejarte un plan que tu consejo pueda leer. Trabajo en horario US Eastern.",
+    "cta": "Agendar una llamada"
   },
   "about": {
-    "title": "Lo que obtienes al trabajar conmigo",
+    "title": "Con quién trabajo",
     "paragraphs": [
-      "Liderazgo senior a tiempo parcial que combina estrategia con ejecución real. He levantado 550 mil euros, construido equipos, escalado productos a 8 millones de usuarios y llevado varios negocios a ingresos anuales de seis cifras.",
-      "Puedo cubrir todo el embudo: estrategia de producto, UX/UI, ingeniería y adquisición. Obtienes a una sola persona que construye el stack tecnológico y cuida la conversión, usando IA para acelerar la entrega.",
-      "Mejor encaje: startups B2C y pequeñas y medianas empresas que necesitan liderazgo fraccional. Puedo entrar a tiempo parcial y hacer avanzar el negocio."
+      "Eres operating partner de un fondo de private equity. La operación se cerró y apareció la realidad técnica: entregas frágiles, riesgo de persona clave, un código sin documentar, brechas de seguridad que nadie sacó a la luz antes de firmar. Necesitas a alguien que te diga cuán grave es en dos semanas, no en dos trimestres, y que haya dirigido equipos de ingeniería en lugar de solo auditarlos.",
+      "Eres fundador y vas a levantar capital en los próximos 6 a 12 meses. Tus inversores harán due diligence técnica sobre ti. Prefieres saber qué van a encontrar antes de que lo encuentren.",
+      "Tienes ingenieros pero nadie es dueño de la tecnología. Entre cinco y quince personas entregando, decisiones que toma quien discute más tiempo y una hoja de ruta que en realidad es un backlog. No necesitas un CTO a tiempo completo por 400.000–600.000 USD al año todo incluido. Lo necesitas uno o dos días por semana."
     ]
   },
   "work": {
-    "title": "Cómo trabajo",
+    "title": "Cómo funciona un encargo",
     "paragraphs": [
-      "Comunicación clara, ejecución rápida y resultados medibles. Ese es el estándar que aporto a cada proyecto.",
-      "Me siento cómodo liderando equipos y alineando expectativas de los stakeholders. Mantengo la comunicación simple y práctica, incluso cuando la tecnología es compleja.",
-      "He organizado encuentros mastermind para founders en Cracovia, donde operadores resolvían problemas reales. Eso reforzó mi enfoque en la ejecución, no en la teoría.",
-      "Las charlas públicas forman parte de mi trayectoria (Toastmasters, App Growth Summit en Londres con más de 300 asistentes, etc.), pero el verdadero foco es entregar resultados para tu negocio."
+      "Cada encargo empieza con un diagnóstico de alcance y precio cerrados: un sprint de due diligence de dos semanas o una evaluación técnica de 30 días. Recibes un entregable escrito antes de comprometerte con nada más largo.",
+      "Días 1–3: orientación y revisión de artefactos — arquitectura, repositorios, CI/CD, historial de incidentes, mapa de dependencias y licencias, gasto en la nube. Días 4–7: entrevistas y recorridos con los ingenieros, no solo con el CTO. Días 8–10: síntesis, contrastada con tus preguntas reales de inversión.",
+      "Recibes un registro de riesgos con niveles de severidad y de confianza, fichas de iniciativas con coste y secuencia, una declaración explícita de a qué no pude acceder y qué queda sin saber por ello, y una sesión de lectura de 60 minutos con tu equipo.",
+      "Si tiene sentido después, el diagnóstico se convierte en un retainer de fractional CTO de uno a tres días por semana. Si no lo tiene, la evaluación sigue siendo tuya y te diré a quién llamar en mi lugar."
     ]
   },
   "achievements": {
-    "title": "Mis 4 mayores logros",
-    "subtitle": "Entrego resultados, no solo hablo de ellos.",
+    "title": "Trayectoria",
+    "subtitle": "Veinte años construyendo software. Quince como CTO. Cifras, no adjetivos.",
     "readStory": "Leer la historia completa →",
-    "visit": "Visitar",
-    "visitWebsite": "Visitar sitio web",
+    "visit": "Ver",
+    "visitWebsite": "Ver el sitio",
     "items": {
       "mentorist": {
         "title": "Mentorist",
-        "shortDescription": "App B2C para ayudar a implementar conocimiento de libros, no solo leer resúmenes.",
-        "revenue": "Ingresos anuales de seis cifras, inversión de 550 mil euros",
-        "fullStory": "Mentorist es mi producto B2C insignia. Alcanzó ingresos anuales de seis cifras y levantó 550 mil euros de inversión.\n\nLa idea nació de mi frustración con las apps de resúmenes de libros. Construí Mentorist para ayudar a la gente a implementar conocimiento, no solo a leerlo. Trabajé en ello solo durante años, luego levanté financiación y construí un equipo.\n\nLa versión actual fue reconstruida 100% por mí — frontend, backend, UX/UI, visuales y contenido — usando herramientas de IA de forma intensiva."
+        "shortDescription": "Producto de suscripción de consumo que fundé, financié y escalé, y que después reconstruí entero por mi cuenta.",
+        "revenue": "ARR de seis cifras · €550k levantados · superó la DD técnica de los inversores",
+        "fullStory": "Mentorist es un producto de suscripción de consumo que ayuda a aplicar lo que se lee, no solo a resumirlo. Alcanzó ingresos anuales de seis cifras y levantó €550k.\n\nLo dirigí como fundador y CTO: arquitectura, entrega, contratación, decisiones de proveedores y relación con inversores, incluida la due diligence técnica que llegó con la ronda. Es exactamente el mismo proceso que ahora dirijo desde el otro lado de la mesa, y buena parte de la razón por la que soy útil en esto.\n\nLa versión actual la reconstruí entera yo solo: frontend, backend, UX, infraestructura y contenido, usando herramientas de IA en todo el proceso."
       },
       "iqelite": {
         "title": "IQElite",
-        "shortDescription": "Servicio de citas basado en pruebas psicométricas y compatibilidad.",
-        "revenue": "8 millones de usuarios registrados, rentable durante 8 años",
-        "fullStory": "Me uní a IQElite en Barcelona como cofounder y CTO, enfocado en tecnología. Tras 1,5 años, me convertí en CEO y tomé el control de la empresa.\n\nTeníamos un equipo de cinco personas y perdíamos dinero. En tres meses desde que asumí el control, alcanzamos el punto de equilibrio y nos mantuvimos rentables durante los siguientes seis años.\n\nIQElite era un servicio de citas basado en pruebas psicométricas (IQ, personalidad, EQ, compatibilidad amorosa). Alcanzamos 8 millones de usuarios registrados. La plataforma decayó cuando Tinder y Bumble remodelaron el mercado."
+        "shortDescription": "Plataforma de emparejamiento psicométrico. Asumí el cargo de CEO con la empresa en pérdidas y la llevé a rentabilidad en 90 días.",
+        "revenue": "8M de usuarios registrados · punto de equilibrio en 90 días · rentable durante 8 años",
+        "fullStory": "Entré en IQElite en Barcelona como cofundador y CTO, a cargo de la tecnología. A los dieciocho meses asumí el puesto de CEO.\n\nLa empresa tenía un equipo de cinco personas y perdía dinero. En los tres meses siguientes a mi llegada al cargo alcanzamos el punto de equilibrio y nos mantuvimos rentables los ocho años siguientes.\n\nLa plataforma llegó a 8 millones de usuarios registrados con emparejamiento psicométrico: tests de IQ, personalidad, inteligencia emocional y compatibilidad. Después decayó cuando Tinder y Bumble reconfiguraron la categoría.\n\nEs la experiencia a la que más recurro. Un equipo pequeño, una cuenta de resultados rota y ningún margen de tiempo, que es como se ven en la práctica la mayoría de las situaciones técnicas tras una adquisición."
       },
       "neurony": {
         "title": "Neurony Szaleją",
-        "shortDescription": "Marca de productos para madres de niños pequeños; mejoré sus ventas online.",
-        "revenue": "Ingresos anuales de seis cifras",
-        "fullStory": "Neurony Szaleją es una marca que vende productos para madres con niños pequeños. En 2024, el negocio dependía principalmente del alcance orgánico.\n\nAyudé en performance marketing: dirección creativa, gestión de anuncios en Facebook y luego landing pages en React para mejorar la conversión. Hicimos pruebas A/B rápidas y optimizamos el embudo paso a paso.\n\nLa marca alcanzó ingresos anuales de seis cifras y se está expandiendo a otros países."
+        "shortDescription": "Marca de consumo donde fui dueño de la adquisición de punta a punta: estrategia creativa, compra de medios y las landing pages por debajo.",
+        "revenue": "Ingresos anuales de seis cifras · escalada con tráfico de pago",
+        "fullStory": "Neurony Szaleją vende productos para madres de niños pequeños. En 2024 el negocio dependía casi por completo del alcance orgánico y no tenía una máquina de adquisición repetible.\n\nAsumí el problema entero: estrategia creativa, estructura de campañas en Meta y después landing pages propias en React, cuando resultó que la restricción real era la conversión y no el tráfico. Hicimos las pruebas en orden y arreglamos el embudo paso a paso.\n\nLa marca alcanzó ingresos anuales de seis cifras y se está expandiendo a otros mercados. Lo incluyo aquí porque es el ejemplo más claro de lo que realmente hago: el problema de adquisición y el problema de ingeniería eran el mismo problema, y una sola persona resolviendo ambos fue más rápida que dos negociando de quién era el alcance."
       },
       "hackyeah": {
-        "title": "1.er lugar – HackYeah 2025",
-        "shortDescription": "Construimos un juego de simulación de jubilación en 24 horas; ganamos el 1.er lugar.",
-        "revenue": "",
-        "fullStory": "Me uní a HackYeah 2025 en Cracovia sin equipo. En el lugar conocí a dos personas y formamos un equipo de tres.\n\nElegimos la categoría \"live run\" y construimos un juego de simulación de jubilación en 24 horas. El proyecto ganó el 1.er lugar.\n\nUsé herramientas de IA intensivamente para gestionar el trabajo y produjimos alrededor de 14.000 líneas de código durante el hackathon."
+        "title": "1.º puesto — HackYeah 2025",
+        "shortDescription": "Producto funcional construido y entregado en 24 horas con herramientas de IA, con un equipo formado el mismo día. Ganamos.",
+        "revenue": "1.º puesto · ~14.000 líneas en 24 horas",
+        "fullStory": "Fui a HackYeah 2025 en Cracovia sin equipo, conocí a dos personas allí y entramos en la categoría live run como grupo de tres.\n\nConstruimos un simulador de jubilación en 24 horas y ganamos el primer puesto. Me apoyé mucho en herramientas de IA para sostener la carga: alrededor de 14.000 líneas de código durante la prueba.\n\nEs algo pequeño, pero es reciente, es verificable y es la respuesta honesta a si un ingeniero con veinte años de oficio puede trabajar de verdad al ritmo AI-native en lugar de solo hablar de ello."
       }
     }
   },
   "expertise": {
-    "title": "Experiencia clave",
-    "subtitle": "Entrego productos completos, no entregas parciales. Eso significa estrategia, arquitectura y ejecución alineadas con objetivos de negocio.",
+    "title": "Para qué me contratan",
+    "subtitle": "Cuatro ángulos sobre una misma pregunta: si la tecnología funciona y si funciona el negocio al que da soporte. Normalmente eso lo responden dos consultores distintos, con dos facturas distintas, que no hablan entre sí.",
     "readMore": "Leer más →",
     "items": {
       "performanceMarketing": {
-        "title": "Performance marketing",
-        "shortDescription": "Más de 700 mil euros en inversión publicitaria, creatividades orientadas a conversión y sistemas de campañas escalables.",
+        "title": "Due diligence técnica",
+        "shortDescription": "Sprints de dos semanas para inversores y fundadores: qué es realmente cierto sobre la tecnología, respondido contra tus preguntas de inversión.",
         "details": {
-          "intro": "A lo largo de mi carrera, he gestionado más de 700.000 euros en inversión publicitaria en Meta. Eso se traduce en un conocimiento profundo de lo que realmente impulsa la adquisición rentable.",
-          "whatYouGetTitle": "Lo que obtienes:",
+          "intro": "Hago due diligence técnica para inversores y para fundadores que quieren ver lo que verán sus inversores. Dos semanas, precio cerrado, entregable escrito, respondido contra tus preguntas concretas y no contra una checklist genérica.",
+          "whatYouGetTitle": "Qué recibes:",
           "whatYouGetItems": [
-            "Estructuras de campaña rentables y marcos probados de escalado",
-            "Estrategia creativa que mejora el CTR y la tasa de conversión",
-            "Gestión de cuentas que equilibra crecimiento con CAC sostenible",
-            "Herramientas propias para seguir creatividades de la competencia y tendencias emergentes"
+            "Un registro de riesgos con severidad, probabilidad y mi nivel de confianza en cada punto",
+            "Fichas de iniciativas: cuánto cuesta arreglarlo, cuánto tarda y en qué orden",
+            "Una declaración explícita de a qué no pude acceder y qué queda sin saber por ello",
+            "Una sesión de lectura de 60 minutos con tu equipo y respuestas de seguimiento durante 30 días"
           ],
-          "closing": "Trabajo con founders que necesitan apoyo práctico para convertir el presupuesto publicitario en ingresos repetibles, no solo vanity metrics."
+          "closing": "No escribo «revisar la seguridad». Respondo «está controlado el acceso privilegiado y cuánto cuesta arreglarlo si no lo está». Dos semanas. 15.000 USD. Precio cerrado."
         }
       },
       "fullStack": {
-        "title": "Desarrollo full‑stack",
-        "shortDescription": "Entrega integral de producto: React Native, Firebase, Django/Python.",
+        "title": "Fractional CTO",
+        "shortDescription": "De uno a tres días por semana, con capacidad de decisión, no consejos desde la banda.",
         "details": {
-          "intro": "Entrego productos completos, no entregas parciales. Eso significa estrategia, arquitectura y ejecución alineadas con objetivos de negocio.",
-          "typicalStackTitle": "Stack típico:",
-          "typicalStackFrontend": "Frontend: React, React Native para apps móviles",
-          "typicalStackBackend": "Backend: Firebase, Django/Python",
-          "typicalStackInfrastructure": "Infraestructura: deployment en producción, escalado y monitoreo",
-          "whatThisMeansTitle": "Lo que significa para ti:",
-          "whatThisMeansBody": "Puedo entregar el MVP, estabilizar el stack o entrar como CTO fraccional y liderar la entrega mientras te enfocas en ventas y distribución.",
-          "closing": "Obtienes ejecución senior sin el coste de un equipo completo."
+          "intro": "Para empresas con ingenieros y sin nadie que sea dueño de la ingeniería. Asumo las decisiones que hoy toma quien discute más tiempo, y me hago responsable de ellas.",
+          "typicalStackTitle": "Alcance habitual:",
+          "typicalStackFrontend": "Una hoja de ruta técnica atada a un hito de financiación o de ingresos, no una lista de deseos",
+          "typicalStackBackend": "Contratación de ingeniería: perfiles, cribas técnicas, entrevistas de arquitectura",
+          "typicalStackInfrastructure": "Base de seguridad y entrega: control de accesos, copias de seguridad, CI/CD, runbooks de incidentes",
+          "whatThisMeansTitle": "Qué significa para ti:",
+          "whatThisMeansBody": "Tienes a alguien con autoridad para decir que no a una funcionalidad, a una contratación o a un proveedor, y con el peso para sostenerlo. Eso es lo que la consultoría no puede hacer. Los encargos empiezan tras un diagnóstico, duran un mínimo de tres meses e incluyen desde el primer día un plan escrito de traspaso a un CTO permanente.",
+          "closing": "Un CTO a tiempo completo cuesta entre 400.000 y 600.000 USD el primer año todo incluido, contando salario, beneficios y reclutamiento. Esto es el mismo criterio por una fracción. Los retainers empiezan en 10.000 USD al mes."
         }
       },
       "productUx": {
-        "title": "Diseño de producto y UX/UI",
-        "shortDescription": "UX/UI que convierte: claridad, psicología y resultados medibles.",
+        "title": "Unit economics",
+        "shortDescription": "Más de €700k de presupuesto publicitario desplegado, buena parte propio. Puedo decirte si el negocio al que da soporte ese código funciona de verdad.",
         "details": {
-          "intro": "Los grandes productos son fáciles de entender y difíciles de ignorar. Diseño para claridad, conversión y retención.",
-          "approachTitle": "Enfoque:",
+          "intro": "La mayoría de quienes evalúan tecnología nunca han cargado con una cifra. Yo he desplegado más de €700.000 en publicidad en Meta, buena parte con dinero propio, construyendo y escalando productos de suscripción de consumo.",
+          "approachTitle": "Qué miro:",
           "approachItems": [
-            "Diseño centrado en el usuario que prioriza claridad y conversión",
-            "Sistemas de diseño en Figma desde wireframes hasta UI de alta fidelidad",
-            "Prototipado rápido e iteración basada en feedback de usuarios",
-            "UX conductual que elimina fricción y conduce a la acción"
+            "CAC y periodo de recuperación contra la curva de retención real, no la del deck",
+            "Si el canal de adquisición es duradero o está alquilando crecimiento a una plataforma",
+            "Dónde pierde el embudo, y si eso es un problema de producto o de marketing",
+            "Si se puede confiar en la medición y la atribución antes de que alguien actúe sobre ellas"
           ],
-          "examplesTitle": "Ejemplos:",
+          "examplesTitle": "De dónde viene esto:",
           "examplesItems": [
-            "Mentorist UX/UI creado de principio a fin",
-            "Sistema de diseño de EnglishSeries construido desde cero",
-            "Proyecto ganador de HackYeah: el pulido UX fue el diferenciador"
+            "Más de €700k desplegados en Meta, buena parte a riesgo propio",
+            "Productos de suscripción de consumo llevados de cero a ARR de seis cifras",
+            "Una marca de consumo escalada a ingresos anuales de seis cifras con tráfico de pago"
           ],
-          "closing": "Diseño para mover métricas, no solo píxeles."
+          "closing": "Cuando te digo que los unit economics de una empresa no sobreviven al contacto con la realidad, no lo estoy leyendo de una hoja de cálculo. He estado en el lado equivocado de esa cifra con mi propio capital."
         }
       },
       "aiTools": {
-        "title": "Desarrollo impulsado por IA",
-        "shortDescription": "Entrega asistida por IA que reduce los ciclos de construcción entre 5 y 10x.",
+        "title": "IA en producción",
+        "shortDescription": "La mayoría de los pilotos de IA nunca llegan a producción. Evalúo los que deberían y digo claramente cuándo alguno no debería.",
         "details": {
-          "intro": "La IA es una palanca cuando se combina con criterio senior de producto. La uso para entregar más rápido sin bajar la calidad.",
+          "intro": "Las empresas gastaron decenas de miles de millones en IA generativa el año pasado y la mayoría de los directivos no reporta ningún retorno financiero medible. La brecha casi nunca está en el modelo. Está en la evaluación, en la fiabilidad y en la ausencia de alguien dispuesto a decir que un piloto ha fracasado.",
           "proofTitle": "Prueba:",
           "proofItems": [
-            "14.000 líneas de código en 24 horas en HackYeah (1.er lugar)",
-            "Reconstrucción completa de la app Mentorist en solitario con ayuda de IA",
-            "Entrega de landing pages, sistemas backend y UX más rápido que equipos típicos"
+            "Reconstrucción completa y en solitario de una app de consumo en producción, con herramientas de IA en todo el proceso",
+            "~14.000 líneas entregadas en 24 horas en HackYeah 2025 — primer puesto",
+            "Veinte años entregando software, así que sé lo que cuesta de verdad sostener producción"
           ],
-          "howItHelpsTitle": "Cómo te ayuda:",
-          "howItHelpsBody": "Validación más rápida, lanzamientos más rápidos y menor burn rate. Puedo construir e iterar mientras te enfocas en clientes e ingresos.",
-          "idealUseTitle": "Uso ideal:",
-          "idealUseBody": "Soporte de CTO fraccional o cofounder para startups y pymes que necesitan ejecución senior a tiempo parcial."
+          "howItHelpsTitle": "Qué hago con ello:",
+          "howItHelpsBody": "Evaluar si una iniciativa de IA es una capacidad real o una demo con una hoja de ruta pegada. Construir el harness de evaluación que te avisa cuando la calidad se degrada. Y decir claramente cuándo la respuesta honesta es que hay que comprarlo en lugar de construirlo.",
+          "idealUseTitle": "Para quién es:",
+          "idealUseBody": "Para inversores que están valorando una promesa de IA en una empresa objetivo, y para operadores que ya han gastado una vez y quieren que el segundo intento llegue de verdad a producción."
         }
       }
     }
   },
   "cta": {
-    "title": "¿El crecimiento va más lento de lo que debería? Encontremos el cuello de botella.",
-    "subtitle": "Tienes un producto o una idea, pero sientes que no es suficiente: el marketing no rinde y aparecen problemas técnicos. He pasado por este ciclo muchas veces: te ayudaré a lanzar un producto que funciona, los usuarios aman y genera beneficios, y luego lo optimizaré.",
-    "button": "Reserva un diagnóstico de crecimiento"
+    "title": "¿No sabes si el problema es la tecnología o el negocio?",
+    "subtitle": "Suele ser esa la pregunta, y suelen responderla dos consultores distintos que no hablan entre sí. Dos semanas, precio cerrado y una respuesta escrita que puedes entregar a tu consejo, trabajemos juntos después o no.",
+    "button": "Agendar un diagnóstico"
   },
   "contact": {
-    "title": "Hablemos de tus objetivos",
-    "benefitsTitle": "Lo que te llevas",
+    "title": "Hablemos",
+    "benefitsTitle": "Qué obtendrás",
     "benefits": {
       "items": [
         {
-          "emphasis": "Guía senior y accionable",
-          "body": "en producto, tecnología o crecimiento — en 24 horas."
+          "emphasis": "Una lectura directa de tu situación",
+          "body": "— si esto es un diagnóstico de dos semanas, un encargo más largo o algo para lo que no me necesitas en absoluto."
         },
         {
-          "emphasis": "Un camino claro de colaboración",
-          "body": "para liderazgo fraccional o ejecución práctica."
+          "emphasis": "Alcance cerrado y precio cerrado",
+          "body": "antes de empezar nada. Sin facturación por horas, sin retainers indefinidos, sin partes de horas."
         },
         {
-          "emphasis": "Sin presión de ventas.",
-          "body": "Si no soy la opción correcta, te indicaré una mejor."
+          "emphasis": "Una respuesta honesta si no soy la persona adecuada.",
+          "body": "Te diré quién lo es. A mí no me cuesta nada y a ti te ahorra un mes."
         }
       ]
     },
-    "formTitle": "Envíame un mensaje",
-    "success": "Gracias por escribir. Responderé en 24 horas.",
-    "replyTime": "Te responderé en 24 horas."
+    "formTitle": "Escríbeme",
+    "success": "Gracias por escribir. Te respondo en menos de 24 horas.",
+    "replyTime": "Te responderé en menos de 24 horas."
   },
   "form": {
     "fields": {
@@ -177,16 +177,16 @@
       "lastName": "Apellido *",
       "email": "Correo electrónico *",
       "organization": "Nombre de la organización",
-      "role": "Tu rol",
+      "role": "Tu cargo",
       "message": "Tu mensaje *"
     },
     "placeholders": {
       "firstName": "Juan",
-      "lastName": "Pérez",
+      "lastName": "García",
       "email": "juan@empresa.com",
-      "organization": "Nombre de tu empresa",
-      "role": "CEO, fundador, CTO, etc.",
-      "message": "Cuéntame sobre tu proyecto o cómo puedo ayudar..."
+      "organization": "Tu empresa o fondo",
+      "role": "Operating Partner, fundador, CEO, etc.",
+      "message": "¿Qué te llevó a empezar a buscar? Una operación, una ronda, una salida, algo que se está rompiendo..."
     },
     "submit": "Enviar mensaje",
     "sending": "Enviando...",

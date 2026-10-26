@@ -12,163 +12,163 @@
   },
   "hero": {
     "title": {
-      "before": "Build",
-      "highlight": "Profitable",
-      "after": "Products Faster"
+      "before": "Know what's",
+      "highlight": "actually true",
+      "after": "about your technology"
     },
-    "subtitle": "I help you validate ideas, ship fast, and scale acquisition with hands-on execution. Fractional CTO, CEO, or co-founder support for startups and SMBs.",
+    "subtitle": "I'm a CTO of 15 years and an engineer of 20. I come in for weeks, not quarters — to tell you what's real about your engineering, fix what's breaking, and leave you with a plan your board can read. Working US Eastern hours.",
     "cta": "Book a Call"
   },
   "about": {
-    "title": "What You Get Working With Me",
+    "title": "Who I Work With",
     "paragraphs": [
-      "Senior, part-time leadership that combines strategy with real execution. I've raised €550k, built teams, scaled products to 8M users, and delivered multiple 6-figure revenue businesses.",
-      "I can own the full funnel: product strategy, UX/UI, engineering, and acquisition. You get a single operator who can build the stack and make it convert, using AI to multiply delivery speed.",
-      "Best fit: B2C startups and small-to-mid businesses that need fractional leadership. I can step in part-time and move the business forward."
+      "You're a PE operating partner. The deal closed and the technical reality showed up — fragile delivery, key-person risk, an undocumented codebase, security gaps nobody surfaced before signing. You need someone who can tell you how bad it is in two weeks, not two quarters, and who has run engineering organisations rather than only audited them.",
+      "You're a founder raising in the next six to twelve months. Your investors will run technical due diligence on you. You would rather find out what they'll find before they find it.",
+      "You have engineers but nobody owns the technology. Five to fifteen people shipping, decisions made by whoever argues longest, and a roadmap that's really a backlog. You don't need a full-time CTO at $400–600k all-in. You need one for a day or two a week."
     ]
   },
   "work": {
-    "title": "How I Work",
+    "title": "How an Engagement Runs",
     "paragraphs": [
-      "Clear communication, fast execution, and measurable outcomes. That's the standard I bring to every engagement.",
-      "I'm comfortable leading teams and aligning stakeholders. I keep communication simple and practical, even when the tech is complex.",
-      "I've organized founder masterminds in Krakow where operators solved real problems together. It reinforced my bias toward execution over theory.",
-      "Public speaking is part of my background (Toastmasters, App Growth Summit in London with 300+ attendees, etc), but the real focus is delivering results for your business."
+      "Every engagement starts with a fixed-scope, fixed-price diagnostic — a two-week due diligence sprint or a 30-day technical assessment. You get a written deliverable before you commit to anything longer.",
+      "Days 1–3: orientation and artifact review — architecture, repositories, CI/CD, incident history, dependency and licence map, cloud spend. Days 4–7: interviews and walkthroughs with the engineers, not only the CTO. Days 8–10: synthesis, pressure-tested against your actual underwriting questions.",
+      "You receive a risk register with severity and confidence levels, initiative cards with cost and sequencing, an explicit statement of what I could not access and what that leaves unknown, and a 60-minute readout with your team.",
+      "If it makes sense afterwards, the diagnostic converts into a fractional CTO retainer at one to three days a week. If it doesn't, you still own the assessment — and I'll tell you who to call instead."
     ]
   },
   "achievements": {
-    "title": "My Top 4 Achievements",
-    "subtitle": "I deliver results, not just talk about them.",
-    "readStory": "Read full story \u2192",
+    "title": "Track Record",
+    "subtitle": "Twenty years building software. Fifteen as CTO. Numbers, not adjectives.",
+    "readStory": "Read full story →",
     "visit": "Visit",
     "visitWebsite": "Visit Website",
     "items": {
       "mentorist": {
         "title": "Mentorist",
-        "shortDescription": "B2C app that helps people implement knowledge from books, not just read summaries.",
-        "revenue": "6-figure yearly revenue, \u20ac550k investment",
-        "fullStory": "Mentorist is my flagship B2C product. It reached 6-figure yearly revenue and raised \u20ac550k in investment.\n\nThe idea came from my frustration with book-summary apps. I built Mentorist to help people implement knowledge, not just read it. I worked on it solo for years, then raised funding and built a team.\n\nThe current version is rebuilt 100% by me\u2014frontend, backend, UX/UI, visuals, and content\u2014using AI tools extensively."
+        "shortDescription": "Consumer subscription product I founded, funded and scaled — then rebuilt end to end on my own.",
+        "revenue": "6-figure ARR · €550k raised · passed investor technical DD",
+        "fullStory": "Mentorist is a consumer subscription product that helps people implement what they read rather than only summarising it. It reached six-figure annual revenue and raised €550k.\n\nI ran it as founder and CTO: architecture, delivery, hiring, vendor decisions and investor relations — including the technical due diligence that came with the raise. That's the same process I now run from the other side of the table, which is a large part of why I'm useful at it.\n\nThe current version I rebuilt end to end on my own — frontend, backend, UX, infrastructure and content — using AI tooling throughout."
       },
       "iqelite": {
         "title": "IQElite",
-        "shortDescription": "Dating service built on psychometric tests and personality matching.",
-        "revenue": "8M registered users, profitable for 8 years",
-        "fullStory": "I joined IQElite in Barcelona as a co-founder and CTO, focused on technology. After 1.5 years, I became CEO and took control of the company.\n\nWe had a 5-person team and were losing money. Within three months of me taking over, we broke even and stayed profitable for the next six years.\n\nIQElite was a dating service built on psychometric tests (IQ, personality, EQ, love compatibility). We reached 8 million registered users. The platform later declined as Tinder and Bumble reshaped the market."
+        "shortDescription": "Psychometric matching platform. I took over as CEO with the company losing money and turned it profitable in 90 days.",
+        "revenue": "8M registered users · break-even in 90 days · profitable for 8 years",
+        "fullStory": "I joined IQElite in Barcelona as co-founder and CTO, running technology. After eighteen months I took over as CEO.\n\nThe company had a five-person team and was losing money. Within three months of me taking over we reached break-even, and stayed profitable for the next eight years.\n\nThe platform reached 8 million registered users on psychometric matching — IQ, personality, EQ and compatibility testing. It declined later as Tinder and Bumble reshaped the category.\n\nThis is the engagement I draw on most. A small team, a broken P&L, and no time — which is what most post-acquisition technical situations actually look like."
       },
       "neurony": {
-        "title": "Neurony Szalej\u0105",
-        "shortDescription": "Brand selling products for mothers of small children; I improved its online sales.",
-        "revenue": "6-figure yearly revenue",
-        "fullStory": "Neurony Szalej\u0105 is a brand selling products for mothers of small children. In 2024, the business relied mostly on organic outreach.\n\nI helped with performance marketing: creative guidance, Facebook Ads management, and later custom landing pages in React to improve conversion. We ran rapid A/B tests and optimized the funnel step by step.\n\nThe brand reached 6-figure yearly revenue and is expanding into other countries."
+        "title": "Neurony Szaleją",
+        "shortDescription": "Consumer brand where I owned acquisition end to end — creative strategy, media buying and the landing pages underneath it.",
+        "revenue": "6-figure yearly revenue · scaled on paid acquisition",
+        "fullStory": "Neurony Szaleją sells products for mothers of small children. In 2024 the business ran almost entirely on organic reach and had no repeatable acquisition engine.\n\nI owned the whole stack of that problem: creative strategy, Meta campaign structure, and then custom React landing pages when the conversion rate turned out to be the real constraint rather than the traffic. We ran the tests in sequence and fixed the funnel step by step.\n\nThe brand reached six-figure annual revenue and is expanding into other markets. I include it here because it's the clearest example of the thing I actually do: the acquisition problem and the engineering problem were the same problem, and one person solving both was faster than two people negotiating about it."
       },
       "hackyeah": {
-        "title": "1st Place - HackYeah 2025",
-        "shortDescription": "Built a retirement simulation game in 24 hours; won 1st place.",
-        "revenue": "",
-        "fullStory": "I joined HackYeah 2025 in Krakow without a team. I met two people on-site, and we formed a three-person team.\n\nWe chose the \"live run\" category and built a retirement simulation game in 24 hours. The project won 1st place.\n\nI used AI tools heavily to manage the workload and we produced around 14,000 lines of code during the hackathon."
+        "title": "1st Place — HackYeah 2025",
+        "shortDescription": "Built and shipped a working product in 24 hours with AI tooling, with a team formed on the day. Won.",
+        "revenue": "1st place · ~14,000 lines shipped in 24 hours",
+        "fullStory": "I went to HackYeah 2025 in Kraków without a team, met two people on site, and we entered the live-run category as a three-person group.\n\nWe built a retirement simulation game in 24 hours and took first place. I leaned on AI tooling heavily to carry the workload — roughly 14,000 lines of code over the run.\n\nIt's a small thing, but it's recent, it's verifiable, and it's the honest answer to whether a twenty-year engineer can actually work at AI-native speed rather than just talk about it."
       }
     }
   },
   "expertise": {
-    "title": "Core Expertise",
-    "subtitle": "I deliver complete products, not partial handoffs. That means strategy, architecture, and execution aligned with business goals.",
-    "readMore": "Read more \u2192",
+    "title": "What I'm Hired For",
+    "subtitle": "Four angles on one question: whether the technology works, and whether the business it supports does. Usually those are two different consultants and two different invoices.",
+    "readMore": "Read more →",
     "items": {
       "performanceMarketing": {
-        "title": "Performance Marketing",
-        "shortDescription": "\u20ac700k+ in ad spend, conversion-focused creative, and scalable campaign systems.",
+        "title": "Technical Due Diligence",
+        "shortDescription": "Two-week sprints for investors and founders: what's actually true about the technology, tied to your underwriting questions.",
         "details": {
-          "intro": "Over my career, I've managed \u20ac700,000+ in Meta ad spend. That translates into deep knowledge of what actually drives profitable acquisition.",
+          "intro": "I run technical diligence for investors, and for founders who want to see what their investors will see. Two weeks, fixed price, written deliverable — answered against your specific questions rather than a generic checklist.",
           "whatYouGetTitle": "What You Get:",
           "whatYouGetItems": [
-            "Profitable campaign structures and scaling frameworks",
-            "Creative strategy that improves CTR and conversion rate",
-            "Account management that balances growth with sustainable CAC",
-            "Custom tools that track competitor creatives and emerging trends"
+            "A risk register with severity, likelihood and my confidence level on each item",
+            "Initiative cards — what fixing it costs, how long it takes, and in what order",
+            "An explicit statement of what I could not access, and what that leaves unknown",
+            "A 60-minute readout with your deal team, plus follow-up questions answered for 30 days"
           ],
-          "closing": "I work with founders who need hands-on help to turn ad spend into repeatable revenue, not just vanity metrics."
+          "closing": "I don't write \"review security\". I answer \"is privileged access controlled, and what does it cost to fix if it isn't\". Two weeks. $15,000. Fixed."
         }
       },
       "fullStack": {
-        "title": "Full-Stack Development",
-        "shortDescription": "End-to-end product delivery: React Native, Firebase, Django/Python.",
+        "title": "Fractional CTO",
+        "shortDescription": "One to three days a week, with decision rights — not advice from the sidelines.",
         "details": {
-          "intro": "I deliver complete products, not partial handoffs. That means strategy, architecture, and execution aligned with business goals.",
-          "typicalStackTitle": "Typical Stack:",
-          "typicalStackFrontend": "Frontend: React, React Native for mobile apps",
-          "typicalStackBackend": "Backend: Firebase, Django/Python",
-          "typicalStackInfrastructure": "Infrastructure: Production deployment, scaling, and monitoring",
+          "intro": "For companies with engineers and nobody owning engineering. I take the decisions that are currently being made by whoever argues longest, and I take responsibility for them.",
+          "typicalStackTitle": "Typical Scope:",
+          "typicalStackFrontend": "A technical roadmap tied to a funding or revenue milestone, not a wish list",
+          "typicalStackBackend": "Engineering hiring — role specs, technical screens, architecture interviews",
+          "typicalStackInfrastructure": "Security and delivery baseline — access control, backups, CI/CD, incident runbooks",
           "whatThisMeansTitle": "What This Means for You:",
-          "whatThisMeansBody": "I can ship the MVP, stabilize the stack, or step in as a fractional CTO to lead delivery while you focus on sales and distribution.",
-          "closing": "You get senior execution without the overhead of a full team."
+          "whatThisMeansBody": "You get someone with the authority to say no — to a feature, a hire or a vendor — and the standing to make it stick. That's the part advisory can't do. Engagements start after a diagnostic, run a minimum of three months, and include a written hand-off plan to a permanent CTO from day one.",
+          "closing": "A full-time CTO costs $400–600k all-in in the first year once you count base, benefits and recruiting. This is the same judgement at a fraction of it. Retainers start at $10,000 per month."
         }
       },
       "productUx": {
-        "title": "Product & UX/UI Design",
-        "shortDescription": "UX/UI that converts: clarity, psychology, and measurable outcomes.",
+        "title": "Unit Economics",
+        "shortDescription": "€700k+ of ad budget deployed, much of it my own. I can tell you whether the business the code supports actually works.",
         "details": {
-          "intro": "Great products are simple to understand and hard to ignore. I design for clarity, conversion, and retention.",
-          "approachTitle": "Approach:",
+          "intro": "Most people who assess technology have never carried a number. I've deployed over €700,000 in Meta ad spend — much of it my own money — building and scaling consumer subscription products.",
+          "approachTitle": "What I Look At:",
           "approachItems": [
-            "User-first design that prioritizes clarity and conversion",
-            "Design systems in Figma from wireframes to high-fidelity UI",
-            "Rapid prototyping and iteration based on user feedback",
-            "Behavioral UX that removes friction and drives action"
+            "CAC and payback period against the real retention curve, not the one in the deck",
+            "Whether the acquisition channel is durable or is renting growth from a platform",
+            "Where the funnel leaks — and whether that's a product problem or a marketing one",
+            "Whether the tracking and attribution can be trusted before anyone acts on them"
           ],
-          "examplesTitle": "Examples:",
+          "examplesTitle": "Where This Came From:",
           "examplesItems": [
-            "Mentorist UX/UI created end-to-end",
-            "EnglishSeries design system built from scratch",
-            "HackYeah winning project: UX polish was the differentiator"
+            "€700k+ deployed across Meta, a large share of it at my own risk",
+            "Consumer subscription products taken from zero to six-figure ARR",
+            "A consumer brand scaled to six-figure annual revenue on paid acquisition"
           ],
-          "closing": "I design to move metrics, not just pixels."
+          "closing": "When I tell you a company's unit economics don't survive contact with reality, I'm not reading it off a spreadsheet. I've been on the wrong side of that number with my own capital."
         }
       },
       "aiTools": {
-        "title": "AI-Powered Development",
-        "shortDescription": "AI-assisted delivery that compresses build cycles by 5-10x.",
+        "title": "AI in Production",
+        "shortDescription": "Most AI pilots never ship. I assess the ones that should, and say plainly when one shouldn't.",
         "details": {
-          "intro": "AI is a leverage tool when paired with senior product judgment. I use it to deliver faster without lowering quality.",
+          "intro": "Enterprises spent tens of billions on generative AI last year and most executives report no measurable financial return. The gap is almost never the model. It's evaluation, reliability, and the absence of anyone willing to say a pilot has failed.",
           "proofTitle": "Proof:",
           "proofItems": [
-            "14,000 lines of code in 24 hours at HackYeah (1st place)",
-            "Rebuilt the entire Mentorist app solo with AI assistance",
-            "Delivered landing pages, backend systems, and UX faster than typical teams"
+            "Rebuilt an entire production consumer app solo, with AI tooling throughout",
+            "~14,000 lines shipped in 24 hours at HackYeah 2025 — first place",
+            "Twenty years shipping software, so I know what production actually costs to run"
           ],
-          "howItHelpsTitle": "How It Helps You:",
-          "howItHelpsBody": "Rapid validation, faster launches, and lower burn. I can build and iterate while you focus on customers and revenue.",
-          "idealUseTitle": "Ideal Use:",
-          "idealUseBody": "Fractional CTO or co-founder support for startups and SMBs that need part-time, senior execution."
+          "howItHelpsTitle": "What I Do With It:",
+          "howItHelpsBody": "Assess whether an AI initiative is a real capability or a demo with a roadmap attached. Build the evaluation harness that tells you when it regresses. And say plainly when the honest answer is that it should be bought rather than built.",
+          "idealUseTitle": "Who This Is For:",
+          "idealUseBody": "Investors underwriting an AI claim in a target company, and operators who have already spent once and want the second attempt to actually reach production."
         }
       }
     }
   },
   "cta": {
-    "title": "Growth feels slower than it should? Let's find the bottleneck.",
-    "subtitle": "You have a product or an idea, but it doesn’t feel good enough—marketing underperforms and technical issues creep in. I’ve been through this cycle many times: I’ll help you launch a product users love that makes money, then optimize it for profit.",
-    "button": "Book a Growth Diagnosis"
+    "title": "Not sure whether the problem is the technology or the business?",
+    "subtitle": "That's usually the question, and it's usually answered by two different consultants who don't talk to each other. Two weeks, fixed price, and a written answer you can hand to your board — whether or not we work together afterwards.",
+    "button": "Book a Diagnostic"
   },
   "contact": {
-    "title": "Let's Talk About Your Goals",
+    "title": "Let's Talk",
     "benefitsTitle": "What You'll Get",
     "benefits": {
       "items": [
         {
-          "emphasis": "Senior, actionable guidance",
-          "body": "on product, tech, or growth\u2014within 24 hours."
+          "emphasis": "A straight read on your situation",
+          "body": "— whether this is a two-week diagnostic, a longer engagement, or something you don't need me for at all."
         },
         {
-          "emphasis": "A clear engagement path",
-          "body": "for fractional leadership or hands-on execution."
+          "emphasis": "Fixed scope and a fixed price",
+          "body": "before anything starts. No hourly billing, no open-ended retainers, no timesheets."
         },
         {
-          "emphasis": "No sales pressure.",
-          "body": "If I am not the right fit, I will point you to a better option."
+          "emphasis": "A direct answer if I'm not the right fit.",
+          "body": "I'll tell you who is. That costs me nothing and saves you a month."
         }
       ]
     },
     "formTitle": "Send Me a Message",
-    "success": "Thanks for reaching out. I will reply within 24 hours.",
+    "success": "Thanks for reaching out. I'll reply within 24 hours.",
     "replyTime": "I'll get back to you within 24 hours."
   },
   "form": {
@@ -184,9 +184,9 @@
       "firstName": "John",
       "lastName": "Doe",
       "email": "john@company.com",
-      "organization": "Your company name",
-      "role": "CEO, Founder, CTO, etc.",
-      "message": "Tell me about your project or how I can help..."
+      "organization": "Your company or fund",
+      "role": "Operating Partner, Founder, CEO, etc.",
+      "message": "What triggered you to start looking? A deal, a raise, a departure, something breaking..."
     },
     "submit": "Send Message",
     "sending": "Sending...",
@@ -197,7 +197,7 @@
     }
   },
   "footer": {
-    "rights": "\u00a9 2026 Greg Swierad. All rights reserved.",
+    "rights": "© 2026 Greg Swierad. All rights reserved.",
     "domain": "gregswierad.com"
   }
 }

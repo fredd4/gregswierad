@@ -7,7 +7,7 @@ import { DropdownMenu, DropdownMenuContent, DropdownMenuRadioGroup, DropdownMenu
 import { Input } from "@/app/components/ui/input";
 import { Textarea } from "@/app/components/ui/textarea";
 import { Label } from "@/app/components/ui/label";
-import { Trophy, Rocket, TrendingUp, Code, Palette, Target, Sparkles, Mail, ExternalLink, ArrowLeft, Globe } from "lucide-react";
+import { Trophy, Rocket, TrendingUp, Code, Target, Sparkles, Mail, ExternalLink, ArrowLeft, Globe } from "lucide-react";
 import { useTranslation } from "react-i18next";
 
 type View = "home" | "contact";
@@ -160,16 +160,6 @@ export default function App() {
 
   const achievements = [
     {
-      id: "mentorist",
-      icon: Rocket,
-      logoUrl: "/images/products/mentorist.webp",
-      title: t("achievements.items.mentorist.title"),
-      shortDescription: t("achievements.items.mentorist.shortDescription"),
-      revenue: t("achievements.items.mentorist.revenue"),
-      link: "https://www.mentorist.app/",
-      fullStory: t("achievements.items.mentorist.fullStory"),
-    },
-    {
       id: "iqelite",
       icon: Sparkles,
       logoUrl: "/images/products/iqelite.webp",
@@ -178,6 +168,16 @@ export default function App() {
       revenue: t("achievements.items.iqelite.revenue"),
       link: null,
       fullStory: t("achievements.items.iqelite.fullStory"),
+    },
+    {
+      id: "mentorist",
+      icon: Rocket,
+      logoUrl: "/images/products/mentorist.webp",
+      title: t("achievements.items.mentorist.title"),
+      shortDescription: t("achievements.items.mentorist.shortDescription"),
+      revenue: t("achievements.items.mentorist.revenue"),
+      link: "https://www.mentorist.app/",
+      fullStory: t("achievements.items.mentorist.fullStory"),
     },
     {
       id: "neurony",
@@ -203,11 +203,11 @@ export default function App() {
 
   const expertise = [
     {
-      id: "performance-marketing",
+      id: "technical-due-diligence",
       icon: Target,
       title: t("expertise.items.performanceMarketing.title"),
       shortDescription: t("expertise.items.performanceMarketing.shortDescription"),
-      imageUrl: "/images/marketing.webp",
+      imageUrl: "/images/development.webp",
       fullDetails: (
         <div className="space-y-4">
           <p>{t("expertise.items.performanceMarketing.details.intro")}</p>
@@ -226,11 +226,11 @@ export default function App() {
       ),
     },
     {
-      id: "technical",
+      id: "fractional-cto",
       icon: Code,
       title: t("expertise.items.fullStack.title"),
       shortDescription: t("expertise.items.fullStack.shortDescription"),
-      imageUrl: "/images/development.webp",
+      imageUrl: "/images/product.webp",
       fullDetails: (
         <div className="space-y-4">
           <p>{t("expertise.items.fullStack.details.intro")}</p>
@@ -254,11 +254,11 @@ export default function App() {
       ),
     },
     {
-      id: "product-ux",
-      icon: Palette,
+      id: "unit-economics",
+      icon: TrendingUp,
       title: t("expertise.items.productUx.title"),
       shortDescription: t("expertise.items.productUx.shortDescription"),
-      imageUrl: "/images/product.webp",
+      imageUrl: "/images/marketing.webp",
       fullDetails: (
         <div className="space-y-4">
           <p>{t("expertise.items.productUx.details.intro")}</p>
