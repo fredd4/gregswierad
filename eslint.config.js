@@ -14,6 +14,15 @@ export default [
   },
   js.configs.recommended,
   {
+    // Build and tracking scripts run in Node.
+    files: ["scripts/**/*.mjs"],
+    languageOptions: {
+      ecmaVersion: "latest",
+      sourceType: "module",
+      globals: { ...globals.node, ...globals.es2021 },
+    },
+  },
+  {
     files: ["**/*.{ts,tsx}"],
     languageOptions: {
       parser: tsParser,

@@ -54,7 +54,7 @@ export default function PodcastPage() {
   const photos = SPEAKING_PHOTOS.map((photo) => ({ ...photo, label: t(`podcast.photos.${photo.id}`) }));
 
   return (
-    <SiteLayout title={t("podcast.title")}>
+    <SiteLayout>
       {/* Intro */}
       <section className="max-w-6xl mx-auto px-4 sm:px-6 py-12 md:py-16">
         <div className="grid md:grid-cols-[1.4fr_1fr] gap-10 items-center">

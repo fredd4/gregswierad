@@ -3,13 +3,15 @@ import { useTranslation } from "react-i18next";
 import { Button } from "@/app/components/ui/button";
 import ContactForm from "@/app/components/ContactForm";
 import SiteLayout, { primaryButtonClass, useLang } from "@/app/components/SiteLayout";
-import { AppearanceList, TopicGrid } from "@/app/components/Sections";
+import { AppearanceList, FaqList, TopicGrid, type FaqItem } from "@/app/components/Sections";
+import { podcastPath } from "@/content/routes";
 import { ABOUT_PHOTO, HERO_PHOTO, PROJECTS, SUBIDA_URLS } from "@/content/site";
 
 export default function HomePage() {
   const { t } = useTranslation();
   const lang = useLang();
   const aboutParagraphs = t("about.paragraphs", { returnObjects: true }) as string[];
+  const faq = t("faq.items", { returnObjects: true }) as FaqItem[];
 
   return (
     <SiteLayout>
@@ -22,7 +24,7 @@ export default function HomePage() {
             <p className="text-lg md:text-xl text-foreground/70 mb-8 leading-relaxed">{t("hero.subtitle")}</p>
             <div className="flex flex-col sm:flex-row sm:items-center gap-4">
               <Button asChild size="lg" className={`${primaryButtonClass} px-8 py-6 text-lg`}>
-                <a href="/podcast">
+                <a href={podcastPath(lang)}>
                   <Mic className="mr-2 h-5 w-5" />
                   {t("hero.ctaPrimary")}
                 </a>
@@ -64,7 +66,7 @@ export default function HomePage() {
           <h2 className="text-3xl md:text-4xl font-bold mb-4">{t("topics.title")}</h2>
           <p className="text-lg text-foreground/70 mb-10 max-w-3xl">{t("topics.subtitle")}</p>
           <TopicGrid />
-          <a href="/podcast" className="inline-block mt-8 font-semibold text-teal-700 hover:underline">
+          <a href={podcastPath(lang)} className="inline-block mt-8 font-semibold text-teal-700 hover:underline">
             {t("topics.more")}
           </a>
         </div>
@@ -114,6 +116,12 @@ export default function HomePage() {
             {t("projects.allCases")}
           </a>
         </div>
+      </section>
+
+      {/* FAQ: plain answers to the questions hosts (and AI assistants) ask */}
+      <section id="faq" className="scroll-mt-24 max-w-4xl mx-auto px-4 sm:px-6 py-16">
+        <h2 className="text-3xl md:text-4xl font-bold mb-8">{t("faq.title")}</h2>
+        <FaqList items={faq} />
       </section>
 
       {/* Contact */}

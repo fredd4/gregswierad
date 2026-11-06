@@ -1,5 +1,4 @@
 import i18n from "i18next";
-import LanguageDetector from "i18next-browser-languagedetector";
 import { initReactI18next } from "react-i18next";
 
 import en from "./locales/en.json";
@@ -12,25 +11,20 @@ const resources = {
   es: { translation: es },
 };
 
-i18n
-  .use(LanguageDetector)
-  .use(initReactI18next)
-  .init({
-    resources,
-    fallbackLng: "en",
-    supportedLngs: ["en", "pl", "es"],
-    load: "languageOnly",
-    nonExplicitSupportedLngs: true,
-    interpolation: {
-      escapeValue: false,
-    },
-    detection: {
-      // ?lang=en lets a pitch link open the site in the host's language.
-      order: ["querystring", "localStorage", "navigator"],
-      lookupQuerystring: "lang",
-      caches: ["localStorage"],
-    },
-    returnNull: false,
-  });
+// The URL decides the language (see src/content/routes.ts): src/main.tsx and the
+// prerender call changeLanguage() before rendering, so server and browser markup match.
+// Resources are bundled, so init and changeLanguage finish synchronously.
+i18n.use(initReactI18next).init({
+  resources,
+  lng: "en",
+  fallbackLng: "en",
+  supportedLngs: ["en", "pl", "es"],
+  load: "languageOnly",
+  initAsync: false,
+  interpolation: {
+    escapeValue: false,
+  },
+  returnNull: false,
+});
 
 export default i18n;

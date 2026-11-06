@@ -1,0 +1,1737 @@
+{
+  "summary": {
+    "date": "2026-11-06",
+    "model": "gpt-5.4-mini",
+    "answers": 40,
+    "errors": 0,
+    "namedShare": 0,
+    "citedShare": 0,
+    "byTheme": {
+      "guest": "0% of 30",
+      "expert": "0% of 6",
+      "info": "0% of 4"
+    },
+    "brandedControls": [
+      {
+        "id": "en-brand",
+        "named": true,
+        "cited": false
+      },
+      {
+        "id": "en-brand",
+        "named": true,
+        "cited": false
+      },
+      {
+        "id": "pl-brand",
+        "named": true,
+        "cited": false
+      },
+      {
+        "id": "pl-brand",
+        "named": true,
+        "cited": false
+      }
+    ],
+    "topCitedSites": [
+      [
+        "linkedin.com",
+        6
+      ],
+      [
+        "podscan.fm",
+        3
+      ],
+      [
+        "podcasts.apple.com",
+        3
+      ],
+      [
+        "podcastrex.com",
+        3
+      ],
+      [
+        "pl.linkedin.com",
+        3
+      ],
+      [
+        "businessofapps.podbean.com",
+        2
+      ],
+      [
+        "youtube.com",
+        2
+      ],
+      [
+        "forbes.pl",
+        2
+      ],
+      [
+        "listennotes.com",
+        2
+      ],
+      [
+        "mambiznes.pl",
+        2
+      ],
+      [
+        "subclub.com",
+        2
+      ],
+      [
+        "bt.linkedin.com",
+        1
+      ],
+      [
+        "3minutesbullshitwithgeorge.com",
+        1
+      ],
+      [
+        "share.snipd.com",
+        1
+      ],
+      [
+        "mypodcastdata.com",
+        1
+      ]
+    ]
+  },
+  "answers": [
+    {
+      "id": "en-guest-app-growth",
+      "lang": "en",
+      "theme": "guest",
+      "branded": false,
+      "sample": 0,
+      "q": "Who would be a good podcast guest to talk about mobile app growth?",
+      "text": "A strong podcast guest for **mobile app growth** would be someone who has actually scaled apps and can speak across **user acquisition, retention, monetization, and app store strategy**.\n\nGood options:\n- **Eric Seufert** — well known for mobile growth thinking and industry analysis. ([linkedin.com](https://www.linkedin.com/posts/anna-butuzova_podcasts-mobileapps-appgrowth-activity-7449813624677912577-rl3G?utm_source=openai))\n- **Steve P. Young (App Masters)** — practical, founder-focused app growth conversations. ([linkedin.com](https://www.linkedin.com/posts/anna-butuzova_podcasts-mobileapps-appgrowth-activity-7449813624677912577-rl3G?utm_source=openai))\n- **John Koetsier (Growth Masterminds / Singular)** — useful if you want a more operator-and-trends angle. ([linkedin.com](https://www.linkedin.com/posts/anna-butuzova_podcasts-mobileapps-appgrowth-activity-7449813624677912577-rl3G?utm_source=openai))\n- **Jacob Eiting (RevenueCat)** — especially good if your show covers subscription apps and monetization. ([linkedin.com](https://www.linkedin.com/posts/philgcarter_in-january-i-launched-a-podcast-called-subversive-activity-7333523648928006147-pYA1?utm_source=openai))\n- **Thomas Petit** — strong on Apple Ads and app growth tactics. ([bt.linkedin.com](https://bt.linkedin.com/company/revenuecat?utm_source=openai))\n\nIf you want **one best all-around guest**, I’d pick **Steve P. Young** for a broad, actionable episode, or **Eric Seufert** for a more strategic/analytical one. ([linkedin.com](https://www.linkedin.com/posts/anna-butuzova_podcasts-mobileapps-appgrowth-activity-7449813624677912577-rl3G?utm_source=openai))\n\nIf you want, I can also give you:\n1. a list of **10 guest ideas by topic** (UA, ASO, retention, monetization), or  \n2. a **short outreach message** you can send them.",
+      "citations": [
+        {
+          "url": "https://www.linkedin.com/posts/anna-butuzova_podcasts-mobileapps-appgrowth-activity-7449813624677912577-rl3G?utm_source=openai",
+          "title": "#podcasts #mobileapps #appgrowth | Anna Butuzova"
+        },
+        {
+          "url": "https://www.linkedin.com/posts/anna-butuzova_podcasts-mobileapps-appgrowth-activity-7449813624677912577-rl3G?utm_source=openai",
+          "title": "#podcasts #mobileapps #appgrowth | Anna Butuzova"
+        },
+        {
+          "url": "https://www.linkedin.com/posts/anna-butuzova_podcasts-mobileapps-appgrowth-activity-7449813624677912577-rl3G?utm_source=openai",
+          "title": "#podcasts #mobileapps #appgrowth | Anna Butuzova"
+        },
+        {
+          "url": "https://www.linkedin.com/posts/philgcarter_in-january-i-launched-a-podcast-called-subversive-activity-7333523648928006147-pYA1?utm_source=openai",
+          "title": "Launched Subversive podcast on growth stories of top apps | Phil Carter posted on the topic | LinkedIn"
+        },
+        {
+          "url": "https://bt.linkedin.com/company/revenuecat?utm_source=openai",
+          "title": "RevenueCat | LinkedIn"
+        },
+        {
+          "url": "https://www.linkedin.com/posts/anna-butuzova_podcasts-mobileapps-appgrowth-activity-7449813624677912577-rl3G?utm_source=openai",
+          "title": "#podcasts #mobileapps #appgrowth | Anna Butuzova"
+        }
+      ],
+      "named": false,
+      "cited": false,
+      "hosts": [
+        "linkedin.com",
+        "bt.linkedin.com"
+      ],
+      "usage": {
+        "input_tokens": 8649,
+        "input_tokens_details": {
+          "cache_write_tokens": 0,
+          "cached_tokens": 4352
+        },
+        "output_tokens": 452,
+        "output_tokens_details": {
+          "reasoning_tokens": 89
+        },
+        "total_tokens": 9101
+      }
+    },
+    {
+      "id": "en-guest-app-growth",
+      "lang": "en",
+      "theme": "guest",
+      "branded": false,
+      "sample": 1,
+      "q": "Who would be a good podcast guest to talk about mobile app growth?",
+      "text": "A strong podcast guest for **mobile app growth** would be someone who has worked on **user acquisition, retention, monetization, and app-store optimization** at scale.\n\nGood guest profiles:\n- **VP/Head of Growth at a consumer app company** — best for tactical growth lessons.\n- **Mobile marketing lead from a top app** — great for paid UA, creatives, and attribution.\n- **Founder of a successful app** — useful for the scrappy early-stage growth story.\n- **Product leader focused on retention/engagement** — good if you want lifecycle, onboarding, and habit formation.\n- **App store optimization expert** — ideal if your audience cares about organic growth.\n- **Analytics/attribution expert** — helpful for measurement in a privacy-first world.\n\nIf you want specific types of people to look for, the best “big name” guests are usually:\n- leaders from **Duolingo, Calm, Headspace, Strava, Uber, DoorDash, TikTok, Spotify**, or other high-growth consumer apps\n- founders who scaled from **0 to millions of users**\n- growth operators who’ve worked through **iOS privacy changes, subscription pricing, and retention challenges**\n\nA good guest should be able to speak to:\n1. **Acquisition channels**  \n2. **Retention and re-engagement**  \n3. **Creative testing**  \n4. **App store strategy**  \n5. **Monetization**  \n6. **What changed after ATT/privacy shifts**\n\nIf you want, I can also give you:\n- a **list of 10 specific guest titles/roles to target**\n- a **shortlist of actual people**\n- or **interview questions** for a mobile app growth episode.",
+      "citations": [],
+      "named": false,
+      "cited": false,
+      "hosts": [],
+      "usage": {
+        "input_tokens": 4456,
+        "input_tokens_details": {
+          "cache_write_tokens": 0,
+          "cached_tokens": 4352
+        },
+        "output_tokens": 356,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 4812
+      }
+    },
+    {
+      "id": "en-guest-ab",
+      "lang": "en",
+      "theme": "guest",
+      "branded": false,
+      "sample": 0,
+      "q": "I host a podcast about product management. Suggest a guest who can talk about A/B testing in subscription apps.",
+      "text": "A strong guest pick would be **David Barnard**. He’s been featured discussing **subscription app A/B testing pitfalls** and is specifically positioned around **mobile growth and subscription price testing**, which makes him a good fit for a product-management audience. ([3minutesbullshitwithgeorge.com](https://www.3minutesbullshitwithgeorge.com/episode-44-subscription-ab-testing-pitfalls-with-david-barnard?utm_source=openai))\n\nIf you want a few backup options, I’d suggest:\n- **Steve P. Young** — has done an episode on **app subscription A/B testing best practices**. ([businessofapps.podbean.com](https://businessofapps.podbean.com/e/179-app-subscription-ab-testing-best-practices-with-steve-p-young-founder-at-app-masters/?utm_source=openai))\n- **Dan Pannasch (RevenueCat)** — talks about experimentation in subscription apps from a product-growth perspective. ([share.snipd.com](https://share.snipd.com/episode/413be86e-f67f-4008-8fb5-6f97b2d7700e?utm_source=openai))\n- **Eveline Moczko (Blinkist)** — has experience optimizing **subscription funnels** and conversion in a large subscription app. ([mypodcastdata.com](https://www.mypodcastdata.com/podcast/show/subscription-league-purchasely-olivier-destrebecq-jeff-gra-oFkk6Cxw/episodes?utm_source=openai))\n\nIf you want, I can also narrow this down to:\n1. a **practitioner PM** from a subscription app,  \n2. a **growth/experimentation expert**, or  \n3. someone with a **big-name audience draw**.",
+      "citations": [
+        {
+          "url": "https://www.3minutesbullshitwithgeorge.com/episode-44-subscription-ab-testing-pitfalls-with-david-barnard?utm_source=openai",
+          "title": "3 MINUTES BULLSHIT WITH GEORGE - Episode 44: Subscription A/B Testing Pitfalls with David Barnard"
+        },
+        {
+          "url": "https://businessofapps.podbean.com/e/179-app-subscription-ab-testing-best-practices-with-steve-p-young-founder-at-app-masters/?utm_source=openai",
+          "title": "#179: App Subscription A/B Testing best practices with Steve P. Young, Founder at App Masters | Business of Apps Podcast"
+        },
+        {
+          "url": "https://share.snipd.com/episode/413be86e-f67f-4008-8fb5-6f97b2d7700e?utm_source=openai",
+          "title": "Why You Shouldn’t Let Perfect Be the Enemy of Experimentation — Dan Pannasch, RevenueCat"
+        },
+        {
+          "url": "https://www.mypodcastdata.com/podcast/show/subscription-league-purchasely-olivier-destrebecq-jeff-gra-oFkk6Cxw/episodes?utm_source=openai",
+          "title": "Subscription League, a podcast by Purchasely, Olivier Destrebecq, Jeff Grang, Nicolas Tissier - All 41 Episodes, with Dates and Durations - My Podcast Data"
+        }
+      ],
+      "named": false,
+      "cited": false,
+      "hosts": [
+        "3minutesbullshitwithgeorge.com",
+        "businessofapps.podbean.com",
+        "share.snipd.com",
+        "mypodcastdata.com"
+      ],
+      "usage": {
+        "input_tokens": 8737,
+        "input_tokens_details": {
+          "cache_write_tokens": 0,
+          "cached_tokens": 4352
+        },
+        "output_tokens": 313,
+        "output_tokens_details": {
+          "reasoning_tokens": 58
+        },
+        "total_tokens": 9050
+      }
+    },
+    {
+      "id": "en-guest-ab",
+      "lang": "en",
+      "theme": "guest",
+      "branded": false,
+      "sample": 1,
+      "q": "I host a podcast about product management. Suggest a guest who can talk about A/B testing in subscription apps.",
+      "text": "A strong guest pick is **Steve P. Young**, founder of App Masters. He’s already been featured discussing **app subscription A/B testing best practices**, so he should be very comfortable talking about experimentation in subscription apps. ([businessofapps.podbean.com](https://businessofapps.podbean.com/e/179-app-subscription-ab-testing-best-practices-with-steve-p-young-founder-at-app-masters/?utm_source=openai))\n\nIf you want a guest with a more hands-on product angle, **Madhav Shankar** would also be a good fit: he writes specifically about being a **product manager for subscription products** and running experimentation on **subscription funnels**. ([madhavshankar.com](https://www.madhavshankar.com/ab-testing-product-manager-subscription?utm_source=openai))\n\nIf you’d like, I can give you:\n1. 5 more guest suggestions,  \n2. a shortlist of **more senior/recognizable names**, or  \n3. a **cold outreach email draft** for one of them.",
+      "citations": [
+        {
+          "url": "https://businessofapps.podbean.com/e/179-app-subscription-ab-testing-best-practices-with-steve-p-young-founder-at-app-masters/?utm_source=openai",
+          "title": "#179: App Subscription A/B Testing best practices with Steve P. Young, Founder at App Masters | Business of Apps Podcast"
+        },
+        {
+          "url": "https://www.madhavshankar.com/ab-testing-product-manager-subscription?utm_source=openai",
+          "title": "Subscription A/B Testing Product Manager — Madhav Shankar"
+        }
+      ],
+      "named": false,
+      "cited": false,
+      "hosts": [
+        "businessofapps.podbean.com",
+        "madhavshankar.com"
+      ],
+      "usage": {
+        "input_tokens": 8756,
+        "input_tokens_details": {
+          "cache_write_tokens": 0,
+          "cached_tokens": 4352
+        },
+        "output_tokens": 236,
+        "output_tokens_details": {
+          "reasoning_tokens": 59
+        },
+        "total_tokens": 8992
+      }
+    },
+    {
+      "id": "en-guest-ai-agents",
+      "lang": "en",
+      "theme": "guest",
+      "branded": false,
+      "sample": 0,
+      "q": "Who could I invite on my podcast to talk about building products with AI agents in a very small team?",
+      "text": "Here are some strong podcast guest profiles for **“building products with AI agents in a very small team”**:\n\n1. **Claire Vo — founder of ChatPRD**  \n   She’s a great fit if you want a practical “how I run a product company with AI agents” conversation. She’s built ChatPRD as a solo founder and has talked publicly about staffing the company with AI agents. ([youtube.com](https://www.youtube.com/watch?v=r5kF6RH3dKM&utm_source=openai))\n\n2. **Jacob Bank — founder of Relay.app**  \n   Good for a more operator-heavy episode on designing and managing a large system of AI agents inside a small team. He’s described building and iterating on an AI-agent-based marketing team. ([podscan.fm](https://podscan.fm/podcasts/eo-2/episodes/ai-is-way-underhyped-he-runs-his-entire-marketing-team-with-40-ai-agents-relayapp-jacob-bank?utm_source=openai))\n\n3. **Xiaoyin Qu — founder of HeyBoss**  \n   Strong if you want the “AI-native startup from day one” angle. She’s been featured describing a company run by AI agents, including replacing herself with an agentic CEO setup. ([yourstory.com](https://yourstory.com/2025/06/this-startup-doesnt-just-use-ai-its-run-by-ai?utm_source=openai))\n\n4. **Timothy Daniel — founder of Rimba**  \n   Best if you want a real-world startup story about using coding agents while still handling serious enterprise or regulated workflows. His story is explicitly about a small team building fast with agents. ([sobalabs.ai](https://sobalabs.ai/education/startup-discovery/rimba/?utm_source=openai))\n\n5. **Ryan Carson — founder/operator/AI builder**  \n   He’s useful if you want a provocative discussion on what small teams can do with agents, including product, marketing, support, and research. ([thefoundersfoyer.com](https://www.thefoundersfoyer.com/65-he-replaced-100-employees-with-ai-agents-here-s?utm_source=openai))\n\n6. **A founder from a “small team, big scale” company like MacPaw**  \n   If your angle is broader than pure AI, Vira Tkachenko from MacPaw would be interesting for lean-team scaling, headcount discipline, and where AI tokens can substitute for hires. ([podcasts.apple.com](https://podcasts.apple.com/us/podcast/small-team-big-scale/id1847648264?utm_source=openai))\n\n7. **Someone from Meta’s Muse team or similar tiny high-output AI product teams**  \n   This is better if you want a “how a small elite team ships a major AI product” episode. Meta’s Muse reportedly launched with a team under 200 and was built deliberately small. ([podcastrex.com](https://podcastrex.com/shows/david-senra/creating-muse-the-fastest-growing-ai-product-since-chatgpt-alexandr-wang-meta?utm_source=openai))\n\nIf you want, I can also turn this into:\n- a **shortlist of 10 guests ranked by fit**,\n- a **cold outreach message** for them, or\n- a **guest mix** broken into categories like founder, product leader, and builder.",
+      "citations": [
+        {
+          "url": "https://www.youtube.com/watch?v=r5kF6RH3dKM&utm_source=openai",
+          "title": "She Staffed Her Profitable Startup With AI Agents | Claire Vo, ChatPRD - YouTube"
+        },
+        {
+          "url": "https://podscan.fm/podcasts/eo-2/episodes/ai-is-way-underhyped-he-runs-his-entire-marketing-team-with-40-ai-agents-relayapp-jacob-bank?utm_source=openai",
+          "title": "AI is way Underhyped. He Runs His Entire Marketing Team with 40 AI Agents | Relay.app, Jacob Bank - EO - Podcast Episode - Podscan.fm"
+        },
+        {
+          "url": "https://yourstory.com/2025/06/this-startup-doesnt-just-use-ai-its-run-by-ai?utm_source=openai",
+          "title": "This Startup doesn’t just use AI, it’s run by AI"
+        },
+        {
+          "url": "https://sobalabs.ai/education/startup-discovery/rimba/?utm_source=openai",
+          "title": "14x in 6 Months Inside a YC Startup: Timothy Daniel | Soba Labs"
+        },
+        {
+          "url": "https://www.thefoundersfoyer.com/65-he-replaced-100-employees-with-ai-agents-here-s?utm_source=openai",
+          "title": "#65 He Replaced 100 Employees with AI Agents (Here's how) ft. Ryan Carson, 3x Founder & AI Builder | The Founder's Foyer Podcast"
+        },
+        {
+          "url": "https://podcasts.apple.com/us/podcast/small-team-big-scale/id1847648264?utm_source=openai",
+          "title": "Small Team Big Scale - Podcast - Apple Podcasts"
+        },
+        {
+          "url": "https://podcastrex.com/shows/david-senra/creating-muse-the-fastest-growing-ai-product-since-chatgpt-alexandr-wang-meta?utm_source=openai",
+          "title": "Creating Muse: The Fastest-Growing AI Product Since ChatGPT | Alexandr Wang, Meta — David Senra — Podcast Rex"
+        }
+      ],
+      "named": false,
+      "cited": false,
+      "hosts": [
+        "youtube.com",
+        "podscan.fm",
+        "yourstory.com",
+        "sobalabs.ai",
+        "thefoundersfoyer.com",
+        "podcasts.apple.com",
+        "podcastrex.com"
+      ],
+      "usage": {
+        "input_tokens": 8620,
+        "input_tokens_details": {
+          "cache_write_tokens": 0,
+          "cached_tokens": 4352
+        },
+        "output_tokens": 638,
+        "output_tokens_details": {
+          "reasoning_tokens": 57
+        },
+        "total_tokens": 9258
+      }
+    },
+    {
+      "id": "en-guest-ai-agents",
+      "lang": "en",
+      "theme": "guest",
+      "branded": false,
+      "sample": 1,
+      "q": "Who could I invite on my podcast to talk about building products with AI agents in a very small team?",
+      "text": "Absolutely — for a podcast on **building products with AI agents in a very small team**, I’d invite people who are actually shipping with tiny headcount, not just talking about “AI transformation.”\n\nHere are strong guest categories, with examples:\n\n1. **Solo or tiny-team founders building agent-native products**\n   - **Claire Vo** (ChatPRD) — a very strong fit if you want someone building with AI as a core operating model. She’s discussed staffing a business with AI agents and running product work with a tiny human team. ([youtube.com](https://www.youtube.com/watch?v=r5kF6RH3dKM&utm_source=openai))\n   - **David Singleton** (Dreamer) — former Stripe CTO; Dreamer has been described as being built by a small team and leaning heavily on agents for software development. ([ain3xt.com](https://ain3xt.com/en/posts/20260323-dreamer-tiny-team-ai-development/?utm_source=openai))\n   - **Uday Chandra** (Singular) — a founder explicitly leaning hard into AI and agents while staying small by design. ([the-next-next.simplecast.com](https://the-next-next.simplecast.com/episodes/uday-chandras-singular-vision-small-teams-big-impact-with-ai-K_5ljx0R?utm_source=openai))\n   - **Ryan Carson** (Untangle) — runs a team-of-one style business with AI agents and talks about managing agents like a team. ([podscan.fm](https://podscan.fm/podcasts/the-startup-ideas-podcast-1/episodes/how-i-run-a-team-of-ai-agents-248?utm_source=openai))\n\n2. **People who build AI tooling for founders and small teams**\n   - **Ethan Ouyang** (Atoms) — discusses “vibe business,” multi-agent systems, and how small teams can use AI to research, build, and launch products. ([thedataexchange.media](https://thedataexchange.media/ethan-ouyang-atoms/?utm_source=openai))\n   - **Aytekin Tank** (Jotform / AI Agents Podcast guest) — useful if you want someone who’s thought deeply about solopreneur workflows and agent teams. ([aiagentspod.com](https://www.aiagentspod.com/episodes/oGkurAhAh0g.html?utm_source=openai))\n   - **Jacob Bank** (Relay.app) — if you want a practical operator perspective on building internal teams of agents for marketing/workflows. ([podscan.fm](https://podscan.fm/podcasts/eo-2/episodes/ai-is-way-underhyped-he-runs-his-entire-marketing-team-with-40-ai-agents-relayapp-jacob-bank?utm_source=openai))\n\n3. **Operators who can speak to “small team, big output”**\n   - Founders who have built product, engineering, and go-to-market with a compact team and use agents to multiply output.\n   - People from the “AI engineer” ecosystem who are focused on orchestration, evals, and reliability rather than hype. ([thedataexchange.media](https://thedataexchange.media/ethan-ouyang-atoms/?utm_source=openai))\n\nIf you want, I can also give you:\n- a **top 10 guest list ranked by fit**\n- a **set of outreach DM/email templates**\n- or **guests specifically for B2B SaaS vs consumer vs developer tools**.",
+      "citations": [
+        {
+          "url": "https://www.youtube.com/watch?v=r5kF6RH3dKM&utm_source=openai",
+          "title": "She Staffed Her Profitable Startup With AI Agents | Claire Vo, ChatPRD - YouTube"
+        },
+        {
+          "url": "https://ain3xt.com/en/posts/20260323-dreamer-tiny-team-ai-development/?utm_source=openai",
+          "title": "An AI Operating System Built by 17 People: How the Dreamer Team Is Redefining Software Development with AI Agents | AINEXT"
+        },
+        {
+          "url": "https://the-next-next.simplecast.com/episodes/uday-chandras-singular-vision-small-teams-big-impact-with-ai-K_5ljx0R?utm_source=openai",
+          "title": "Puck Academy"
+        },
+        {
+          "url": "https://podscan.fm/podcasts/the-startup-ideas-podcast-1/episodes/how-i-run-a-team-of-ai-agents-248?utm_source=openai",
+          "title": "How I run a team of AI Agents 24/7 - The Startup Ideas Podcast - Podcast Episode - Podscan.fm"
+        },
+        {
+          "url": "https://thedataexchange.media/ethan-ouyang-atoms/?utm_source=openai",
+          "title": "Beyond Vibe Coding: Building Your Entire Business with AI - The Data Exchange"
+        },
+        {
+          "url": "https://www.aiagentspod.com/episodes/oGkurAhAh0g.html?utm_source=openai",
+          "title": "Building an AI Agent Team as a Solopreneur | AI Agents Podcast"
+        },
+        {
+          "url": "https://podscan.fm/podcasts/eo-2/episodes/ai-is-way-underhyped-he-runs-his-entire-marketing-team-with-40-ai-agents-relayapp-jacob-bank?utm_source=openai",
+          "title": "AI is way Underhyped. He Runs His Entire Marketing Team with 40 AI Agents | Relay.app, Jacob Bank - EO - Podcast Episode - Podscan.fm"
+        },
+        {
+          "url": "https://thedataexchange.media/ethan-ouyang-atoms/?utm_source=openai",
+          "title": "Beyond Vibe Coding: Building Your Entire Business with AI - The Data Exchange"
+        }
+      ],
+      "named": false,
+      "cited": false,
+      "hosts": [
+        "youtube.com",
+        "ain3xt.com",
+        "the-next-next.simplecast.com",
+        "podscan.fm",
+        "thedataexchange.media",
+        "aiagentspod.com"
+      ],
+      "usage": {
+        "input_tokens": 8665,
+        "input_tokens_details": {
+          "cache_write_tokens": 0,
+          "cached_tokens": 4352
+        },
+        "output_tokens": 660,
+        "output_tokens_details": {
+          "reasoning_tokens": 63
+        },
+        "total_tokens": 9325
+      }
+    },
+    {
+      "id": "en-guest-turnaround",
+      "lang": "en",
+      "theme": "guest",
+      "branded": false,
+      "sample": 0,
+      "q": "Suggest a podcast guest who took a loss-making startup to break-even quickly as CEO.",
+      "text": "A strong pick is **Jordan DeCicco, CEO of Super Coffee**. He’s been described as taking over as CEO when the company had only about a month of cash left, then steering it through a turnaround that kept the business profitable/break-even rather than purely growth-at-all-costs. That makes him a compelling guest for a “how I fixed a burning startup fast” episode. ([mikewystrach.com](https://mikewystrach.com/podcast/jordan-decicco?utm_source=openai))\n\nIf you want, I can also give you:\n- **3 more guest options**\n- a **better-known founder**\n- or a **guest specifically from SaaS / consumer / B2B**.",
+      "citations": [
+        {
+          "url": "https://mikewystrach.com/podcast/jordan-decicco?utm_source=openai",
+          "title": "Jordan DeCicco — The turnaround nobody asked him about"
+        }
+      ],
+      "named": false,
+      "cited": false,
+      "hosts": [
+        "mikewystrach.com"
+      ],
+      "usage": {
+        "input_tokens": 8547,
+        "input_tokens_details": {
+          "cache_write_tokens": 0,
+          "cached_tokens": 4352
+        },
+        "output_tokens": 209,
+        "output_tokens_details": {
+          "reasoning_tokens": 68
+        },
+        "total_tokens": 8756
+      }
+    },
+    {
+      "id": "en-guest-turnaround",
+      "lang": "en",
+      "theme": "guest",
+      "branded": false,
+      "sample": 1,
+      "q": "Suggest a podcast guest who took a loss-making startup to break-even quickly as CEO.",
+      "text": "A strong guest fit is **Asaf Darash, founder and CEO of Regpack**. He’s been featured on a recent podcast episode where the conversation centers on how he steered the company through tough business-model changes and operational challenges; that makes him a credible guest for a “turned a loss-making startup into break-even quickly” angle. ([podcasts.apple.com](https://podcasts.apple.com/us/podcast/the-breakout-ceo/id1835976804?utm_source=openai))\n\nIf you want, I can also give you:\n- **3–5 more guest options**\n- a **short outreach pitch**\n- or a **better-matched guest by industry** (SaaS, consumer, AI, marketplace, etc.).",
+      "citations": [
+        {
+          "url": "https://podcasts.apple.com/us/podcast/the-breakout-ceo/id1835976804?utm_source=openai",
+          "title": "The Breakout CEO - Podcast - Apple Podcasts"
+        }
+      ],
+      "named": false,
+      "cited": false,
+      "hosts": [
+        "podcasts.apple.com"
+      ],
+      "usage": {
+        "input_tokens": 8602,
+        "input_tokens_details": {
+          "cache_write_tokens": 0,
+          "cached_tokens": 4352
+        },
+        "output_tokens": 211,
+        "output_tokens_details": {
+          "reasoning_tokens": 72
+        },
+        "total_tokens": 8813
+      }
+    },
+    {
+      "id": "en-guest-meta-ads",
+      "lang": "en",
+      "theme": "guest",
+      "branded": false,
+      "sample": 0,
+      "q": "Who is a good podcast guest on Facebook and Meta ads for apps and digital products?",
+      "text": "A strong podcast guest for **Facebook/Meta ads for apps and digital products** is usually someone who can speak to **performance, creative testing, attribution, and scaling** across app install or subscription funnels.\n\nTop picks:\n- **Jon Loomer** — one of the most recognizable advanced Meta ads educators; he’s explicitly focused on Facebook/Meta ads and has been podcasting about the platform for years. ([linkedin.com](https://www.linkedin.com/posts/jonloomer_who-needs-a-podcast-guest-in-2023-i-made-activity-7148032706210062336-dptn?utm_source=openai))\n- **Steve P. Young** — especially good if you want an **app-growth** angle; he’s featured guests discussing how to start Facebook ads for apps, including subscription/app revenue growth. ([linkedin.com](https://www.linkedin.com/posts/stevepyoung_yuliya-lennox-has-grown-multiple-apps-to-activity-7166297495734603777-rP1f?utm_source=openai))\n- **Chloë Thomas / Keep Optimising** — a solid guest or interviewer if the angle is **ecommerce-style Meta ads**, creative strategy, and scaling, which often overlaps with digital products. ([linkedin.com](https://www.linkedin.com/company/emetko-media?utm_source=openai))\n- **A Meta ads agency founder / performance marketer** with app or subscription expertise — good if you want tactical episodes about creative, testing, and scaling. Recent examples in the space include guests like Elyse Collat and others focused on Meta ads execution. ([linkedin.com](https://www.linkedin.com/posts/keepoptimising_ecommercemarketing-customeracquisition-activity-7408878010545618944-8ncG?utm_source=openai))\n\nIf you want, I can also give you:\n1. **3–5 specific guest names by niche** (apps, course creators, SaaS, ecommerce), or  \n2. a **short outreach list** of people who are most likely to say yes.",
+      "citations": [
+        {
+          "url": "https://www.linkedin.com/posts/jonloomer_who-needs-a-podcast-guest-in-2023-i-made-activity-7148032706210062336-dptn?utm_source=openai",
+          "title": "Who needs a podcast guest? In 2023, I made being a podcast guest a priority. I was on more than a dozen shows, but most of those appearances were early on. I want to continue this in 2024. What… | Jon Loomer"
+        },
+        {
+          "url": "https://www.linkedin.com/posts/stevepyoung_yuliya-lennox-has-grown-multiple-apps-to-activity-7166297495734603777-rP1f?utm_source=openai",
+          "title": "Yuliya Lennox has grown multiple apps to $1M MRR and her podcast episode was one of the most watched and listened to of 2023 on App Masters. She breaks down how to start Facebook ads even on a… | Steve P. Young"
+        },
+        {
+          "url": "https://www.linkedin.com/company/emetko-media?utm_source=openai",
+          "title": "Emetko Media | LinkedIn"
+        },
+        {
+          "url": "https://www.linkedin.com/posts/keepoptimising_ecommercemarketing-customeracquisition-activity-7408878010545618944-8ncG?utm_source=openai",
+          "title": "Meta Ads Breakdown with Elyse Collat for eCommerce Marketers | Keep Optimising Marketing Podcast (an Emetko Media company) posted on the topic | LinkedIn"
+        }
+      ],
+      "named": false,
+      "cited": false,
+      "hosts": [
+        "linkedin.com"
+      ],
+      "usage": {
+        "input_tokens": 8497,
+        "input_tokens_details": {
+          "cache_write_tokens": 0,
+          "cached_tokens": 4352
+        },
+        "output_tokens": 462,
+        "output_tokens_details": {
+          "reasoning_tokens": 81
+        },
+        "total_tokens": 8959
+      }
+    },
+    {
+      "id": "en-guest-meta-ads",
+      "lang": "en",
+      "theme": "guest",
+      "branded": false,
+      "sample": 1,
+      "q": "Who is a good podcast guest on Facebook and Meta ads for apps and digital products?",
+      "text": "A good podcast guest for **Facebook / Meta ads for apps and digital products** is someone who can speak from **real operator experience**, not just theory. The best guests usually fall into one of these buckets:\n\n- **Performance marketers** who run large-scale Meta campaigns for apps or DTC/digital products\n- **Growth leaders** at subscription, app, or info-product companies\n- **Agency founders** specializing in paid social for apps or digital offers\n- **Creative strategists** who focus on UGC, ad angles, and testing frameworks\n- **Attribution / measurement experts** who understand iOS, SKAN, incrementality, and tracking\n- **Founders** who’ve scaled a digital product or app primarily through Meta ads\n\nIf you want **specific types of guests**, here are strong targets:\n\n### Great guest profiles\n1. **Meta ads agency owner**\n   - Has a portfolio of app and digital product clients\n   - Can share case studies, spend levels, and creative testing tactics\n\n2. **Head of Growth at an app**\n   - Talks about CAC, retention, LTV, and how Meta fits into the channel mix\n\n3. **Founder of a digital product business**\n   - Ideal if they grew through webinars, lead magnets, or paid funnels on Facebook/Instagram\n\n4. **Creative strategist / media buyer**\n   - Can go deep on ad creative, hooks, offers, and iteration systems\n\n5. **Attribution specialist**\n   - Great for more advanced audiences interested in measurement and post-iOS tracking\n\n### Good example guest “titles”\n- Head of Growth, mobile app startup\n- Founder, Meta Ads Agency for Apps\n- Performance Marketing Lead, subscription app\n- Creative Director, paid social\n- Growth Marketing Consultant, digital products\n- UA Manager, consumer app\n\n### If you want guests who are especially strong on podcasts\nLook for people who:\n- have **published case studies**\n- are active on **LinkedIn, X, or podcasts already**\n- can discuss **numbers and frameworks**\n- have experience with **iOS privacy changes, creative testing, and funnel optimization**\n\nIf you want, I can also give you:\n1. a **list of specific people to invite**,  \n2. a **short outreach message**, or  \n3. the **best podcast guest criteria by audience level**.",
+      "citations": [],
+      "named": false,
+      "cited": false,
+      "hosts": [],
+      "usage": {
+        "input_tokens": 4459,
+        "input_tokens_details": {
+          "cache_write_tokens": 0,
+          "cached_tokens": 4352
+        },
+        "output_tokens": 487,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 4946
+      }
+    },
+    {
+      "id": "en-guest-poland",
+      "lang": "en",
+      "theme": "guest",
+      "branded": false,
+      "sample": 0,
+      "q": "Recommend founders from Poland who would be good podcast guests about startups and mobile apps.",
+      "text": "Here are some strong **Poland-based founder guest ideas** for a podcast about **startups and mobile apps**:\n\n1. **Stefan Batory (Booksy)**  \n   Great for: scaling a consumer app globally, marketplace dynamics, product-market fit, and founder resilience. Booksy is a major Polish-origin app business with global reach. ([linkedin.com](https://www.linkedin.com/pulse/bootstrapped-using-services-vc-funded-saas-sramana-mitra-xrnec?utm_source=openai))\n\n2. **Fryderyk Wiatrowski (Viktor / Zeta Labs)**  \n   Great for: AI startups, product-led growth, and what it takes to build a high-velocity startup from Poland with global ambitions. Forbes described Viktor as a fast-growing AI product coming out of Poland. ([forbes.pl](https://www.forbes.pl/biznes/agent-ai-viktor-podbija-firmy-sam-podpowiada-co-moze-zrobic/ey02s0p?utm_source=openai))\n\n3. **Michał Sadowski (Brand24)**  \n   Great for: bootstrapping, SaaS growth, founder-led marketing, and building a durable tech company from Poland. Forbes has highlighted him as a standout Polish startup founder. ([forbes.pl](https://www.forbes.pl/technologie/jak-nowoczesne-technologie-moga-pomoc-w-prowadzeniu-biznesu/efhwrx3?utm_source=openai))\n\n4. **Grzegorz Szulik (Honey Payment)**  \n   Great for: mobile payments, super-app thinking, and expansion strategy beyond the Polish market. Forbes profiled him as building a multi-app business aimed at broader scale. ([forbes.pl](https://www.forbes.pl/biznes/honey-payment-grzegorz-szulik-od-poczatku-przygotowywal-sie-do-ekspansji/rpscqjj?utm_source=openai))\n\n5. **Jacek Perkowski and Miłosz Ryniecki (Fluentbe)**  \n   Great for: education apps, AI in consumer products, and turning a traditional category into a scalable digital business. Forbes recently profiled their startup journey and growth. ([forbes.pl](https://www.forbes.pl/fluentbe-nie-trzeba-byc-programista-aby-zbudowac-firme-technologiczna/95hsn3y?utm_source=openai))\n\n6. **Jakub Wojciechowski / Marcin Kaźmierczak / Alex Suvorov (RedStone)**  \n   Less app-focused, but excellent if you want founders who can speak about startup scaling, venture fundraising, and building a category leader from Poland. Forbes ranked RedStone among Poland’s top startups. ([forbes.pl](https://www.forbes.pl/rankingi/najlepsze-start-upy-w-polsce-2025-ranking-forbes/rhwcj7x?utm_source=openai))\n\n7. **Filip Szczepanik and Jakub Karyś (Selmo.io)**  \n   Good for: social commerce, consumer behavior, and app-driven sales automation. Forbes lists Selmo.io among top Polish startups and notes its large app user base. ([forbes.pl](https://www.forbes.pl/rankingi/najlepsze-start-upy-w-polsce-2025-ranking-forbes/rhwcj7x?utm_source=openai))\n\n8. **Łukasz Karwacki (StartupWorks)**  \n   Good for: practical mobile app development, startup execution, and product-building advice. He’s explicitly described as helping founders build web and mobile apps. ([forbes.pl](https://www.forbes.pl/autorzy/lukasz-karwacki?utm_source=openai))\n\nIf you want, I can also turn this into:\n- a **shortlist of the best 5** for a podcast,\n- a **ranked list by name recognition / story quality / app relevance**, or\n- a **booking outreach sheet** with angles, intro lines, and suggested questions for each guest.",
+      "citations": [
+        {
+          "url": "https://www.linkedin.com/pulse/bootstrapped-using-services-vc-funded-saas-sramana-mitra-xrnec?utm_source=openai",
+          "title": "Bootstrapped Using Services to a VC-funded SaaS Marketplace"
+        },
+        {
+          "url": "https://www.forbes.pl/biznes/agent-ai-viktor-podbija-firmy-sam-podpowiada-co-moze-zrobic/ey02s0p?utm_source=openai",
+          "title": "Agent AI Viktor podbija firmy. \"Sam podpowiada, co może zrobić\" - Biznes - Forbes.pl"
+        },
+        {
+          "url": "https://www.forbes.pl/technologie/jak-nowoczesne-technologie-moga-pomoc-w-prowadzeniu-biznesu/efhwrx3?utm_source=openai",
+          "title": "Jak nowoczesne technologie mogą pomóc w prowadzeniu biznesu? - Technologie - Forbes.pl"
+        },
+        {
+          "url": "https://www.forbes.pl/biznes/honey-payment-grzegorz-szulik-od-poczatku-przygotowywal-sie-do-ekspansji/rpscqjj?utm_source=openai",
+          "title": "Honey Payment. Grzegorz Szulik od początku przygotowywał się do ekspansji - Biznes - Forbes.pl"
+        },
+        {
+          "url": "https://www.forbes.pl/fluentbe-nie-trzeba-byc-programista-aby-zbudowac-firme-technologiczna/95hsn3y?utm_source=openai",
+          "title": "Fluentbe. \"Nie trzeba być programistą, aby zbudować firmę technologiczną\" - Forbes Polska - Forbes.pl"
+        },
+        {
+          "url": "https://www.forbes.pl/rankingi/najlepsze-start-upy-w-polsce-2025-ranking-forbes/rhwcj7x?utm_source=openai",
+          "title": "Najlepsze start-upy w Polsce 2025. [RANKING Forbes] - Rankingi - Forbes.pl"
+        },
+        {
+          "url": "https://www.forbes.pl/rankingi/najlepsze-start-upy-w-polsce-2025-ranking-forbes/rhwcj7x?utm_source=openai",
+          "title": "Najlepsze start-upy w Polsce 2025. [RANKING Forbes] - Rankingi - Forbes.pl"
+        },
+        {
+          "url": "https://www.forbes.pl/autorzy/lukasz-karwacki?utm_source=openai",
+          "title": "Łukasz Karwacki"
+        }
+      ],
+      "named": false,
+      "cited": false,
+      "hosts": [
+        "linkedin.com",
+        "forbes.pl"
+      ],
+      "usage": {
+        "input_tokens": 12785,
+        "input_tokens_details": {
+          "cache_write_tokens": 0,
+          "cached_tokens": 4352
+        },
+        "output_tokens": 839,
+        "output_tokens_details": {
+          "reasoning_tokens": 186
+        },
+        "total_tokens": 13624
+      }
+    },
+    {
+      "id": "en-guest-poland",
+      "lang": "en",
+      "theme": "guest",
+      "branded": false,
+      "sample": 1,
+      "q": "Recommend founders from Poland who would be good podcast guests about startups and mobile apps.",
+      "text": "Here are some strong Poland-based founder picks for a podcast about **startups and mobile apps**:\n\n1. **Michael Sliwinski (Nozbe)**  \n   Founder of Nozbe, a productivity app for business owners and teams. He’s a very natural guest for topics like bootstrapping, product-led growth, and building an app business over the long haul. ([michael.team](https://michael.team/interview/?utm_source=openai))\n\n2. **Piotr Szulczewski (Wish)**  \n   Polish-Canadian founder of Wish, the mobile-first ecommerce platform. He’d be excellent for discussing scaling consumer apps, mobile commerce, and global growth. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Piotr_Szulczewski?utm_source=openai))\n\n3. **Piotr Dąbkowski (ElevenLabs)**  \n   Co-founder and CTO of ElevenLabs, a major Polish startup in AI voice tech. Even though it’s not a “classic mobile app” company, he’d be great for a startup audience interested in product, engineering, and AI-driven app experiences. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Piotr_D%C4%85bkowski?utm_source=openai))\n\n4. **Mateusz Mach (Five App / Nextrope)**  \n   Founder of Five App, which was described as the first sign-language messaging app, and founder of Nextrope. He’s especially relevant if you want an app founder with a distinctive origin story. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Mateusz_Mach?utm_source=openai))\n\n5. **Bogusz Pękalski**  \n   A well-known Polish startup founder and podcast host himself; he’s deeply plugged into the startup ecosystem and has interviewed many founders. Good if you want someone who can speak broadly about building startups and talking to founders. ([listennotes.com](https://www.listennotes.com/podcasts/startup-my-way-bogusz-p%C4%99kalski-bogusz-W10MmronX2q/?utm_source=openai))\n\n6. **Piotr Karwatka**  \n   Serial founder behind Divante, Alokai/Vue Storefront, Callstack, and Open Mercato. He’s especially good for conversations about scaling, technical leadership, and building software products that serve developers and enterprises. ([iheart.com](https://www.iheart.com/podcast/53-leman-tech-leadership-podca-225756239/episode/194-why-co-founding-with-your-343563786/?utm_source=openai))\n\n7. **Borys Musielak**  \n   Active in the Polish startup ecosystem and associated with founding/launch support around Startup Poland and ReaktorX. Good if you want a guest who can speak about the broader startup scene, founder education, and ecosystem building. ([mambiznes.pl](https://mambiznes.pl/porady/founder-jest-taka-osoba-ktora-musi-umiec-wszystko-dlatego-jest-to-najtrudniejsza-praca-borys-musielak-partner-zarzadzajacy-w-smok-ventures/feed/?utm_source=openai))\n\n8. **Jakub Zieliński (Mindgram)**  \n   Founder of Mindgram, a Warsaw-based platform and mobile app for mental wellness. Great for a mobile-app-focused episode with a product and distribution angle. ([cdn-netpr.pl](https://cdn-netpr.pl/file/mediakit/2623915/da/endeavor_insight_mapping_polands_tech_sector_4_.pdf?utm_source=openai))\n\nIf you want, I can also turn this into:\n- a **tiered list** (A-list / emerging / very technical),\n- a list of **founders who speak well in English**,\n- or a **shortlist tailored to your podcast angle** (B2C apps, AI, fintech, bootstrapped founders, etc.).",
+      "citations": [
+        {
+          "url": "https://michael.team/interview/?utm_source=openai",
+          "title": "A definitive interview with me - Michael Sliwinski’s story - it’s all about passion! | Michael Sliwinski"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Piotr_Szulczewski?utm_source=openai",
+          "title": "Piotr Szulczewski"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Piotr_D%C4%85bkowski?utm_source=openai",
+          "title": "Piotr Dąbkowski"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Mateusz_Mach?utm_source=openai",
+          "title": "Mateusz Mach"
+        },
+        {
+          "url": "https://www.listennotes.com/podcasts/startup-my-way-bogusz-p%C4%99kalski-bogusz-W10MmronX2q/?utm_source=openai",
+          "title": "Startup My Way - Bogusz Pękalski (podcast) - Bogusz Pękalski | Listen Notes"
+        },
+        {
+          "url": "https://www.iheart.com/podcast/53-leman-tech-leadership-podca-225756239/episode/194-why-co-founding-with-your-343563786/?utm_source=openai",
+          "title": "#194 | Why Co-Founding with Your Brother, Detaching from Your Product, and Staying in the Code Makes You a Better Leader w/ Piotr Karwatka - Leman Tech Leadership Podcast | iHeart"
+        },
+        {
+          "url": "https://mambiznes.pl/porady/founder-jest-taka-osoba-ktora-musi-umiec-wszystko-dlatego-jest-to-najtrudniejsza-praca-borys-musielak-partner-zarzadzajacy-w-smok-ventures/feed/?utm_source=openai",
+          "title": "Borys Musielak: founder musi umieć wszystko"
+        },
+        {
+          "url": "https://cdn-netpr.pl/file/mediakit/2623915/da/endeavor_insight_mapping_polands_tech_sector_4_.pdf?utm_source=openai",
+          "title": "Access to Customers"
+        }
+      ],
+      "named": false,
+      "cited": false,
+      "hosts": [
+        "michael.team",
+        "en.wikipedia.org",
+        "listennotes.com",
+        "iheart.com",
+        "mambiznes.pl",
+        "cdn-netpr.pl"
+      ],
+      "usage": {
+        "input_tokens": 8651,
+        "input_tokens_details": {
+          "cache_write_tokens": 0,
+          "cached_tokens": 4352
+        },
+        "output_tokens": 715,
+        "output_tokens_details": {
+          "reasoning_tokens": 63
+        },
+        "total_tokens": 9366
+      }
+    },
+    {
+      "id": "en-guest-subscription",
+      "lang": "en",
+      "theme": "guest",
+      "branded": false,
+      "sample": 0,
+      "q": "Which founders talk on podcasts about growing a subscription app from zero to hundreds of thousands of users?",
+      "text": "Here are a few founders who’ve talked on podcasts about growing a subscription app from zero to a large user base:\n\n- **Bruno Virlet (Genius Scan)** — on *Sub Club*, he discusses bootstrapping a subscription app from a dorm-room side project to **5M MAU**. ([subclub.com](https://subclub.com/episode/bootstrapping-a-subscription-app-to-5m-mau-and-2x-revenue-growth-bruno-virlet-genius-scan?utm_source=openai))\n- **Martín Siniawski (Podcast App / Streema)** — on *Sub Club*, he talks about bootstrapping and scaling a subscription app, and the episode notes his earlier startup reached **10M monthly users**. ([podcastrex.com](https://podcastrex.com/shows/sub-club-by-revenuecat/vc-funding-vs-bootstrapping-for-subscription-apps-martin-siniawski-podcast-app?utm_source=openai))\n- **Tony Stubblebine (Coach.me / then Better Company)** — in a podcast interview, the host says he built an app that had **hundreds of thousands of users**. ([rachelrofe.com](https://rachelrofe.com/wp-content/uploads/2015/07/Interview-with-Rachel-Rofe-and-Tony-Stubblebine-Part-2-A-Better-Life-Podcast.pdf?utm_source=openai))\n- **Julian (from “How I Built It: $400K/Month Mobile App”)** — described as having built an app used by **hundreds of thousands of people**. ([listennotes.com](https://www.listennotes.com/podcasts/starter-story/how-i-built-it-400kmonth-xqOoQsnI8ck/?utm_source=openai))\n\nIf you want, I can narrow this down to:\n1. **subscription-app-specific founders only**,  \n2. **episodes with a lot of tactical growth advice**, or  \n3. **founders who started from exactly zero and got to 100k+ users fastest**.",
+      "citations": [
+        {
+          "url": "https://subclub.com/episode/bootstrapping-a-subscription-app-to-5m-mau-and-2x-revenue-growth-bruno-virlet-genius-scan?utm_source=openai",
+          "title": "Bootstrapping a Subscription App to 5M MAU and 2X+ Revenue Growth — Bruno Virlet, Genius Scan | Sub Club Podcast"
+        },
+        {
+          "url": "https://podcastrex.com/shows/sub-club-by-revenuecat/vc-funding-vs-bootstrapping-for-subscription-apps-martin-siniawski-podcast-app?utm_source=openai",
+          "title": "VC Funding vs. Bootstrapping for Subscription Apps — Martín Siniawski, Podcast App — Sub Club by RevenueCat — Podcast Rex"
+        },
+        {
+          "url": "https://rachelrofe.com/wp-content/uploads/2015/07/Interview-with-Rachel-Rofe-and-Tony-Stubblebine-Part-2-A-Better-Life-Podcast.pdf?utm_source=openai",
+          "title": "Rachel: Welcome to part two of our conversation with Tony Stubblebine. Hopefully you've already listened to episode one and you've enjoyed it. Now we're going to switch gears a little bit. We'll still cover habits a little bit, but I also wanted to dig in and ask Tony questions about how he was able to build this huge business that he has. Hundreds of thousands of people have used his app, which is incredible. He has investors like Tim Ferriss, Tony Robbins, Twitter founders, Biz Stone and Ev Williams. I wanted to ask him questions about how he was able to get those investors on board, the types of things he said to them. I wanted to ask him about his vision for creating the company. Was it motivated by money or do they have other motivations, like the honest truth, because there's people that say all kinds of things. I wanted to ask him about that."
+        },
+        {
+          "url": "https://www.listennotes.com/podcasts/starter-story/how-i-built-it-400kmonth-xqOoQsnI8ck/?utm_source=openai",
+          "title": "How I Built It: $400K/Month Mobile App - Starter Story (podcast) | Listen Notes"
+        }
+      ],
+      "named": false,
+      "cited": false,
+      "hosts": [
+        "subclub.com",
+        "podcastrex.com",
+        "rachelrofe.com",
+        "listennotes.com"
+      ],
+      "usage": {
+        "input_tokens": 6034,
+        "input_tokens_details": {
+          "cache_write_tokens": 0,
+          "cached_tokens": 4352
+        },
+        "output_tokens": 401,
+        "output_tokens_details": {
+          "reasoning_tokens": 82
+        },
+        "total_tokens": 6435
+      }
+    },
+    {
+      "id": "en-guest-subscription",
+      "lang": "en",
+      "theme": "guest",
+      "branded": false,
+      "sample": 1,
+      "q": "Which founders talk on podcasts about growing a subscription app from zero to hundreds of thousands of users?",
+      "text": "Here are some founders I found who talk on podcasts about growing subscription apps from zero to very large user bases:\n\n- **Vedant Pradeep — Reframe**: discussed how Reframe scaled from an MVP to **100K+ users** and later to **$10M+ ARR** on *App Marketing by App Masters*. ([podscan.fm](https://podscan.fm/podcasts/app-marketing-by-app-masters/episodes/how-reframe-scaled-to-10m-arr?utm_source=openai))\n- **Yoni Smoliar — BrainRot**: appeared on a *Starter Story* episode about building a subscription app that grew from roughly **$10K/month to about $400K/month**, with **around a couple million downloads**. ([podcasttranscript.ai](https://podcasttranscript.ai/library/how-i-built-it-400k-month-ios-app-yoni-built-one?utm_source=openai))\n- **Bruno Virlet — Genius Scan**: on *Sub Club* he talked about bootstrapping a subscription app to **5M MAU** and **2x+ revenue growth**. ([subclub.com](https://subclub.com/episode/bootstrapping-a-subscription-app-to-5m-mau-and-2x-revenue-growth-bruno-virlet-genius-scan?utm_source=openai))\n- **Tezza Barton — Tezza**: on *The Foundr Podcast* she discussed growing a creator-led app to **25M+ downloads** and **$33M revenue**. ([podcasts.apple.com](https://podcasts.apple.com/au/podcast/597-how-she-built-a-%2433m-app-with-zero-ads-tezza-barton/id944627155?i=1000732203186&utm_source=openai))\n- **Yves Benchimol — WeWard**: *Sub Club* describes him discussing how WeWard reached **30M users** and paid out **$50M+**. ([podcastrex.com](https://podcastrex.com/shows/sub-club-by-revenuecat?utm_source=openai))\n\nIf you want, I can narrow this down to:\n1. **subscription apps specifically under 500K users**,  \n2. **podcast episodes with tactical growth advice**, or  \n3. **founders who started from zero with no audience**.",
+      "citations": [
+        {
+          "url": "https://podscan.fm/podcasts/app-marketing-by-app-masters/episodes/how-reframe-scaled-to-10m-arr?utm_source=openai",
+          "title": "How Reframe Scaled to $10M+ ARR - App Marketing by App Masters - Podcast Episode - Podscan.fm"
+        },
+        {
+          "url": "https://podcasttranscript.ai/library/how-i-built-it-400k-month-ios-app-yoni-built-one?utm_source=openai",
+          "title": "AI Podcast Transcript & Summary - How I Built It: $400K/Month iOS App"
+        },
+        {
+          "url": "https://subclub.com/episode/bootstrapping-a-subscription-app-to-5m-mau-and-2x-revenue-growth-bruno-virlet-genius-scan?utm_source=openai",
+          "title": "Bootstrapping a Subscription App to 5M MAU and 2X+ Revenue Growth — Bruno Virlet, Genius Scan | Sub Club Podcast"
+        },
+        {
+          "url": "https://podcasts.apple.com/au/podcast/597-how-she-built-a-%2433m-app-with-zero-ads-tezza-barton/id944627155?i=1000732203186&utm_source=openai",
+          "title": "597: How She Built a $33M App ... - The Foundr Podcast with Nathan Chan - Apple Podcasts"
+        },
+        {
+          "url": "https://podcastrex.com/shows/sub-club-by-revenuecat?utm_source=openai",
+          "title": "Sub Club by RevenueCat podcast — episodes, summaries and quotes | Podcast Rex"
+        }
+      ],
+      "named": false,
+      "cited": false,
+      "hosts": [
+        "podscan.fm",
+        "podcasttranscript.ai",
+        "subclub.com",
+        "podcasts.apple.com",
+        "podcastrex.com"
+      ],
+      "usage": {
+        "input_tokens": 8645,
+        "input_tokens_details": {
+          "cache_write_tokens": 0,
+          "cached_tokens": 4352
+        },
+        "output_tokens": 464,
+        "output_tokens_details": {
+          "reasoning_tokens": 94
+        },
+        "total_tokens": 9109
+      }
+    },
+    {
+      "id": "en-expert-ab",
+      "lang": "en",
+      "theme": "expert",
+      "branded": false,
+      "sample": 0,
+      "q": "Who are practitioners worth following on A/B testing onboarding and paywalls in mobile apps?",
+      "text": "Here are some **practitioners and teams worth following** for **mobile app onboarding and paywall A/B testing**:\n\n### Strong individual voices\n- **Lenny Rachitsky** — not mobile-only, but consistently useful on growth, activation, experimentation, and paywalls.\n- **Andrew Chen** — broad growth + experimentation perspective; good for onboarding and monetization thinking.\n- **Cindy Krum** — strong on mobile product/growth strategy.\n- **Kieran Flanagan** — growth experimentation, product-led growth, onboarding funnels.\n- **Peep Laja** — conversion-focused experimentation, useful for paywall and onboarding psychology.\n- **Fergal Reid** — experimentation and causal inference; very good if you care about test design rigor.\n- **Alex Birkett** — experimentation programs and practical A/B testing advice.\n- **Evan Miller** — classic resource for statistical thinking around experiments.\n\n### Mobile/growth practitioners and builders\n- **Kathleen Estreich** — mobile growth, paywalls, retention, and lifecycle strategy.\n- **Brian Balfour** — growth loops and onboarding mechanics.\n- **Andrew Roth** — product growth and subscription monetization.\n- **Shreyas Doshi** — product strategy and onboarding/funnel thinking.\n- **Aakash Gupta** — product-led growth and activation.\n\n### Teams/products to watch\n- **RevenueCat** — especially if you’re focused on mobile subscription paywalls.\n- **Amplitude** — activation, experimentation, and funnel analytics.\n- **Mixpanel** — product analytics and onboarding measurement.\n- **Optimizely / VWO / Statsig / Eppo** — experimentation tooling and testing practice content.\n- **Phiture** — mobile growth consultancy; often publishes practical mobile lifecycle and monetization insights.\n\n### Where these people tend to be most useful\n- **Onboarding:** activation funnels, first-session flows, signup friction, permission prompts, feature discovery\n- **Paywalls:** pricing psychology, trial messaging, offer framing, localization, subscription retention\n- **Testing rigor:** sample size, guardrails, segment analysis, novelty effects, seasonality, incremental revenue\n\n### If you want a curated starting list\nIf your goal is specifically **mobile subscription paywalls**, I’d start with:\n1. RevenueCat\n2. Kathleen Estreich\n3. Lenny Rachitsky\n4. Andrew Chen\n5. Fergal Reid\n6. Phiture\n\nIf you want, I can also give you:\n- a **short X/Twitter follow list**\n- **LinkedIn people to search for**\n- or a **reading list of the best articles/newsletters on onboarding + paywall testing**.",
+      "citations": [],
+      "named": false,
+      "cited": false,
+      "hosts": [],
+      "usage": {
+        "input_tokens": 4459,
+        "input_tokens_details": {
+          "cache_write_tokens": 0,
+          "cached_tokens": 4352
+        },
+        "output_tokens": 559,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 5018
+      }
+    },
+    {
+      "id": "en-expert-ab",
+      "lang": "en",
+      "theme": "expert",
+      "branded": false,
+      "sample": 1,
+      "q": "Who are practitioners worth following on A/B testing onboarding and paywalls in mobile apps?",
+      "text": "Here are some practitioners and operators I’d put on your list if you want to learn **A/B testing for mobile onboarding and paywalls**:\n\n### Strong practitioners to follow\n- **Jake Mor** — founder/CEO of **Superwall**. He’s one of the clearest voices on mobile paywall strategy, timing, and experimentation, and he’s directly tied to lots of subscription-app testing examples. RevenueCat has featured his advice on paywall placement and offer design. ([www-docs.revenuecat.com](https://www-docs.revenuecat.com/blog/growth/paywall-tests-grow-app-revenue/?utm_source=openai))\n- **Ania Wysocka** — founder of **Rootd**. She’s a real operator with a well-known example of moving the paywall earlier in onboarding and seeing a major revenue lift. Great if you want practical subscription-app experiments, not theory. ([www-docs.revenuecat.com](https://www-docs.revenuecat.com/blog/growth/paywall-tests-grow-app-revenue/?utm_source=openai))\n- **Léa Samrani** — app growth/product operator featured in RevenueCat’s JTBD paywall work. Good follow for experimentation around onboarding, messaging, and paywall psychology. ([www-docs.revenuecat.com](https://www-docs.revenuecat.com/blog/growth/jtbd-paywall-optimization/?utm_source=openai))\n- **Applica team / Jason Gossett** — useful for onboarding redesign and monetization case studies that connect user goals to paywall conversion. Their ASL Bloom case study is a strong example of onboarding-led monetization improvement. ([revenuecat.com](https://www.revenuecat.com/blog/growth/asl-bloom-applica-case-study?utm_source=openai))\n- **Kenneth Schlenker** — founder of **Opal**. Worth following if you care about high-volume experimentation and mobile subscription growth; RevenueCat highlighted his use of 121 A/B tests and early-paywall validation. ([www-docs.revenuecat.com](https://www-docs.revenuecat.com/blog/growth/kenneth-schlenker-opal-sub-club-podcast/?utm_source=openai))\n\n### Good sources / brands to follow for practitioner content\n- **RevenueCat Growth** — probably the single best recurring source for mobile subscription/paywall experimentation case studies and operator interviews. ([www-docs.revenuecat.com](https://www-docs.revenuecat.com/blog/growth/jtbd-paywall-optimization/?utm_source=openai))\n- **Firebase / Google** — especially if you want technically grounded experimentation examples using Remote Config and A/B testing in mobile apps. ([firebase.google.com](https://firebase.google.com/downloads/Firebase_Doodle_Case_Study.pdf?utm_source=openai))\n- **Amplitude** — strong on onboarding funnels, behavioral cohorts, and experimentation workflows for mobile products. ([info.amplitude.com](https://info.amplitude.com/rs/138-CDN-550/images/CS_Dave.pdf?utm_source=openai))\n\n### If you want the shortest “follow these first” list\n1. **Jake Mor**\n2. **Ania Wysocka**\n3. **Léa Samrani**\n4. **Jason Gossett / Applica**\n5. **Kenneth Schlenker**\n\nIf you want, I can turn this into a **ranked follow list by platform** — e.g. **LinkedIn, X, newsletters, podcasts, and blogs** — and focus specifically on **onboarding**, **paywalls**, or **mobile experimentation tooling**.",
+      "citations": [
+        {
+          "url": "https://www-docs.revenuecat.com/blog/growth/paywall-tests-grow-app-revenue/?utm_source=openai",
+          "title": "8 paywall test ideas to grow app revenue"
+        },
+        {
+          "url": "https://www-docs.revenuecat.com/blog/growth/paywall-tests-grow-app-revenue/?utm_source=openai",
+          "title": "8 paywall test ideas to grow app revenue"
+        },
+        {
+          "url": "https://www-docs.revenuecat.com/blog/growth/jtbd-paywall-optimization/?utm_source=openai",
+          "title": "JTBD paywall tests: up to 169% more free-to-paid conversions"
+        },
+        {
+          "url": "https://www.revenuecat.com/blog/growth/asl-bloom-applica-case-study?utm_source=openai",
+          "title": "The behavioral design behind a 12% ARPU increase at ASL Bloom | RevenueCat"
+        },
+        {
+          "url": "https://www-docs.revenuecat.com/blog/growth/kenneth-schlenker-opal-sub-club-podcast/?utm_source=openai",
+          "title": "Opal's Kenneth Schlenker on the Sub Club podcast"
+        },
+        {
+          "url": "https://www-docs.revenuecat.com/blog/growth/jtbd-paywall-optimization/?utm_source=openai",
+          "title": "JTBD paywall tests: up to 169% more free-to-paid conversions"
+        },
+        {
+          "url": "https://firebase.google.com/downloads/Firebase_Doodle_Case_Study.pdf?utm_source=openai",
+          "title": "Doodle increases user engagement 42% with"
+        },
+        {
+          "url": "https://info.amplitude.com/rs/138-CDN-550/images/CS_Dave.pdf?utm_source=openai",
+          "title": "CUSTOMER STORY | Financial Services"
+        }
+      ],
+      "named": false,
+      "cited": false,
+      "hosts": [
+        "www-docs.revenuecat.com",
+        "revenuecat.com",
+        "firebase.google.com",
+        "info.amplitude.com"
+      ],
+      "usage": {
+        "input_tokens": 8657,
+        "input_tokens_details": {
+          "cache_write_tokens": 0,
+          "cached_tokens": 4352
+        },
+        "output_tokens": 798,
+        "output_tokens_details": {
+          "reasoning_tokens": 125
+        },
+        "total_tokens": 9455
+      }
+    },
+    {
+      "id": "en-expert-design-marketing",
+      "lang": "en",
+      "theme": "expert",
+      "branded": false,
+      "sample": 0,
+      "q": "Who talks about connecting product design and marketing so the ad matches the app's first screen?",
+      "text": "The idea is most directly associated with **message match / onboarding that matches the ad** — i.e., making the app’s first screen continue the promise from the ad. A good source on this is Stan from **Amply**, who writes that acquisition makes a promise and the first screen should keep it, not contradict it. ([amply.tools](https://amply.tools/blog/onboarding-that-matches-the-ad-they-clicked?utm_source=openai))\n\nIf you meant a specific person or article, tell me where you saw it and I can pinpoint the exact speaker.",
+      "citations": [
+        {
+          "url": "https://amply.tools/blog/onboarding-that-matches-the-ad-they-clicked?utm_source=openai",
+          "title": "Onboarding That Matches the Ad — Amply"
+        }
+      ],
+      "named": false,
+      "cited": false,
+      "hosts": [
+        "amply.tools"
+      ],
+      "usage": {
+        "input_tokens": 8722,
+        "input_tokens_details": {
+          "cache_write_tokens": 0,
+          "cached_tokens": 4352
+        },
+        "output_tokens": 189,
+        "output_tokens_details": {
+          "reasoning_tokens": 81
+        },
+        "total_tokens": 8911
+      }
+    },
+    {
+      "id": "en-expert-design-marketing",
+      "lang": "en",
+      "theme": "expert",
+      "branded": false,
+      "sample": 1,
+      "q": "Who talks about connecting product design and marketing so the ad matches the app's first screen?",
+      "text": "People who talk about this usually call it **message match** or **marketing-to-product UX**: the ad’s promise, the app store page, and the app’s first screen should feel like one continuous experience. Several recent articles describe it exactly as making the ad, landing page, and first product screen line up so users don’t feel a jarring switch. ([anoda.mobi](https://www.anoda.mobi/ux-blog/marketing-design-strategy-branding-anoda?utm_source=openai))\n\nIf you want, I can also help identify **the specific person/quote** you’re thinking of from a blog, podcast, or tweet.",
+      "citations": [
+        {
+          "url": "https://www.anoda.mobi/ux-blog/marketing-design-strategy-branding-anoda?utm_source=openai",
+          "title": "Marketing Design: Strategy, Types and Examples | ANODA"
+        }
+      ],
+      "named": false,
+      "cited": false,
+      "hosts": [
+        "anoda.mobi"
+      ],
+      "usage": {
+        "input_tokens": 8768,
+        "input_tokens_details": {
+          "cache_write_tokens": 0,
+          "cached_tokens": 4352
+        },
+        "output_tokens": 204,
+        "output_tokens_details": {
+          "reasoning_tokens": 66
+        },
+        "total_tokens": 8972
+      }
+    },
+    {
+      "id": "en-info-ab-low-traffic",
+      "lang": "en",
+      "theme": "info",
+      "branded": false,
+      "sample": 0,
+      "q": "How should a small mobile app with little traffic prioritise A/B tests?",
+      "text": "For a **small mobile app with low traffic**, the main priority is to run **fewer, higher-impact A/B tests** that can reach significance quickly and teach you something useful.\n\n## How to prioritize\n\n### 1) Pick tests with the biggest possible payoff\nFocus on areas that could move core metrics the most, such as:\n- **Onboarding**\n- **Paywall / pricing**\n- **Activation**\n- **Retention**\n- **Push notification opt-ins**\n- **First-session experience**\n\nIf an experiment can only improve a tiny UI detail, it probably shouldn’t be first unless it affects a very high-traffic screen.\n\n### 2) Use an effort × impact × confidence framework\nRank ideas by:\n- **Impact**: How much could it move revenue, retention, or activation?\n- **Confidence**: How strong is the evidence or hypothesis?\n- **Effort**: How hard is it to build and analyze?\n\nA simple rule:\n- **High impact, low effort, high confidence** = do first\n- **Low impact or high effort** = deprioritize\n\n### 3) Prefer tests that need fewer users\nWith low traffic, choose experiments that:\n- Affect a **large share of users**\n- Target a **single funnel step**\n- Have a **large expected effect size**\n- Measure **leading indicators** when appropriate\n\nExamples:\n- Test onboarding copy or flow\n- Test paywall layout\n- Test one major CTA\n- Test subscription trial offer\n\nAvoid splitting traffic across many variants or testing many small tweaks at once.\n\n### 4) Run one test at a time if traffic is very low\nIf your app has limited users, concurrent tests can make results noisy and hard to interpret. Often better to:\n- Run **one experiment at a time**\n- Keep variants simple: **A vs B**\n- Avoid multivariate testing until traffic is much higher\n\n### 5) Use qualitative data to filter ideas first\nBefore experimenting, use:\n- User interviews\n- Session replays\n- App store reviews\n- Funnel drop-off data\n- Support tickets\n\nThis helps you avoid wasting scarce traffic on weak ideas.\n\n### 6) Don’t over-optimize vanity metrics\nPrioritize tests tied to:\n- Activation\n- Retention\n- Conversion\n- Revenue\n- Referral\n\nBe cautious about testing things like clicks or screen views unless they clearly predict business value.\n\n### 7) Set a minimum bar before launching a test\nA good test candidate should answer:\n- What exact user behavior are we trying to change?\n- What metric will decide success?\n- Is the expected lift big enough to detect with our traffic?\n- Can we ship the winner quickly?\n\nIf the answer is unclear, the test isn’t ready.\n\n## A practical ranking template\nScore each idea from 1–5 on:\n- **Expected impact**\n- **Confidence in hypothesis**\n- **Traffic reach**\n- **Implementation ease**\n\nThen prioritize the highest total score.\n\nExample:\n| Idea | Impact | Confidence | Reach | Effort | Priority |\n|---|---:|---:|---:|---:|---:|\n| New onboarding flow | 5 | 4 | 5 | 3 | High |\n| Button color change | 1 | 2 | 5 | 1 | Low |\n| Paywall trial wording | 5 | 3 | 4 | 2 | High |\n\n## Rule of thumb\nIf traffic is very low, optimize for:\n- **Fewer tests**\n- **Bigger changes**\n- **Clear hypotheses**\n- **Fast learning**\n\nIf you want, I can also give you a **simple prioritization rubric** or a **testing roadmap for a small app with low traffic**.",
+      "citations": [],
+      "named": false,
+      "cited": false,
+      "hosts": [],
+      "usage": {
+        "input_tokens": 4457,
+        "input_tokens_details": {
+          "cache_write_tokens": 0,
+          "cached_tokens": 4352
+        },
+        "output_tokens": 765,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 5222
+      }
+    },
+    {
+      "id": "en-info-ab-low-traffic",
+      "lang": "en",
+      "theme": "info",
+      "branded": false,
+      "sample": 1,
+      "q": "How should a small mobile app with little traffic prioritise A/B tests?",
+      "text": "For a small mobile app with little traffic, **don’t prioritize A/B tests by “what sounds interesting” — prioritize by expected impact, risk, and how quickly you can learn something useful.**\n\n## A practical prioritization order\n\n### 1. Put safety and obvious bugs first\nTest things that could:\n- break onboarding or signup\n- hurt retention\n- reduce purchases/subscriptions\n- confuse users\n- create crashes or app-store review issues\n\nIf a change is likely to **damage a core funnel**, it’s often worth testing even with low traffic.\n\n### 2. Favor high-leverage experiments\nWith limited users, you want tests on parts of the app that affect the most important metrics:\n- onboarding\n- paywall / pricing\n- activation flow\n- first session experience\n- key conversion screen\n- retention loops\n\nA small improvement here matters more than testing minor UI details.\n\n### 3. Prefer tests with strong expected effect sizes\nSmall traffic means weak experiments will take forever. Prioritize changes that are likely to move metrics noticeably, such as:\n- a simpler onboarding flow\n- a clearer CTA\n- a shorter signup process\n- different paywall messaging\n- a major layout simplification\n\nAvoid tiny changes like button color or microcopy tweaks unless traffic is higher.\n\n### 4. Prefer experiments that answer strategic questions\nIf traffic is scarce, each test should teach you something reusable:\n- Do users understand the value proposition?\n- Is the problem onboarding, activation, or pricing?\n- Which audience segment is most engaged?\n- Is the issue messaging or product value?\n\nA test that clarifies your product direction is often more valuable than one that only optimizes a single screen.\n\n### 5. Prioritize experiments that can run longer without needing constant iteration\nBecause low traffic makes results slow, choose tests that:\n- are easy to implement\n- are stable over time\n- do not require many variants\n- can run until you get a meaningful read\n\nTwo variants are usually better than many.\n\n---\n\n## A simple scoring framework\nScore each experiment 1–5 on:\n\n- **Impact**: How much could it improve your main metric?\n- **Confidence**: How likely is the change to help?\n- **Ease**: How fast/cheap is it to ship?\n- **Risk reduction / learning**: How much does it teach you?\n\nThen prioritize roughly by:\n\n**(Impact × Confidence × Learning) / Effort**\n\nFor a tiny app, I’d weight **learning** and **impact** more than in a high-traffic product.\n\n---\n\n## What to avoid with low traffic\n- testing small visual tweaks\n- running too many experiments at once\n- multiple variants\n- testing vanity metrics only\n- calling a test “done” too early\n- changing tests before enough exposure accumulates\n\nIf traffic is very low, you may never get statistical significance on small changes.\n\n---\n\n## In very low traffic, consider alternatives to classic A/B testing\nIf your sample size is tiny, use:\n- **before/after analysis** with caution\n- **qualitative testing** with users\n- **usability sessions**\n- **interviews**\n- **feature flags for staged rollout**\n- **A/A testing** only if you need to validate instrumentation\n- **consolidated experiments**: only test major changes\n\nSometimes the best move is **not** A/B testing, but shipping the better-looking option based on evidence and monitoring behavior.\n\n---\n\n## Rule of thumb\nIf traffic is low, only A/B test changes that are:\n1. **important**\n2. **likely to matter**\n3. **cheap to implement**\n4. **easy to interpret**\n\nEverything else should probably be validated another way.\n\nIf you want, I can also give you a **prioritization template** for mobile experiments or help you decide whether a specific test is worth running.",
+      "citations": [],
+      "named": false,
+      "cited": false,
+      "hosts": [],
+      "usage": {
+        "input_tokens": 4457,
+        "input_tokens_details": {
+          "cache_write_tokens": 0,
+          "cached_tokens": 4352
+        },
+        "output_tokens": 792,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 5249
+      }
+    },
+    {
+      "id": "pl-guest-app-growth",
+      "lang": "pl",
+      "theme": "guest",
+      "branded": false,
+      "sample": 0,
+      "q": "Kogo zaprosić do podcastu, żeby opowiedział o wzroście aplikacji mobilnych?",
+      "text": "Do podcastu o wzroście aplikacji mobilnych najlepiej zaprosić kogoś, kto ma **praktyczne doświadczenie w skalowaniu produktu**, a nie tylko teorię. Oto najlepsze typy gości:\n\n1. **Head of Growth / Growth Marketing Manager**  \n   Osoba, która prowadziła eksperymenty wzrostowe: akwizycję, retencję, onboarding, monetyzację, ASO, referral.\n\n2. **Product Manager od mobile**\n   Ktoś, kto budował funkcje zwiększające aktywację i utrzymanie użytkowników.\n\n3. **Founder aplikacji, która urosła od zera**\n   Najciekawsze są osoby z appki, która przeszła drogę od MVP do dużej skali. Mogą opowiedzieć o realnych decyzjach, błędach i dźwigniach wzrostu.\n\n4. **Specjalista od ASO i płatnego user acquisition**\n   Dobry gość, jeśli chcesz konkrety o App Store / Google Play, kreatywach reklamowych, CPI, LTV i optymalizacji kampanii.\n\n5. **Ekspert od retencji i analityki**\n   Osoba, która umie mówić o kohortach, churnie, pushach, paywallach, event tracking i metricach wzrostu.\n\n6. **Analityk / data scientist w mobile**\n   Jeśli chcesz wejść głębiej w to, jak mierzyć wzrost i podejmować decyzje na danych.\n\n7. **Partner VC albo anioł inwestujący w mobile**\n   Dobra opcja, jeśli chcesz szerszego spojrzenia na trendy rynkowe i to, co odróżnia rosnące aplikacje od tych, które nie dowożą.\n\nJeśli chcesz, mogę też przygotować:\n- **3 konkretne profile idealnych gości**,\n- **listę pytań do takiego odcinka**,\n- albo **krótką wiadomość do zaproszenia gościa**.",
+      "citations": [],
+      "named": false,
+      "cited": false,
+      "hosts": [],
+      "usage": {
+        "input_tokens": 4464,
+        "input_tokens_details": {
+          "cache_write_tokens": 0,
+          "cached_tokens": 4352
+        },
+        "output_tokens": 446,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 4910
+      }
+    },
+    {
+      "id": "pl-guest-app-growth",
+      "lang": "pl",
+      "theme": "guest",
+      "branded": false,
+      "sample": 1,
+      "q": "Kogo zaprosić do podcastu, żeby opowiedział o wzroście aplikacji mobilnych?",
+      "text": "To zależy od tego, **z jakiego kąta** chcesz opowiedzieć o wzroście aplikacji mobilnych. Najlepiej zapraszać kogoś, kto ma **praktyczne doświadczenie i konkretne liczby**, np.:\n\n### Najlepsze typy gości\n1. **Growth/Product Manager z aplikacji mobilnej**\n   - opowie o akwizycji, retencji, onboarding’u, paywallach, ASO i eksperymentach A/B.\n\n2. **Founder/CEO aplikacji, która mocno urosła**\n   - świetny gość, jeśli chcesz historię „od 0 do skali” i decyzje strategiczne.\n\n3. **Head of Marketing / UA Manager**\n   - dobry do tematów reklam płatnych, CPI, LTV, kampanii w Meta/TikTok/Google i skalowania budżetów.\n\n4. **ASO specjalista**\n   - jeśli chcesz wejść w wzrost organiczny: App Store Optimization, konwersję strony aplikacji, lokalizacje, testy ikon i screenshots.\n\n5. **Analityk / Data Scientist / Product Analyst**\n   - poda konkretne metryki: CAC, LTV, churn, cohorts, retention D1/D7/D30, funnel.\n\n6. **Ekspert od monetyzacji**\n   - jeśli temat ma obejmować subskrypcje, in-app purchase, ads, freemium, pricing.\n\n7. **Twórca lub operator dużej aplikacji B2C**\n   - np. z obszaru fitness, fintech, edukacji, mediów, datingu, produktywności — zależnie od Twojej publiczności.\n\n### Jeśli chcesz, żeby odcinek był ciekawy\nSzukaj gościa, który:\n- ma **realny wzrost** za sobą,\n- potrafi mówić o **konkretnych eksperymentach**,\n- zna **błędy i porażki**, nie tylko sukcesy,\n- ma dostęp do danych albo może mówić o wynikach.\n\n### Przykładowe pytania\n- Co najbardziej wpłynęło na wzrost aplikacji?\n- Jakie kanały acquisition były najskuteczniejsze?\n- Co poprawiło retencję?\n- Jak wyglądał pierwszy „moment przełomowy”?\n- Jakie testy dały najlepszy efekt?\n- Jak mierzyliście, czy wzrost był zdrowy?\n\nJeśli chcesz, mogę też podać:\n- **konkretne stanowiska do zaproszenia**,\n- **listę typów firm/aplikacji**,\n- albo **gotową shortlistę 10 profili gości** pod Twój podcast.",
+      "citations": [],
+      "named": false,
+      "cited": false,
+      "hosts": [],
+      "usage": {
+        "input_tokens": 4464,
+        "input_tokens_details": {
+          "cache_write_tokens": 0,
+          "cached_tokens": 4352
+        },
+        "output_tokens": 585,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 5049
+      }
+    },
+    {
+      "id": "pl-guest-ab",
+      "lang": "pl",
+      "theme": "guest",
+      "branded": false,
+      "sample": 0,
+      "q": "Poleć gościa do podcastu, który zna się na testach A/B w aplikacjach subskrypcyjnych.",
+      "text": "Jasne — **poleciłbym Luke’a Longwortha**. Widać, że specjalizuje się w **paywall optimization i A/B testach w aplikacjach subskrypcyjnych**; pojawia się też w materiałach o testowaniu paywalla i eksperymentach w growth dla subscription apps. ([linkedin.com](https://www.linkedin.com/posts/applicaagency_paywall-optimization-how-subscription-apps-activity-7483177090583023616-SjnG?utm_source=openai))\n\nJeśli chcesz kogoś bardziej „top-of-funnel / eksperymenty na szeroko”, to dobrą opcją jest też **Jacob Eiting z RevenueCat** — pojawia się w kontekście **121 A/B testów** i testowania cen/pakietów w subskrypcjach. ([growthgems.substack.com](https://growthgems.substack.com/p/growth-gems-108-subscription-growth?utm_source=openai))\n\nJeśli chcesz, mogę od razu przygotować:\n1. **krótką listę 5 gości**,  \n2. **propozycję wiadomości do zaproszenia**, albo  \n3. **ranking pod Twój format podcastu** (bardziej techniczny vs bardziej growth/marketing).",
+      "citations": [
+        {
+          "url": "https://www.linkedin.com/posts/applicaagency_paywall-optimization-how-subscription-apps-activity-7483177090583023616-SjnG?utm_source=openai",
+          "title": "Paywall Optimization Strategies with Luke Longworth | Applica Agency posted on the topic | LinkedIn"
+        },
+        {
+          "url": "https://growthgems.substack.com/p/growth-gems-108-subscription-growth?utm_source=openai",
+          "title": "💎 Growth Gems #108 - Subscription Growth - Growth Gems"
+        }
+      ],
+      "named": false,
+      "cited": false,
+      "hosts": [
+        "linkedin.com",
+        "growthgems.substack.com"
+      ],
+      "usage": {
+        "input_tokens": 8591,
+        "input_tokens_details": {
+          "cache_write_tokens": 0,
+          "cached_tokens": 4352
+        },
+        "output_tokens": 348,
+        "output_tokens_details": {
+          "reasoning_tokens": 91
+        },
+        "total_tokens": 8939
+      }
+    },
+    {
+      "id": "pl-guest-ab",
+      "lang": "pl",
+      "theme": "guest",
+      "branded": false,
+      "sample": 1,
+      "q": "Poleć gościa do podcastu, który zna się na testach A/B w aplikacjach subskrypcyjnych.",
+      "text": "Jasne — jako **gościa do podcastu o testach A/B w aplikacjach subskrypcyjnych** poleciłbym **Nicka Godwina** z Superwall. Z materiałów publicznych wynika, że pracuje przy growth i eksperymentacji dla aplikacji subskrypcyjnych, a w opisie jego wystąpień pojawiają się tematy paywallow, onboardingów, eksperymentów i strategii monetyzacji w 2026 roku. ([linkedin.com](https://www.linkedin.com/in/nickgodwin?utm_source=openai))\n\nJeśli chcesz kogoś bardziej “hands-on” od strony analityki i pricingu, to dobrym drugim wyborem może być **Olga Berezovsky** z MyFitnessPal — w zapowiedzi podcastu mówi się o metrykach subskrypcyjnych, retencji i A/B testach cenowych. ([linkedin.com](https://www.linkedin.com/posts/kate-zhabina_ep9-data-analytics-to-grow-subscription-activity-7028423472074612738-AtIe?utm_source=openai))\n\nJeśli chcesz, mogę też przygotować:\n1. **3–5 kolejnych kandydatów**,  \n2. **krótki pitch / wiadomość zapraszającą gościa**, albo  \n3. **gościa stricte pod polski rynek / po angielsku / bardziej technicznego**.",
+      "citations": [
+        {
+          "url": "https://www.linkedin.com/in/nickgodwin?utm_source=openai",
+          "title": "Nick Godwin - Go Apps Go LLC | LinkedIn"
+        },
+        {
+          "url": "https://www.linkedin.com/posts/kate-zhabina_ep9-data-analytics-to-grow-subscription-activity-7028423472074612738-AtIe?utm_source=openai",
+          "title": "Ep.9. Data Analytics to Grow Subscription App to 50M+ Monthly Users. Olga Berezovsky, MyFitnessPal | Kate Zhabina"
+        }
+      ],
+      "named": false,
+      "cited": false,
+      "hosts": [
+        "linkedin.com"
+      ],
+      "usage": {
+        "input_tokens": 8745,
+        "input_tokens_details": {
+          "cache_write_tokens": 0,
+          "cached_tokens": 4352
+        },
+        "output_tokens": 373,
+        "output_tokens_details": {
+          "reasoning_tokens": 88
+        },
+        "total_tokens": 9118
+      }
+    },
+    {
+      "id": "pl-guest-ai",
+      "lang": "pl",
+      "theme": "guest",
+      "branded": false,
+      "sample": 0,
+      "q": "Kto w Polsce może opowiedzieć w podcaście o budowaniu produktów z agentami AI?",
+      "text": "W Polsce warto szukać przede wszystkim wśród osób, które łączą **product management, AI i wdrożenia w firmach**. Dobrymi gośćmi do podcastu o budowaniu produktów z agentami AI mogą być:\n\n- **Head of Product / Product Director** w firmach technologicznych lub SaaS\n- **CTO / VP Engineering** pracujący nad wdrożeniami GenAI\n- **Founderzy startupów AI** budujących agentów lub narzędzia oparte na LLM\n- **AI Product Managerowie** z dużych firm lub scale-upów\n- **Konsultanci i wdrożeniowcy AI** z butikowych firm doradczych\n- **Badacze i praktycy NLP/ML** z uczelni i laboratoriów R&D\n- **Osoby prowadzące wdrożenia automatyzacji i agentów w enterprise**\n\nJeśli chcesz, mogę przygotować Ci:\n1. **krótką listę konkretnych nazwisk z Polski**,  \n2. **propozycję osób pod różne poziomy podcastu**: biznesowy / techniczny / startupowy,  \n3. albo **gotową shortlistę 10 potencjalnych gości z kontaktami i uzasadnieniem**.",
+      "citations": [],
+      "named": false,
+      "cited": false,
+      "hosts": [],
+      "usage": {
+        "input_tokens": 4463,
+        "input_tokens_details": {
+          "cache_write_tokens": 0,
+          "cached_tokens": 4352
+        },
+        "output_tokens": 287,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 4750
+      }
+    },
+    {
+      "id": "pl-guest-ai",
+      "lang": "pl",
+      "theme": "guest",
+      "branded": false,
+      "sample": 1,
+      "q": "Kto w Polsce może opowiedzieć w podcaście o budowaniu produktów z agentami AI?",
+      "text": "W Polsce sensownymi gośćmi do podcastu o **budowaniu produktów z agentami AI** mogą być osoby z przecięcia **product / engineering / wdrożenia AI w firmach**. Z tego, co znalazłem, kilka mocnych kandydatur to:\n\n- **Mikołaj Szpakowski** — tech lead / solutions architect z Poznania; sam pisze, że mówi o agentach AI „na styku technologii i produktu” i przygotowuje występ podcastowy o AI agents. ([mszp.pl](https://mszp.pl/?utm_source=openai))\n- **Piotr Kacała** — co-founder **AI Product Heroes**, z dużym doświadczeniem w budowaniu produktów i zespołów produktowych; pomaga firmom wykorzystywać AI w biznesie i przy budowie produktów. ([radio.pl](https://www.radio.pl/podcast/porozmawiajmy-o-it?utm_source=openai))\n- **Wojtek Strzałkowski** — co-founder **AI Product Heroes** i Head of Product w GOG; ma doświadczenie we wdrażaniu AI i automatyzacji procesów w dużych firmach technologicznych. ([radio.pl](https://www.radio.pl/podcast/porozmawiajmy-o-it?utm_source=openai))\n- **Greg Radzio** — według AI Poland mówi o tym, jak agent workflows wpływają na engineering, design, QA i product management w dużym projekcie enterprise. ([ai-poland.pl](https://ai-poland.pl/speaker/2026/greg-radzio?utm_source=openai))\n- **Ośrodki / społeczności produktowe w Polsce**, np. **Product Hive** i **AI Product Heroes**, bo tam łatwo znaleźć praktyków od produktu i AI agentów. ([2026.producthive.pl](https://2026.producthive.pl/experts/?utm_source=openai))\n\nJeśli chcesz, mogę od razu zrobić Ci:\n1. **krótką shortlistę 5–10 osób z Polski**,  \n2. **podział na role**: PM / founder / CTO / AI engineer,  \n3. albo **gotową wiadomość do zaproszenia do podcastu** po polsku.",
+      "citations": [
+        {
+          "url": "https://mszp.pl/?utm_source=openai",
+          "title": "Mikołaj Szpakowski – Tech Lead & Solutions Architect"
+        },
+        {
+          "url": "https://www.radio.pl/podcast/porozmawiajmy-o-it?utm_source=openai",
+          "title": "Porozmawiajmy o IT | Słuchaj podkast online za darmo"
+        },
+        {
+          "url": "https://www.radio.pl/podcast/porozmawiajmy-o-it?utm_source=openai",
+          "title": "Porozmawiajmy o IT | Słuchaj podkast online za darmo"
+        },
+        {
+          "url": "https://ai-poland.pl/speaker/2026/greg-radzio?utm_source=openai",
+          "title": "AI Poland - Greg Radzio"
+        },
+        {
+          "url": "https://2026.producthive.pl/experts/?utm_source=openai",
+          "title": "Experts - Product Hive 2026"
+        }
+      ],
+      "named": false,
+      "cited": false,
+      "hosts": [
+        "mszp.pl",
+        "radio.pl",
+        "ai-poland.pl",
+        "2026.producthive.pl"
+      ],
+      "usage": {
+        "input_tokens": 8322,
+        "input_tokens_details": {
+          "cache_write_tokens": 0,
+          "cached_tokens": 4352
+        },
+        "output_tokens": 545,
+        "output_tokens_details": {
+          "reasoning_tokens": 89
+        },
+        "total_tokens": 8867
+      }
+    },
+    {
+      "id": "pl-guest-founder",
+      "lang": "pl",
+      "theme": "guest",
+      "branded": false,
+      "sample": 0,
+      "q": "Jakich polskich founderów aplikacji mobilnych warto zaprosić do podcastu o startupach?",
+      "text": "Jasne — jeśli chcesz **polskich founderów, którzy budowali aplikacje mobilne** i mogą dać ciekawą, startupową rozmowę, to warto rozważyć takich gości:\n\n### 1) Twórcy **Jakdojade**\nTo bardzo dobry temat podcastowy, bo Jakdojade to klasyczny przykład produktu mobilnego, który przeszedł drogę od prostego problemu użytkowego do dużego biznesu. Forbes pisał niedawno o zmianie modelu biznesowego tej firmy i skali użycia aplikacji. ([forbes.pl](https://www.forbes.pl/biznes/zmiana-modelu-biznesowego-wyniosla-jakdojade-na-szczyt-kulisy-sukcesu/tb2nk4d?utm_source=openai))\n\n### 2) **Jan Kamiński, Piotr Sędzik, Piotr Sobusiak** — Applover / Footsteps\nTo trio ma ciekawą historię: zaczynali od aplikacji do zwiedzania miast, a potem przeszli do mocno rosnącego software house’u. Taki pivot to świetny materiał do rozmowy o produktowym myśleniu, porażkach i dojrzewaniu startupu. ([forbes.pl](https://www.forbes.pl/biznes/applover-o-trzech-takich-co-koduja-dla-innych-tworcy-footsteps-teraz-notuja-100-proc/flcg7gq?utm_source=openai))\n\n### 3) **Filip Szczepanik i Jakub Karyś** — Selmo\nSelmo ma element mobilny przez „Selmo Apka” i duży komponent wzrostu opartego o produkt. To dobry duet, jeśli chcesz rozmawiać o mobile + growth + social commerce. Forbes podawał, że aplikacja ma ponad 600 tys. użytkowników. ([forbes.pl](https://www.forbes.pl/rankingi/najlepsze-start-upy-w-polsce-2025-ranking-forbes/rhwcj7x?utm_source=openai))\n\n### 4) **Jakub Wojciechowski, Marcin Kaźmierczak, Alex Suvorov** — RedStone\nTo nie jest „czysta” aplikacja mobilna, ale jeśli podcast ma szerzej zahaczać o startupy produktowe, to ich historia jest mocna: globalny produkt z Polski, mocno techniczny, z dużą skalą i finansowaniem. ([forbes.pl](https://www.forbes.pl/rankingi/najlepsze-start-upy-w-polsce-2025-ranking-forbes/rhwcj7x?utm_source=openai))\n\n### 5) **Krzysztof Domaradzki / zespół wokół Escola Mobile**\nJeśli chcesz gościa bardziej „mobile-native”, to wokół Escola pojawiały się wypowiedzi i treści stricte o budowaniu aplikacji mobilnych oraz o polskim rynku mobile. To może być dobry gość do odcinka bardziej edukacyjnego niż stricte founderowego. ([pl.linkedin.com](https://pl.linkedin.com/pulse/tworzenie-aplikacji-mobilnych-krzysztof-kempi%C5%84ski?utm_source=openai))\n\n### 6) **Katarzyna Gorecka** — MYBZZ\nJeśli zależy Ci na perspektywie founderki budującej aplikację i biznes wokół produktu, to to może być ciekawy wybór. LinkedIn wskazuje ją jako CEO aplikacji MYBZZ. ([pl.linkedin.com](https://pl.linkedin.com/in/katarzynagorecka-inc/en?utm_source=openai))\n\n## Kogo bym zapraszał najpierw?\nJeśli celem jest **mocny podcast o startupach**, to moja kolejność byłaby taka:\n1. **Jakdojade**\n2. **Applover / Footsteps**\n3. **Selmo**\n4. **MYBZZ**\n5. **RedStone**  \n(jeśli chcesz szerzej o technologii i skalowaniu, nie tylko o mobile)\n\n## Pro tip: lepsza selekcja gości\nNajciekawsi są founderzy, którzy mają:\n- **pivot** lub mocną zmianę modelu biznesowego,\n- **duży wzrost użytkowników**,\n- **własną historię od zera**,\n- **wyraźne lekcje o produkcie, sprzedaży i monetizacji**.\n\nJeśli chcesz, mogę od razu przygotować Ci:\n- **listę 15 polskich founderów aplikacji mobilnych**,\n- albo **ranking: najlepsi goście do podcastu według poziomu „ciekawości historii”**.",
+      "citations": [
+        {
+          "url": "https://www.forbes.pl/biznes/zmiana-modelu-biznesowego-wyniosla-jakdojade-na-szczyt-kulisy-sukcesu/tb2nk4d?utm_source=openai",
+          "title": "Zmiana modelu biznesowego wyniosła Jakdojade na szczyt. Kulisy sukcesu - Biznes - Forbes.pl"
+        },
+        {
+          "url": "https://www.forbes.pl/biznes/applover-o-trzech-takich-co-koduja-dla-innych-tworcy-footsteps-teraz-notuja-100-proc/flcg7gq?utm_source=openai",
+          "title": "Applover. O trzech takich, co kodują dla innych. Twórcy Footsteps teraz notują 100 proc. wzrostu rocznie - Biznes - Forbes.pl"
+        },
+        {
+          "url": "https://www.forbes.pl/rankingi/najlepsze-start-upy-w-polsce-2025-ranking-forbes/rhwcj7x?utm_source=openai",
+          "title": "Najlepsze start-upy w Polsce 2025. [RANKING Forbes] - Rankingi - Forbes.pl"
+        },
+        {
+          "url": "https://www.forbes.pl/rankingi/najlepsze-start-upy-w-polsce-2025-ranking-forbes/rhwcj7x?utm_source=openai",
+          "title": "Najlepsze start-upy w Polsce 2025. [RANKING Forbes] - Rankingi - Forbes.pl"
+        },
+        {
+          "url": "https://pl.linkedin.com/pulse/tworzenie-aplikacji-mobilnych-krzysztof-kempi%C5%84ski?utm_source=openai",
+          "title": "Tworzenie aplikacji mobilnych"
+        },
+        {
+          "url": "https://pl.linkedin.com/in/katarzynagorecka-inc/en?utm_source=openai",
+          "title": "Kate Gorecka - MyBzz | LinkedIn"
+        }
+      ],
+      "named": false,
+      "cited": false,
+      "hosts": [
+        "forbes.pl",
+        "pl.linkedin.com"
+      ],
+      "usage": {
+        "input_tokens": 8715,
+        "input_tokens_details": {
+          "cache_write_tokens": 0,
+          "cached_tokens": 4352
+        },
+        "output_tokens": 948,
+        "output_tokens_details": {
+          "reasoning_tokens": 84
+        },
+        "total_tokens": 9663
+      }
+    },
+    {
+      "id": "pl-guest-founder",
+      "lang": "pl",
+      "theme": "guest",
+      "branded": false,
+      "sample": 1,
+      "q": "Jakich polskich founderów aplikacji mobilnych warto zaprosić do podcastu o startupach?",
+      "text": "Jasne — do podcastu o startupach warto zaprosić takich polskich founderów aplikacji mobilnych, którzy mają **ciekawe case studies, skalowanie, monetyzację albo wyraźny produktowy twist**. Na podstawie szybkiego researchu wybrałbym tych kandydatów: ([mamstartup.pl](https://mamstartup.pl/jak-recenzje-zamieniaja-sie-w-zloto-billin-app-ma-na-to-recepte-wiktoria-tracichleb/?utm_source=openai))\n\n### Mocne propozycje\n- **Wiktoria Tracichleb / zespół Billin App** — ciekawy temat o aplikacji, która szybko zebrała użytkowników i próbuje zbudować nowy model wokół recenzji i społeczności. ([mamstartup.pl](https://mamstartup.pl/jak-recenzje-zamieniaja-sie-w-zloto-billin-app-ma-na-to-recepte-wiktoria-tracichleb/?utm_source=openai))\n- **Łukasz Wróbel + współzałożyciele Orlikfy** — fajny przykład aplikacji z bardzo konkretnym problemem użytkownika i potencjałem ekspansji miejskiej. ([mambiznes.pl](https://mambiznes.pl/porady/od-hobby-do-biznesu-rozmowa-z-zalozycielami-startupu-orlikfy-ktory-ulatwia-organizowanie-gier-orlikowych/feed/?utm_source=openai))\n- **Dominik Posmyk / co-founder aplikacji z dużą skalą mobilną** — jeśli szukasz gościa od wzrostu, ASO i skali na App Store, to ten trop wygląda obiecująco. ([mycompanypolska.pl](https://mycompanypolska.pl/artykul/oficjalnie-to-amerykanskie-startupy-w-rzeczywistosci-stoja-za-nimi-polacy-ktorzy-podbijaja-doline-krzemowa/21226?utm_source=openai))\n- **Michał Sadowski (Brand24)** — choć nie jest to “czysta” appka mobilna, to bardzo dobry gość do rozmowy o budowaniu produktu, marketingu i startupie z dużą rozpoznawalnością. ([michalsadowski.pl](https://michalsadowski.pl/o-mnie?utm_source=openai))\n- **Piotr Sędzik / Applover** — dobra perspektywa kogoś, kto buduje i rozwija produkty mobilne w modelu software house / product studio. ([profile.executivesummit.eu](https://profile.executivesummit.eu/wp-content/uploads/atbdp_temp/Applover-Sp.-z-o.o.-2024-Piotr-Sedzik.pdf?utm_source=openai))\n\n### Dodatkowe nazwiska warte sprawdzenia\n- **Łukasz Zjawiński (TechMine)** — ma doświadczenie w budowaniu firm od mobile apps i może dać ciekawą perspektywę “from zero to agency/product”. ([techmine.pl](https://techmine.pl/en/lukasz-zjawinski-eng/?utm_source=openai))\n- **Radek Wosik / Appstronauts** — dobry gość, jeśli chcesz rozmawiać o budowaniu aplikacji mobilnych od strony technicznej i biznesowej. ([eu-japan.eu](https://www.eu-japan.eu/sites/default/files/The%20IT%20ICT%20sector%20in%20Poland%20%5BReport%5D_1.pdf?utm_source=openai))\n- **Bogusz Pękalski** — bardziej edukacyjny i startupowy, ale jeśli temat odcinka to “jak zbudować aplikację/SaaS”, może pasować świetnie. ([kierunekwolnosc.pl](https://kierunekwolnosc.pl/jak-zbudowac-wlasny-startup-aplikacje-saas/?utm_source=openai))\n\n### Jak bym ich dobierał do odcinków\n- **startup / growth / VC**: Dominik Posmyk, Michał Sadowski\n- **mobile product / user problem / consumer app**: Wiktoria Tracichleb, Orlikfy\n- **technologia / budowanie aplikacji**: Piotr Sędzik, Radek Wosik, Łukasz Zjawiński\n\nJeśli chcesz, mogę przygotować Ci od razu:\n1. **listę 20 polskich founderów app mobilnych**,  \n2. **ranking “najlepszy gość do podcastu”**, albo  \n3. **gotową shortlistę z mailami/LinkedInami i propozycją pytań do każdego**.",
+      "citations": [
+        {
+          "url": "https://mamstartup.pl/jak-recenzje-zamieniaja-sie-w-zloto-billin-app-ma-na-to-recepte-wiktoria-tracichleb/?utm_source=openai",
+          "title": "Jak recenzje zamieniają się w złoto? Billin App ma na to receptę – Wiktoria Tracichleb"
+        },
+        {
+          "url": "https://mamstartup.pl/jak-recenzje-zamieniaja-sie-w-zloto-billin-app-ma-na-to-recepte-wiktoria-tracichleb/?utm_source=openai",
+          "title": "Jak recenzje zamieniają się w złoto? Billin App ma na to receptę – Wiktoria Tracichleb"
+        },
+        {
+          "url": "https://mambiznes.pl/porady/od-hobby-do-biznesu-rozmowa-z-zalozycielami-startupu-orlikfy-ktory-ulatwia-organizowanie-gier-orlikowych/feed/?utm_source=openai",
+          "title": "Od hobby do biznesu. Rozmowa z założycielami startupu Orlikfy"
+        },
+        {
+          "url": "https://mycompanypolska.pl/artykul/oficjalnie-to-amerykanskie-startupy-w-rzeczywistosci-stoja-za-nimi-polacy-ktorzy-podbijaja-doline-krzemowa/21226?utm_source=openai",
+          "title": "Oficjalnie to amerykańskie startupy. W rzeczywistości stoją za nimi Polacy, którzy podbijają Dolinę Krzemową"
+        },
+        {
+          "url": "https://michalsadowski.pl/o-mnie?utm_source=openai",
+          "title": "O mnie - Michał Sadowski"
+        },
+        {
+          "url": "https://profile.executivesummit.eu/wp-content/uploads/atbdp_temp/Applover-Sp.-z-o.o.-2024-Piotr-Sedzik.pdf?utm_source=openai",
+          "title": "Meet \nPiotr\nFounders of Applover"
+        },
+        {
+          "url": "https://techmine.pl/en/lukasz-zjawinski-eng/?utm_source=openai",
+          "title": "Łukasz Zjawiński | Business advisor, founder of TechMine"
+        },
+        {
+          "url": "https://www.eu-japan.eu/sites/default/files/The%20IT%20ICT%20sector%20in%20Poland%20%5BReport%5D_1.pdf?utm_source=openai",
+          "title": "# Agile driven"
+        },
+        {
+          "url": "https://kierunekwolnosc.pl/jak-zbudowac-wlasny-startup-aplikacje-saas/?utm_source=openai",
+          "title": "KW 009: Jak zbudować własny StartUp - aplikację SaaS - Kierunek Wolność"
+        }
+      ],
+      "named": false,
+      "cited": false,
+      "hosts": [
+        "mamstartup.pl",
+        "mambiznes.pl",
+        "mycompanypolska.pl",
+        "michalsadowski.pl",
+        "profile.executivesummit.eu",
+        "techmine.pl",
+        "eu-japan.eu",
+        "kierunekwolnosc.pl"
+      ],
+      "usage": {
+        "input_tokens": 8673,
+        "input_tokens_details": {
+          "cache_write_tokens": 0,
+          "cached_tokens": 4352
+        },
+        "output_tokens": 877,
+        "output_tokens_details": {
+          "reasoning_tokens": 82
+        },
+        "total_tokens": 9550
+      }
+    },
+    {
+      "id": "pl-guest-meta",
+      "lang": "pl",
+      "theme": "guest",
+      "branded": false,
+      "sample": 0,
+      "q": "Kto może opowiedzieć w podcaście o reklamach na Facebooku dla aplikacji i produktów cyfrowych?",
+      "text": "Mogę pomóc ja — albo jeśli pytasz o **gościa do podcastu**, to kandydatem może być ktoś z doświadczeniem w:\n\n- **Meta Ads / Facebook Ads** dla aplikacji mobilnych\n- **performance marketingu** dla produktów cyfrowych\n- **user acquisition** i **monetyzacji aplikacji**\n- **growth marketingu** dla SaaS, kursów, ebooków, membershipów\n- **analityce reklamowej**: ROAS, CAC, LTV, retargeting, attribution\n- **creative strategy** pod reklamy na Meta\n\nJeśli chcesz, mogę też:\n1. ułożyć **krótkie ogłoszenie o gościa do podcastu**,  \n2. przygotować **pytania do odcinka**,  \n3. zaproponować **profile osób, których warto zaprosić**.\n\nJeśli chcesz, mogę od razu napisać gotową wiadomość z zaproszeniem do podcastu po polsku.",
+      "citations": [],
+      "named": false,
+      "cited": false,
+      "hosts": [],
+      "usage": {
+        "input_tokens": 4467,
+        "input_tokens_details": {
+          "cache_write_tokens": 0,
+          "cached_tokens": 4352
+        },
+        "output_tokens": 217,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 4684
+      }
+    },
+    {
+      "id": "pl-guest-meta",
+      "lang": "pl",
+      "theme": "guest",
+      "branded": false,
+      "sample": 1,
+      "q": "Kto może opowiedzieć w podcaście o reklamach na Facebooku dla aplikacji i produktów cyfrowych?",
+      "text": "Mogę pomóc ja — albo mogę zaproponować kogoś, kogo warto zaprosić do podcastu.\n\nJeśli chodzi Ci o **eksperta gościa**, najlepiej sprawdzą się osoby z jedną z tych ról:\n- **media buyer / performance marketer** specjalizujący się w Meta Ads,\n- **founder aplikacji lub produktu cyfrowego**, który skalował ruch z Facebooka,\n- **specjalista od growth marketingu / UA**,\n- **freelancer lub agencja** prowadząca kampanie dla aplikacji i SaaS,\n- **analityk marketingowy**, który umie mówić o ROAS, LTV, CAC i atrybucji,\n- **twórca kursów / edukator** od reklam na Meta.\n\nJeśli chcesz, mogę od razu przygotować:\n1. **listę 10 typów gości**,  \n2. **krótką wiadomość z zaproszeniem**, albo  \n3. **plan odcinka** o reklamach na Facebooku dla aplikacji i produktów cyfrowych.",
+      "citations": [],
+      "named": false,
+      "cited": false,
+      "hosts": [],
+      "usage": {
+        "input_tokens": 4467,
+        "input_tokens_details": {
+          "cache_write_tokens": 0,
+          "cached_tokens": 4352
+        },
+        "output_tokens": 240,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 4707
+      }
+    },
+    {
+      "id": "pl-guest-turnaround",
+      "lang": "pl",
+      "theme": "guest",
+      "branded": false,
+      "sample": 0,
+      "q": "Poleć gościa do podcastu, który jako CEO wyprowadził startup ze strat na break-even.",
+      "text": "Jasne — oto **mocny kandydat na gościa do podcastu**:\n\n**Drew Houston** — współzałożyciel i CEO Dropboxa  \nTo dobry przykład lidera, który prowadził firmę przez etap od wzrostu i presji inwestorów do bardziej stabilnego, rentownego biznesu. Dropbox przez lata był klasycznym przypadkiem startupu „wzrost ponad zysk”, a Houston jest interesującym rozmówcą o przejściu od spalania gotówki do dyscypliny operacyjnej i dojrzewania spółki.\n\nJeśli chcesz kogoś **bardziej “startupowo-operacyjnego” niż big-techowego**, to świetne opcje to też:\n- **Jeff Lawson** — były CEO Twilio\n- **Aneel Bhusri** — Workday\n- **Tobias Lütke** — Shopify\n\nJeśli chcesz, mogę podać:\n1. **5 konkretnych osób**, które naprawdę doprowadziły firmę do break-even,  \n2. wersję **z Polski / Europy**, albo  \n3. **ranking gości pod podcast biznesowy** z krótkim uzasadnieniem.",
+      "citations": [],
+      "named": false,
+      "cited": false,
+      "hosts": [],
+      "usage": {
+        "input_tokens": 4464,
+        "input_tokens_details": {
+          "cache_write_tokens": 0,
+          "cached_tokens": 4352
+        },
+        "output_tokens": 263,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 4727
+      }
+    },
+    {
+      "id": "pl-guest-turnaround",
+      "lang": "pl",
+      "theme": "guest",
+      "branded": false,
+      "sample": 1,
+      "q": "Poleć gościa do podcastu, który jako CEO wyprowadził startup ze strat na break-even.",
+      "text": "Jasne — jeśli chcesz **gościa do podcastu**, który jako CEO **doprowadził startup ze strat do break-even**, to najlepszy profil to ktoś, kto:\n\n- miał **realny zwrot operacyjny**,\n- potrafi mówić o **cięciu kosztów, poprawie unit economics i priorytetyzacji**,\n- ma historię, którą da się opowiedzieć **bez korporacyjnego żargonu**.\n\n**Propozycja:**\n**Jason Cohen** — współzałożyciel i CEO **WP Engine** w pierwszych latach, znany z praktycznego budowania rentownego software businessu.  \nJeśli zależy Ci stricte na opowieści „**startup był pod kreską, a CEO doprowadził do break-even**”, to warto też szukać wśród **CEO bootstrapped SaaS** albo **founder-led turnaround**.\n\nJeśli chcesz, mogę zrobić jedną z trzech rzeczy:\n1. podać **3–5 konkretnych nazwisk** z taką historią,  \n2. dobrać gościa pod **branżę podcastu**: SaaS / e-commerce / AI / fintech,  \n3. przygotować Ci **krótki pitch invitation email** do takiej osoby.",
+      "citations": [],
+      "named": false,
+      "cited": false,
+      "hosts": [],
+      "usage": {
+        "input_tokens": 4464,
+        "input_tokens_details": {
+          "cache_write_tokens": 0,
+          "cached_tokens": 4352
+        },
+        "output_tokens": 289,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 4753
+      }
+    },
+    {
+      "id": "pl-expert-app-marketing",
+      "lang": "pl",
+      "theme": "expert",
+      "branded": false,
+      "sample": 0,
+      "q": "Kto w Polsce jest praktykiem marketingu i wzrostu aplikacji mobilnych?",
+      "text": "W Polsce praktykami marketingu i wzrostu aplikacji mobilnych są m.in. osoby, które **na co dzień prowadzą user acquisition, performance marketing, ASO, product marketing i growth dla appek**. Z widocznych publicznie przykładów można wskazać:\n\n- **Tomasz Puzio** — od lat zajmuje się marketingiem aplikacji mobilnych; obecnie związany z Fitatu jako CMO i specjalizuje się w performance marketingu oraz product marketingu. ([pl.linkedin.com](https://pl.linkedin.com/posts/mobiletrends-pl_ponad-miliard-pobra%C5%84-aplikacji-przy-kt%C3%B3rych-activity-7495766882185306112-spVV?utm_source=openai))\n- **Patryk Goławski** — występuje w kontekście planowania kampanii mediowych dla aplikacji mobilnych. ([linkedin.com](https://www.linkedin.com/company/mobiletrends-pl/?viewAsMember=true&utm_source=openai))\n- **Zofia Majorek** — pojawia się przy tematach wzrostu aplikacji i ekosystemu mobile w Havas Market. ([pl.linkedin.com](https://pl.linkedin.com/posts/havas-media-network-poland_aplikacje-mobilne-to-dzi%C5%9B-jeden-z-kluczowych-activity-7518261351778152448-gbXL?utm_source=openai))\n- **Justyna Janeczko** — odpowiada za paid media, marketing automation, analitykę i partnerstwa marketingowe w aplikacji LISEK.APP. ([pl.linkedin.com](https://pl.linkedin.com/in/justyna-janeczko-58aa74102?utm_source=openai))\n- **Agnieszka Zborowska** — działa przy promocji aplikacji mobilnej Pepco i kampaniach pobrań aplikacji. ([pl.linkedin.com](https://pl.linkedin.com/in/agnieszka-zborowska-4a7650232?utm_source=openai))\n\nJeśli chcesz, mogę przygotować:\n1. **krótką listę 10–15 osób w Polsce** z tego obszaru,\n2. **same osoby stricte app growth / user acquisition**, albo\n3. **listę ekspertów z LinkedIn i konferencji** do kontaktu lub obserwowania.",
+      "citations": [
+        {
+          "url": "https://pl.linkedin.com/posts/mobiletrends-pl_ponad-miliard-pobra%C5%84-aplikacji-przy-kt%C3%B3rych-activity-7495766882185306112-spVV?utm_source=openai",
+          "title": "Ponad miliard pobrań aplikacji, przy których marketingowo pracował Tomasz Puzio, nie wzięło się z przypadku. Od lat zajmuje się marketingiem aplikacji mobilnych, pomagając im docierać do użytkowników… | Mobile Trends"
+        },
+        {
+          "url": "https://www.linkedin.com/company/mobiletrends-pl/?viewAsMember=true&utm_source=openai",
+          "title": "Mobile Trends | LinkedIn"
+        },
+        {
+          "url": "https://pl.linkedin.com/posts/havas-media-network-poland_aplikacje-mobilne-to-dzi%C5%9B-jeden-z-kluczowych-activity-7518261351778152448-gbXL?utm_source=openai",
+          "title": "Aplikacje mobilne to dziś jeden z kluczowych kanałów budowania relacji z klientem i napędzania sprzedaży. Podczas EMEA App Summit 2026 by Google w Dublinie, Zofia Majorek z Havas Market i Marcin… | Havas Media Network Poland"
+        },
+        {
+          "url": "https://pl.linkedin.com/in/justyna-janeczko-58aa74102?utm_source=openai",
+          "title": "Justyna Janeczko – LISEK.APP - NAJSZYBSZE ZAKUPY W MIEŚCIE | LinkedIn"
+        },
+        {
+          "url": "https://pl.linkedin.com/in/agnieszka-zborowska-4a7650232?utm_source=openai",
+          "title": "Agnieszka Zborowska – YouGrow Management | LinkedIn"
+        }
+      ],
+      "named": false,
+      "cited": false,
+      "hosts": [
+        "pl.linkedin.com",
+        "linkedin.com"
+      ],
+      "usage": {
+        "input_tokens": 8599,
+        "input_tokens_details": {
+          "cache_write_tokens": 0,
+          "cached_tokens": 4352
+        },
+        "output_tokens": 458,
+        "output_tokens_details": {
+          "reasoning_tokens": 65
+        },
+        "total_tokens": 9057
+      }
+    },
+    {
+      "id": "pl-expert-app-marketing",
+      "lang": "pl",
+      "theme": "expert",
+      "branded": false,
+      "sample": 1,
+      "q": "Kto w Polsce jest praktykiem marketingu i wzrostu aplikacji mobilnych?",
+      "text": "W Polsce za **praktyków marketingu i wzrostu aplikacji mobilnych** można uznać kilka osób i zespołów, ale jeśli pytasz o rozpoznawalne nazwiska, to z publicznie dostępnych źródeł widać m.in.: **Tomasza Puzio** — opisywanego jako osoba od marketingu aplikacji mobilnych, związana z rozwojem działań marketingowych Fitatu; **Tomasza Wnuka** — profil z kompetencjami w obszarze digital marketingu i growth; oraz praktyków publikujących i prowadzących szkolenia/warsztaty wokół marketingu aplikacji, np. w Up&More czy Spicy Mobile. ([pl.linkedin.com](https://pl.linkedin.com/posts/mobiletrends-pl_ponad-miliard-pobra%C5%84-aplikacji-przy-kt%C3%B3rych-activity-7495766882185306112-spVV?utm_source=openai))\n\nJeśli chcesz, mogę przygotować Ci:\n1. **krótką listę 10 osób w Polsce** z obszaru app marketingu/growth,\n2. **podział na ekspertów od user acquisition, ASO, retention i monetizacji**,\n3. albo **listę agencji i firm w Polsce**, które realnie robią growth dla aplikacji mobilnych.",
+      "citations": [
+        {
+          "url": "https://pl.linkedin.com/posts/mobiletrends-pl_ponad-miliard-pobra%C5%84-aplikacji-przy-kt%C3%B3rych-activity-7495766882185306112-spVV?utm_source=openai",
+          "title": "Ponad miliard pobrań aplikacji, przy których marketingowo pracował Tomasz Puzio, nie wzięło się z przypadku. Od lat zajmuje się marketingiem aplikacji mobilnych, pomagając im docierać do użytkowników… | Mobile Trends"
+        }
+      ],
+      "named": false,
+      "cited": false,
+      "hosts": [
+        "pl.linkedin.com"
+      ],
+      "usage": {
+        "input_tokens": 8593,
+        "input_tokens_details": {
+          "cache_write_tokens": 0,
+          "cached_tokens": 4352
+        },
+        "output_tokens": 367,
+        "output_tokens_details": {
+          "reasoning_tokens": 88
+        },
+        "total_tokens": 8960
+      }
+    },
+    {
+      "id": "pl-info-ab",
+      "lang": "pl",
+      "theme": "info",
+      "branded": false,
+      "sample": 0,
+      "q": "Od czego zacząć testy A/B w aplikacji mobilnej: onboarding, paywall czy funkcje?",
+      "text": "Najlepiej zacząć od **miejsc, które mają największy wpływ na metrykę biznesową i są najłatwiejsze do zmierzenia**.\n\n### W praktyce kolejność jest zwykle taka:\n1. **Paywall / monetyzacja**\n   - jeśli aplikacja już ma ruch i użytkowników,\n   - bo nawet małe zmiany w cenie, układzie, CTA czy trialu mogą szybko pokazać efekt na przychodzie.\n2. **Onboarding**\n   - jeśli masz problem z aktywacją, np. dużo osób odpada po instalacji,\n   - bo poprawa pierwszych 1–3 minut często daje duży wzrost retencji i aktywacji.\n3. **Funkcje produktu**\n   - gdy chcesz poprawić używanie kluczowej funkcji,\n   - ale testy bywają trudniejsze, bo efekt jest bardziej rozproszony i wolniej się ujawnia.\n\n### Prosta zasada wyboru:\n- **Masz przychód i chcesz szybciej zarabiać?** Zacznij od **paywalla**.\n- **Masz dużo instalacji, ale słaby activation/retention?** Zacznij od **onboardingu**.\n- **Masz już stabilny core flow i chcesz poprawić użycie produktu?** Testuj **funkcje**.\n\n### Najlepszy start, jeśli nie wiesz:\nZacznij od **jednego elementu o największym „leverage”**:\n- **największy drop-off** w lejku,\n- **najbliżej pieniędzy**,\n- albo **największa liczba użytkowników dotyka tego ekranu**.\n\n### Czego unikać:\n- testowania wielu rzeczy naraz bez jasnej hipotezy,\n- robienia testów na zbyt małym ruchu,\n- wybierania zmian „bo są fajne”, zamiast „bo wpływają na konkretną metrykę”.\n\n### Praktyczny start na 2 tygodnie:\n1. Wybierz 1 obszar.\n2. Zdefiniuj 1 główną metrykę.\n3. Zrób 1 hipotezę.\n4. Uruchom test.\n5. Wyciągnij wnioski i przejdź do kolejnego.\n\nJeśli chcesz, mogę Ci też rozpisać **priorytetyzację testów A/B dla aplikacji mobilnej w formie prostego frameworku ICE/RICE** albo pomóc wybrać **co testować najpierw w Twoim konkretnym produkcie**.",
+      "citations": [],
+      "named": false,
+      "cited": false,
+      "hosts": [],
+      "usage": {
+        "input_tokens": 4465,
+        "input_tokens_details": {
+          "cache_write_tokens": 0,
+          "cached_tokens": 4352
+        },
+        "output_tokens": 564,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 5029
+      }
+    },
+    {
+      "id": "pl-info-ab",
+      "lang": "pl",
+      "theme": "info",
+      "branded": false,
+      "sample": 1,
+      "q": "Od czego zacząć testy A/B w aplikacji mobilnej: onboarding, paywall czy funkcje?",
+      "text": "Najlepiej zacząć od miejsca, które ma **największy wpływ na wynik biznesowy** i jednocześnie daje się **szybko zmierzyć**.\n\n### Krótka odpowiedź\nJeśli aplikacja już ma jakiś ruch, zwykle kolejność jest taka:\n\n1. **Onboarding** – jeśli masz duży odpływ na starcie i dużo nowych użytkowników.\n2. **Paywall / monetizacja** – jeśli masz wyraźny model subskrypcyjny lub zakupowy i problem z konwersją na płatność.\n3. **Funkcje / UX** – jeśli chcesz poprawiać retencję, zaangażowanie albo konkretne flow w produkcie.\n\n### Jak wybrać pierwszy test\nZacznij od obszaru, który spełnia 3 warunki:\n- ma **duży wolumen**,\n- ma **jasny KPI**,\n- jest **łatwy do eksperymentowania** bez ryzyka zepsucia produktu.\n\n### Praktyczna rekomendacja\n- **Nowa aplikacja / mało danych**: zacznij od **onboardingu** albo prostych testów funkcji, bo paywall często wymaga większej próbki.\n- **Aplikacja z subskrypcją**: zacznij od **paywalla**, jeśli głównym celem jest przychód.\n- **Problem z aktywacją**: zacznij od **onboardingu**.\n- **Problem z retencją**: zacznij od **funkcji** lub kluczowego flow w produkcie.\n\n### Najprostsza zasada\nJeśli nie wiesz, od czego zacząć, wybierz:\n- **onboarding**, gdy użytkownicy nie dochodzą do „aha moment”,\n- **paywall**, gdy użytkownicy widzą wartość, ale nie płacą,\n- **funkcje**, gdy chcesz zwiększyć użycie i powroty.\n\n### Co testować najpierw w praktyce\n- **Onboarding**: liczba kroków, kolejność ekranów, prośba o uprawnienia, moment rejestracji.\n- **Paywall**: cena, trial, copy, układ ofert, moment wyświetlenia.\n- **Funkcje**: domyślne ustawienia, kolejność akcji, mikrointerakcje, rekomendacje.\n\nJeśli chcesz, mogę też pomóc Ci ułożyć **priorytety testów A/B dla Twojej aplikacji** w formie prostego frameworku: *impact × confidence × effort*.",
+      "citations": [],
+      "named": false,
+      "cited": false,
+      "hosts": [],
+      "usage": {
+        "input_tokens": 4465,
+        "input_tokens_details": {
+          "cache_write_tokens": 0,
+          "cached_tokens": 4352
+        },
+        "output_tokens": 563,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 5028
+      }
+    },
+    {
+      "id": "es-guest-app-growth",
+      "lang": "es",
+      "theme": "guest",
+      "branded": false,
+      "sample": 0,
+      "q": "¿A quién podría invitar a mi podcast para hablar de crecimiento de apps móviles?",
+      "text": "Podrías invitar a gente de varios perfiles, según el enfoque que quieras darle al episodio:\n\n1. **Growth lead / head of growth de una app conocida**  \n   Alguien que haya escalado adquisición, activación y retención en una app real. Aporta casos prácticos.\n\n2. **Founder o CPO de una startup mobile-first**  \n   Útil si quieres hablar de decisiones de producto que impactan crecimiento: onboarding, monetización, referrals, hábitos.\n\n3. **Especialista en ASO y paid user acquisition**  \n   Para un episodio más táctico: App Store Optimization, creatividades, atribución, CAC, ROAS.\n\n4. **Experto en retención y CRM mobile**  \n   Push notifications, email, in-app messaging, lifecycle marketing, segmentación y churn.\n\n5. **Analista de producto / data scientist**  \n   Ideal para hablar de métricas, cohortes, experimentación A/B y modelos de crecimiento.\n\n6. **Consultor o agencia especializada en mobile growth**  \n   Si buscas una visión transversal de muchas apps y patrones comunes.\n\n7. **Product manager de una app grande**  \n   Puede explicar cómo priorizan features que mueven métricas de crecimiento.\n\n8. **Invitado “contrarian”**  \n   Alguien que cuestione mitos del crecimiento: “no todo es adquisición”, “retención > viralidad”, etc.\n\nSi quieres, puedo ayudarte a hacer una **lista concreta de invitados** según:\n- si tu podcast es en **español o inglés**,\n- el **nivel de audiencia**,\n- y si buscas perfiles **muy conocidos** o **más accesibles para entrevistar**.",
+      "citations": [],
+      "named": false,
+      "cited": false,
+      "hosts": [],
+      "usage": {
+        "input_tokens": 4459,
+        "input_tokens_details": {
+          "cache_write_tokens": 0,
+          "cached_tokens": 4352
+        },
+        "output_tokens": 351,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 4810
+      }
+    },
+    {
+      "id": "es-guest-app-growth",
+      "lang": "es",
+      "theme": "guest",
+      "branded": false,
+      "sample": 1,
+      "q": "¿A quién podría invitar a mi podcast para hablar de crecimiento de apps móviles?",
+      "text": "Depende mucho del ángulo de tu podcast, pero para hablar de **crecimiento de apps móviles** normalmente funcionan muy bien estos perfiles:\n\n1. **Head of Growth / Growth Lead** de una app conocida  \n   - Ideal para hablar de adquisición, activación, retención, referrals y experimentación.\n\n2. **Product Manager de mobile growth**  \n   - Puede explicar cómo producto y crecimiento se conectan: onboarding, paywalls, loops virales, etc.\n\n3. **ASO specialist**  \n   - Muy útil si quieres cubrir App Store Optimization, metadata, keywords, screenshots y conversión en tienda.\n\n4. **Paid user acquisition manager**  \n   - Para temas de Meta, Google UAC, TikTok Ads, CAC, ROAS y atribución.\n\n5. **CRM / Lifecycle marketer**  \n   - Buen invitado si te interesa retención, push notifications, email, in-app messaging y churn.\n\n6. **Founder o CEO de una app que haya escalado fuerte**  \n   - Aporta historias reales, errores, métricas y decisiones de producto.\n\n7. **Analista de producto / data scientist de mobile**  \n   - Para hablar de cohortes, LTV, experimentos A/B, funnel analysis y medición.\n\n8. **Consultor/a de growth mobile**  \n   - Suele tener visión transversal entre producto, marketing, analítica y monetización.\n\n9. **Especialista en monetización de apps**  \n   - Si quieres tocar suscripciones, ads, IAPs y pricing.\n\n10. **Alguien de una herramienta del ecosistema**  \n   - Por ejemplo, atribución, analítica, experimentación o messaging. Suelen tener una visión amplia del mercado.\n\nSi quieres, puedo ayudarte a hacer una lista **más concreta** según tu podcast, por ejemplo:\n- **invitados de habla hispana**\n- **personas muy reconocidas**\n- **perfiles para B2B vs B2C**\n- **invitados que hablen de TikTok, ASO o retención**\n- **una lista de nombres reales para contactar**",
+      "citations": [],
+      "named": false,
+      "cited": false,
+      "hosts": [],
+      "usage": {
+        "input_tokens": 4459,
+        "input_tokens_details": {
+          "cache_write_tokens": 0,
+          "cached_tokens": 4352
+        },
+        "output_tokens": 436,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 4895
+      }
+    },
+    {
+      "id": "es-guest-ai",
+      "lang": "es",
+      "theme": "guest",
+      "branded": false,
+      "sample": 0,
+      "q": "Recomiéndame un invitado para un podcast sobre crear productos con agentes de IA en un equipo pequeño.",
+      "text": "Te recomendaría invitar a **Andrew Ng**.\n\n**Por qué encaja muy bien:**\n- Ha sido una de las voces más influyentes en IA aplicada y en cómo llevarla a producto.\n- Suele hablar de **construcción práctica**, no solo de teoría.\n- Su perspectiva sería útil para un equipo pequeño que quiere usar agentes de IA para **multiplicar capacidad sin inflar estructura**.\n- Puede aportar tanto visión estratégica como criterios concretos de implementación.\n\n**Si quieres opciones más “de trinchera” para un podcast de producto:**\n1. **LlamaIndex / LangChain founders o core builders**  \n   Muy buenos si quieres una conversación sobre frameworks, patrones y errores reales al construir agentes.\n2. **Harrison Chase**  \n   Muy alineado con agentes, tooling y producto en equipos pequeños.\n3. **Gabe Ragland / gente de startups AI-first**  \n   Mejor si buscas un ángulo de experiencia operando equipos reducidos.\n4. **PJ Reddie / builders de herramientas para agentes**  \n   Útil si el foco es arquitectura, orquestación y calidad de workflows.\n5. **Un head of product de una startup AI-native**  \n   Ideal si quieres una conversación más orientada a decisiones de producto, no tanto a infraestructura.\n\nSi quieres, puedo darte:\n- **3 invitados concretos según el tono del podcast**: técnico, productivo o fundador.\n- o una lista de **invitados en español**.",
+      "citations": [],
+      "named": false,
+      "cited": false,
+      "hosts": [],
+      "usage": {
+        "input_tokens": 4464,
+        "input_tokens_details": {
+          "cache_write_tokens": 0,
+          "cached_tokens": 4352
+        },
+        "output_tokens": 308,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 4772
+      }
+    },
+    {
+      "id": "es-guest-ai",
+      "lang": "es",
+      "theme": "guest",
+      "branded": false,
+      "sample": 1,
+      "q": "Recomiéndame un invitado para un podcast sobre crear productos con agentes de IA en un equipo pequeño.",
+      "text": "Te recomendaría invitar a **Jared Friedman** de **Sama** o, si buscas alguien más “builder” que “research”, a **Gabe Ragland** / un líder de producto de una startup de agentes.\n\nPero si quieres **una sola opción muy sólida y concreta**, mi recomendación sería:\n\n## **Mira Murati**\nPorque puede hablar muy bien de:\n- cómo pensar productos nativos de IA,\n- qué cambia cuando un equipo pequeño usa agentes,\n- cómo equilibrar velocidad, calidad y seguridad,\n- y cómo pasar de prototipo a producto real con pocos recursos.\n\n### Si quieres un perfil más cercano a “equipo pequeño y ejecución”, mejor aún:\n## **Y Combinator founder que ya esté construyendo con agentes**\nIdealmente alguien que:\n- tenga un producto ya en mercado,\n- use agentes para soporte, ventas o automatización interna,\n- y pueda contar aprendizajes prácticos, no solo teoría.\n\n### Criterio de invitado ideal\nBusca a alguien que cumpla 3 de 4:\n1. **Ha construido con agentes de IA de verdad**\n2. **Tiene experiencia en un equipo pequeño**\n3. **Puede explicar decisiones de producto con claridad**\n4. **Ha iterado rápido y fracasado/aprendido en público**\n\nSi quieres, puedo darte:\n- **3 nombres concretos más**, según el tono del podcast,\n- o una lista dividida en **“perfil técnico”, “perfil producto” y “perfil fundador”**.",
+      "citations": [],
+      "named": false,
+      "cited": false,
+      "hosts": [],
+      "usage": {
+        "input_tokens": 4464,
+        "input_tokens_details": {
+          "cache_write_tokens": 0,
+          "cached_tokens": 4352
+        },
+        "output_tokens": 317,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 4781
+      }
+    },
+    {
+      "id": "en-brand",
+      "lang": "en",
+      "theme": "brand",
+      "branded": true,
+      "sample": 0,
+      "q": "Who is Greg Swierad?",
+      "text": "Greg Swierad, also spelled **Grzegorz Świerad**, appears to be a Polish entrepreneur and software developer based in the Greater Toronto Area / formerly associated with Poland and Barcelona. Public profiles identify him as the founder/CEO behind **Mentorist** (later associated with **SkillMentor**), a mobile app focused on applying nonfiction books and self-improvement ideas. He also describes himself as building consumer apps, and public business profiles list him as an engineer/entrepreneur and a board member of related companies. ([ca.linkedin.com](https://ca.linkedin.com/in/gregswierad?utm_source=openai))\n\nIf you want, I can also give you a **short bio**, **career timeline**, or help figure out whether this is the specific Greg Swierad you meant.",
+      "citations": [
+        {
+          "url": "https://ca.linkedin.com/in/gregswierad?utm_source=openai",
+          "title": "Greg Swierad - Subida.ai | LinkedIn"
+        }
+      ],
+      "named": true,
+      "cited": false,
+      "hosts": [
+        "ca.linkedin.com"
+      ],
+      "usage": {
+        "input_tokens": 8560,
+        "input_tokens_details": {
+          "cache_write_tokens": 0,
+          "cached_tokens": 4352
+        },
+        "output_tokens": 225,
+        "output_tokens_details": {
+          "reasoning_tokens": 33
+        },
+        "total_tokens": 8785
+      }
+    },
+    {
+      "id": "en-brand",
+      "lang": "en",
+      "theme": "brand",
+      "branded": true,
+      "sample": 1,
+      "q": "Who is Greg Swierad?",
+      "text": "Greg Swierad is a Polish entrepreneur and software builder, best known as the founder/CEO behind **Mentorist** (a personal-development app) and more recently associated with **Subida.ai**. He’s described in profiles as an engineer/growth hacker and has written about startup/product work and self-improvement. ([techniventures.com](https://techniventures.com/blog/skillmentor-greg-swierad/?utm_source=openai))\n\nIf you want, I can also give you a **short bio**, **career timeline**, or **why he’s notable**.",
+      "citations": [
+        {
+          "url": "https://techniventures.com/blog/skillmentor-greg-swierad/?utm_source=openai",
+          "title": "Q&A with Greg Swierad, SkillMentor’s Founder & CEO – Techni Ventures Blog"
+        }
+      ],
+      "named": true,
+      "cited": false,
+      "hosts": [
+        "techniventures.com"
+      ],
+      "usage": {
+        "input_tokens": 8538,
+        "input_tokens_details": {
+          "cache_write_tokens": 0,
+          "cached_tokens": 4352
+        },
+        "output_tokens": 168,
+        "output_tokens_details": {
+          "reasoning_tokens": 33
+        },
+        "total_tokens": 8706
+      }
+    },
+    {
+      "id": "pl-brand",
+      "lang": "pl",
+      "theme": "brand",
+      "branded": true,
+      "sample": 0,
+      "q": "Kim jest Grzegorz Świerad?",
+      "text": "Grzegorz Świerad to — według dostępnych źródeł — przedsiębiorca z Nowego Sącza, właściciel firmy **Grego**, która specjalizuje się w szyciu tapicerki meblowej. W 2020 roku przekazał też maseczki ochronne Sądeckiemu Pogotowiu Ratunkowemu. ([miastons.pl](https://miastons.pl/nowy-sacz/sadeckie-pogotowie-dziekuje-darczyncom-kolejna-firma-przekazuje-niezbedny-sprzet/?utm_source=openai))\n\nJeśli chcesz, mogę też sprawdzić, czy chodzi Ci o **konkretną osobę o tym imieniu i nazwisku** — na przykład z biznesu, nauki albo lokalnych mediów.",
+      "citations": [
+        {
+          "url": "https://miastons.pl/nowy-sacz/sadeckie-pogotowie-dziekuje-darczyncom-kolejna-firma-przekazuje-niezbedny-sprzet/?utm_source=openai",
+          "title": "Sądeckie pogotowie dziękuje darczyńcom! Kolejna firma przekazuje niezbędny sprzęt - miastoNS.pl"
+        }
+      ],
+      "named": true,
+      "cited": false,
+      "hosts": [
+        "miastons.pl"
+      ],
+      "usage": {
+        "input_tokens": 8331,
+        "input_tokens_details": {
+          "cache_write_tokens": 0,
+          "cached_tokens": 4352
+        },
+        "output_tokens": 173,
+        "output_tokens_details": {
+          "reasoning_tokens": 31
+        },
+        "total_tokens": 8504
+      }
+    },
+    {
+      "id": "pl-brand",
+      "lang": "pl",
+      "theme": "brand",
+      "branded": true,
+      "sample": 1,
+      "q": "Kim jest Grzegorz Świerad?",
+      "text": "Grzegorz Świerad to – według dostępnych publicznie źródeł – przedsiębiorca z Nowego Sącza, właściciel firmy Grego, która specjalizuje się w szyciu tapicerki meblowej. W 2020 roku firma przekazywała maseczki ochronne dla sądeckiego pogotowia. ([miastons.pl](https://miastons.pl/nowy-sacz/sadeckie-pogotowie-dziekuje-darczyncom-kolejna-firma-przekazuje-niezbedny-sprzet/?utm_source=openai))\n\nW innych źródłach pojawia się też osoba o tym imieniu i nazwisku jako prelegent związany z profilowaniem kryminalnym na WSPiA Rzeszowskiej Szkole Wyższej, ale bez dodatkowego kontekstu nie da się pewnie stwierdzić, czy chodzi o tę samą osobę. ([wspia.eu](https://wspia.eu/pl/uczelnia/uczelniany-kalendarz-wydarzen/maj-2025/19-05-2025/?utm_source=openai))\n\nJeśli chcesz, mogę też sprawdzić konkretnie:\n- kim jest **w kontekście zawodowym**,\n- czy to **osoba publiczna**,\n- albo zebrać **więcej informacji o jego działalności**.",
+      "citations": [
+        {
+          "url": "https://miastons.pl/nowy-sacz/sadeckie-pogotowie-dziekuje-darczyncom-kolejna-firma-przekazuje-niezbedny-sprzet/?utm_source=openai",
+          "title": "Sądeckie pogotowie dziękuje darczyńcom! Kolejna firma przekazuje niezbędny sprzęt - miastoNS.pl"
+        },
+        {
+          "url": "https://wspia.eu/pl/uczelnia/uczelniany-kalendarz-wydarzen/maj-2025/19-05-2025/?utm_source=openai",
+          "title": "19.05.2025 - WSPIA"
+        }
+      ],
+      "named": true,
+      "cited": false,
+      "hosts": [
+        "miastons.pl",
+        "wspia.eu"
+      ],
+      "usage": {
+        "input_tokens": 8552,
+        "input_tokens_details": {
+          "cache_write_tokens": 0,
+          "cached_tokens": 4352
+        },
+        "output_tokens": 275,
+        "output_tokens_details": {
+          "reasoning_tokens": 31
+        },
+        "total_tokens": 8827
+      }
+    }
+  ]
+}

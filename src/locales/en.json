@@ -228,10 +228,22 @@
     "practical": {
       "title": "Practical details",
       "items": [
-        { "label": "Languages", "value": "English, Polish" },
-        { "label": "Format", "value": "remote recording on the host's platform (Riverside, Zoom, StreamYard and others)" },
-        { "label": "Length", "value": "from a short chat to a long-form interview" },
-        { "label": "Reply time", "value": "within 24 hours" }
+        {
+          "label": "Languages",
+          "value": "English, Polish"
+        },
+        {
+          "label": "Format",
+          "value": "remote recording on the host's platform (Riverside, Zoom, StreamYard and others)"
+        },
+        {
+          "label": "Length",
+          "value": "from a short chat to a long-form interview"
+        },
+        {
+          "label": "Reply time",
+          "value": "within 24 hours"
+        }
       ]
     },
     "gift": {
@@ -278,5 +290,214 @@
     "rights": "© 2026 Greg Swierad",
     "studio": "Mobile app studio: Subida AI",
     "linkedin": "LinkedIn"
+  },
+  "meta": {
+    "home": {
+      "title": "Greg Swierad | Founder building mobile apps and their growth",
+      "description": "Greg Swierad, founder of Subida AI and Mentorist (500k+ users, 500+ A/B tests). Former CTO and CEO of IQElite (8M users). Podcast guest on app growth, A/B testing and building products with AI agents."
+    },
+    "podcast": {
+      "title": "Greg Swierad | Media kit for podcast hosts",
+      "description": "Bio, photos, topics and sample questions for podcast hosts. Greg Swierad, founder of Subida AI and Mentorist, talks about app growth, A/B testing and building with AI agents."
+    },
+    "listeners": {
+      "title": "Greg Swierad | A gift for podcast listeners",
+      "description": "A free month of Naralingo and a Mentorist subscription for listeners of the podcasts Greg Swierad appears on."
+    },
+    "notFound": {
+      "title": "Page not found | Greg Swierad",
+      "description": "This page doesn't exist. Greg Swierad's home page and media kit for podcast hosts are one click away."
+    }
+  },
+  "notFound": {
+    "title": "This page doesn't exist",
+    "body": "The link may be old or mistyped. Here are the two pages most people look for."
+  },
+  "faq": {
+    "title": "Frequently asked questions",
+    "items": [
+      {
+        "q": "Who is Greg Swierad?",
+        "a": "Greg Swierad (Grzegorz Świerad) is a Polish founder who builds mobile apps and the growth behind them. He runs Subida AI, a mobile app studio, and created Mentorist, an app with 500k+ users, 500+ A/B tests and a €550k round. Before that he was CTO and then CEO of IQElite in Barcelona, which reached break-even within 90 days and grew to 8 million registered users."
+      },
+      {
+        "q": "What does Greg Swierad talk about on podcasts?",
+        "a": "Six topics where he has his own numbers: what 500+ A/B tests teach about apps, growing Mentorist from zero to 500k+ users, building products with AI agents instead of a department, the IQElite turnaround from CTO to CEO, advertising that pays for itself (€700k+ spent on Meta ads), and why product design and marketing are one decision."
+      },
+      {
+        "q": "Which podcasts is Greg Swierad a good guest for?",
+        "a": "Shows about startups, mobile and subscription apps, growth and performance marketing, product management, and building products with AI. Listeners who get the most out of it are founders, product managers, marketers and developers who want real numbers rather than theory."
+      },
+      {
+        "q": "How do I invite Greg Swierad on my podcast?",
+        "a": "Use the form on gregswierad.com/podcast and say a few words about the show and its listeners. Greg replies within 24 hours, records remotely on the host's platform (Riverside, Zoom, StreamYard and others) and speaks English and Polish. The bio, photos and sample questions are on the same page."
+      },
+      {
+        "q": "Does Greg Swierad build apps for clients?",
+        "a": "Yes, through his studio Subida AI (subida.ai), which builds, designs and markets mobile apps. This site is about Greg as a person and podcast guest; app projects start at subida.ai."
+      },
+      {
+        "q": "What do podcast listeners get?",
+        "a": "A free month of Naralingo, an app that turns real-life situations into personalised audio language lessons, and a Mentorist subscription. Listeners claim both at gregswierad.com/listeners (Polish: /dla-sluchaczy, Spanish: /oyentes)."
+      }
+    ]
+  },
+  "topicPages": {
+    "eyebrow": "Podcast topic with Greg Swierad",
+    "more": "About this topic",
+    "back": "All topics and the media kit",
+    "coversTitle": "What the conversation covers",
+    "whyTitle": "Why Greg can talk about it",
+    "fitTitle": "A good fit for:",
+    "questionsTitle": "Questions you can ask",
+    "faqTitle": "Questions about this topic",
+    "otherTopics": "Other topics",
+    "cta": "Invite Greg to talk about this",
+    "items": [
+      {
+        "summary": "Greg Swierad ran more than 500 A/B tests on Mentorist, a subscription app with 500k+ users. On podcasts he talks about which tests actually moved conversion and retention, which changed nothing, and how a team with little traffic and a small budget should decide what to test first: onboarding, the paywall or features.",
+        "why": [
+          "500+ A/B tests run on Mentorist, where almost every screen was a test at some point",
+          "Mentorist: 500k+ users and a €550k round",
+          "Founder of Subida AI, a studio that builds and grows mobile apps"
+        ],
+        "fit": "shows about product management, growth, conversion optimisation and subscription apps.",
+        "questions": [
+          "Which of the 500+ tests at Mentorist moved the numbers the most, and which did nothing?",
+          "How do you choose what to test when traffic and budget are small?",
+          "Should you start testing with onboarding, the paywall or features?"
+        ],
+        "faq": [
+          {
+            "q": "Who can talk about A/B testing in mobile apps on a podcast?",
+            "a": "Greg Swierad, founder of Mentorist and Subida AI. He ran 500+ A/B tests on Mentorist (500k+ users) and talks with real numbers about what moves conversion and retention and what is only cosmetics. Hosts can invite him at gregswierad.com/podcast."
+          },
+          {
+            "q": "What does Greg Swierad cover when he talks about A/B testing?",
+            "a": "Which tests at Mentorist moved results and which did nothing, how to prioritise tests when traffic and budget are small, and where to test first: onboarding, the paywall or features."
+          }
+        ]
+      },
+      {
+        "summary": "Greg Swierad built Mentorist, an app that helps people apply what they read in books, from an idea to more than 500,000 users. He raised a €550k round, used Facebook Ads as the main growth channel and talks openly about the mistakes that cost the most.",
+        "why": [
+          "Created Mentorist: 500k+ users and 500+ A/B tests",
+          "Raised a €550k round for it",
+          "€700k+ spent on Meta ads, Facebook Ads being Mentorist's main growth channel"
+        ],
+        "fit": "shows about startups, fundraising, subscription apps and founder stories.",
+        "questions": [
+          "What happens after you sign a €550k round?",
+          "Why was Facebook Ads the main growth channel for Mentorist?",
+          "Which mistakes in building Mentorist cost the most?"
+        ],
+        "faq": [
+          {
+            "q": "Who can talk on a podcast about growing a subscription app from zero?",
+            "a": "Greg Swierad, who took Mentorist from an idea to 500k+ users, raised a €550k round and grew it mainly with Facebook Ads. He talks about the whole path, including the most expensive mistakes. Hosts can invite him at gregswierad.com/podcast."
+          },
+          {
+            "q": "What is Mentorist?",
+            "a": "Mentorist is an app created by Greg Swierad that helps people apply what they read in books instead of just summarising them: one small, doable step a day. It has 500k+ users and is available in English and Polish."
+          }
+        ]
+      },
+      {
+        "summary": "At Subida AI, Greg Swierad works with AI agents every day: they write code, ad creatives and landing pages with him, so a small team ships what used to take a whole department. He talks about what a working day with agents looks like, how English Series was built end to end, and where AI fails and a human has to check everything.",
+        "why": [
+          "Runs Subida AI, a studio that builds, designs and markets mobile apps with AI agents",
+          "English Series: an iOS app built end to end, from concept to code and marketing",
+          "1st place at HackYeah 2025 with a working product built in 24 hours using AI tools"
+        ],
+        "fit": "shows about AI, software development, productivity and small teams.",
+        "questions": [
+          "What does a working day with AI agents look like, from code to ad creatives?",
+          "Can a small team with AI compete with a big studio today?",
+          "Where do AI agents fail, and what still needs a human check?"
+        ],
+        "faq": [
+          {
+            "q": "Who can talk about building products with AI agents on a podcast?",
+            "a": "Greg Swierad, founder of Subida AI. AI agents write code, ad creatives and landing pages with him every day; his team built the English Series app end to end and won HackYeah 2025 with a product built in 24 hours. He is open about where AI fails. Hosts can invite him at gregswierad.com/podcast."
+          },
+          {
+            "q": "What does Greg Swierad cover when he talks about AI agents?",
+            "a": "A working day with agents across code, creatives and landing pages, the English Series app built end to end, and where AI fails so that everything needs a human check."
+          }
+        ]
+      },
+      {
+        "summary": "Greg Swierad joined IQElite in Barcelona, a matching platform built on psychometric tests, as CTO on the founding team and became CEO eighteen months later. The company was losing money; within 90 days it reached break-even and stayed profitable for the next 8 years, growing to 8 million registered users.",
+        "why": [
+          "CTO on IQElite's founding team, then CEO eighteen months later",
+          "Break-even within 90 days of taking over, then 8 years of profitability",
+          "The platform grew to 8 million registered users with a five-person team"
+        ],
+        "fit": "shows about leadership, startup turnarounds, bootstrapping and the move from CTO to CEO.",
+        "questions": [
+          "How did IQElite reach break-even in 90 days, and what had to be cut?",
+          "What do you keep and what do you cut in a five-person team that is losing money?",
+          "What changes when a CTO becomes CEO of the same company?"
+        ],
+        "faq": [
+          {
+            "q": "Who can talk about a startup turnaround on a podcast?",
+            "a": "Greg Swierad, who went from CTO to CEO of IQElite in Barcelona and took the loss-making company to break-even within 90 days. It then stayed profitable for 8 years and grew to 8 million registered users. Hosts can invite him at gregswierad.com/podcast."
+          },
+          {
+            "q": "What is IQElite?",
+            "a": "IQElite is a matching platform built on IQ, personality and compatibility tests, based in Barcelona. Greg Swierad was CTO on its founding team and then CEO; the platform grew to 8 million registered users."
+          }
+        ]
+      },
+      {
+        "summary": "Greg Swierad has spent more than €700k on Meta ads, much of it his own money. He talks about reading acquisition cost and payback in a subscription model, why creatives are the main lever of a campaign, and how a pre-sale can test the market before a product is finished.",
+        "why": [
+          "€700k+ spent on Meta ads, much of it his own money",
+          "Silne Dziecko: 500 copies sold in a pre-sale, before the product was fully made",
+          "Neurony Szaleją: a brand scaled to six-figure yearly revenue on paid traffic and custom landing pages"
+        ],
+        "fit": "shows about performance marketing, Facebook and Meta ads, e-commerce and digital products.",
+        "questions": [
+          "What does it really cost to acquire a user for a subscription app?",
+          "Why are creatives the main lever of a campaign?",
+          "How do you check whether the market wants a product before it exists?"
+        ],
+        "faq": [
+          {
+            "q": "Who can talk about Meta (Facebook) ads for apps and digital products on a podcast?",
+            "a": "Greg Swierad, who has spent more than €700k on Meta ads, much of it his own money, for apps such as Mentorist and for digital products. He talks about acquisition cost, payback and creatives with real numbers. Hosts can invite him at gregswierad.com/podcast."
+          },
+          {
+            "q": "What does Greg Swierad cover when he talks about paid ads?",
+            "a": "How to read acquisition cost and payback in a subscription model, creatives as the main lever of a campaign, and pre-sales as a market test, such as the 500 copies of Silne Dziecko sold before release."
+          }
+        ]
+      },
+      {
+        "summary": "Greg Swierad treats code, design and advertising as one job, not three departments. His point: the promise in the ad has to match the first screen of the app, and a consistent message lowers acquisition cost. His example is Lighthouse, a life tracker with a subscription, where one team ran product design, marketing and growth.",
+        "why": [
+          "Builds products where code, design and advertising are one job",
+          "Lighthouse: product design, marketing and growth in one team",
+          "Mentorist: 500+ A/B tests on what people actually do in an app versus what they say they do"
+        ],
+        "fit": "shows about product design, UX, brand and marketing, and growth.",
+        "questions": [
+          "Why does the promise in the ad have to match the first screen of the app?",
+          "How does a consistent message lower acquisition cost?",
+          "What does a small market teach about lean growth?"
+        ],
+        "faq": [
+          {
+            "q": "Who can talk about connecting product design and marketing on a podcast?",
+            "a": "Greg Swierad, founder of Subida AI, who runs product design, development and marketing as one job. He shows how a consistent message from the ad to the first screen of the app lowers acquisition cost, using Lighthouse as the example. Hosts can invite him at gregswierad.com/podcast."
+          },
+          {
+            "q": "What is Lighthouse?",
+            "a": "Lighthouse is a life-tracker app with a Lighthouse PLUS subscription. Greg Swierad's team handled its product design and ran its marketing and growth."
+          }
+        ]
+      }
+    ]
   }
 }

@@ -228,10 +228,22 @@
     "practical": {
       "title": "Praktycznie",
       "items": [
-        { "label": "Języki", "value": "polski, angielski" },
-        { "label": "Format", "value": "nagrania zdalne na platformie gospodarza (Riverside, Zoom, StreamYard i inne)" },
-        { "label": "Długość", "value": "od krótkiej rozmowy po długi wywiad" },
-        { "label": "Odpowiedź", "value": "w ciągu 24 godzin" }
+        {
+          "label": "Języki",
+          "value": "polski, angielski"
+        },
+        {
+          "label": "Format",
+          "value": "nagrania zdalne na platformie gospodarza (Riverside, Zoom, StreamYard i inne)"
+        },
+        {
+          "label": "Długość",
+          "value": "od krótkiej rozmowy po długi wywiad"
+        },
+        {
+          "label": "Odpowiedź",
+          "value": "w ciągu 24 godzin"
+        }
       ]
     },
     "gift": {
@@ -278,5 +290,214 @@
     "rights": "© 2026 Greg Swierad",
     "studio": "Studio aplikacji mobilnych: Subida AI",
     "linkedin": "LinkedIn"
+  },
+  "meta": {
+    "home": {
+      "title": "Greg Swierad | Buduję aplikacje mobilne i to, jak rosną",
+      "description": "Grzegorz (Greg) Świerad, founder Subida AI i twórca Mentorista (ponad 500 tys. użytkowników, ponad 500 testów A/B). Wcześniej CTO i CEO IQElite (8 mln użytkowników). Gość podcastów o wzroście aplikacji, testach A/B i budowaniu z agentami AI."
+    },
+    "podcast": {
+      "title": "Greg Swierad | Media kit dla prowadzących podcasty",
+      "description": "Bio, zdjęcia, tematy i przykładowe pytania dla prowadzących podcasty. Greg Świerad, founder Subida AI i twórca Mentorista, mówi o wzroście aplikacji, testach A/B i budowaniu produktów z agentami AI."
+    },
+    "listeners": {
+      "title": "Greg Swierad | Prezent dla słuchaczy podcastów",
+      "description": "Miesiąc Naralingo za darmo i subskrypcja Mentorista dla słuchaczy podcastów, w których występuje Greg Swierad."
+    },
+    "notFound": {
+      "title": "Nie ma takiej strony | Greg Swierad",
+      "description": "Ta strona nie istnieje. Strona główna i media kit Grega Świerada są o jedno kliknięcie dalej."
+    }
+  },
+  "notFound": {
+    "title": "Nie ma takiej strony",
+    "body": "Link mógł się zestarzeć albo zawierać literówkę. Oto dwie strony, których ludzie szukają najczęściej."
+  },
+  "faq": {
+    "title": "Najczęstsze pytania",
+    "items": [
+      {
+        "q": "Kim jest Grzegorz (Greg) Świerad?",
+        "a": "Grzegorz (Greg) Świerad to polski founder, który buduje aplikacje mobilne i to, jak rosną. Prowadzi Subida AI, studio aplikacji mobilnych, i stworzył Mentorista: aplikację z ponad 500 tys. użytkowników, ponad 500 testami A/B i rundą 550 tys. €. Wcześniej był CTO, a potem CEO IQElite w Barcelonie, które w 90 dni wyszło na break-even i urosło do 8 mln zarejestrowanych użytkowników."
+      },
+      {
+        "q": "O czym Greg Świerad opowiada w podcastach?",
+        "a": "O sześciu tematach, w których ma własne liczby: czego uczy ponad 500 testów A/B w aplikacjach, jak Mentorist urósł od zera do ponad 500 tys. użytkowników, jak budować produkty z agentami AI zamiast całego działu, o turnaroundzie IQElite i przejściu z CTO na CEO, o reklamie, która się spłaca (ponad 700 tys. € wydanych na Mecie), i o tym, dlaczego product design i marketing to jedna decyzja."
+      },
+      {
+        "q": "Do jakich podcastów pasuje Greg Świerad?",
+        "a": "Do audycji o startupach, aplikacjach mobilnych i subskrypcyjnych, wzroście i performance marketingu, zarządzaniu produktem oraz budowaniu produktów z AI. Najwięcej wyniosą z rozmowy founderzy, product managerowie, marketerzy i programiści, którzy wolą konkretne liczby od teorii."
+      },
+      {
+        "q": "Jak zaprosić Grega Świerada do podcastu?",
+        "a": "Przez formularz na gregswierad.com/pl/podcast: wystarczy kilka słów o audycji i słuchaczach. Greg odpowiada w ciągu 24 godzin, nagrywa zdalnie na platformie gospodarza (Riverside, Zoom, StreamYard i inne) i mówi po polsku i po angielsku. Bio, zdjęcia i przykładowe pytania są na tej samej stronie."
+      },
+      {
+        "q": "Czy Greg Świerad buduje aplikacje dla klientów?",
+        "a": "Tak, przez swoje studio Subida AI (subida.ai), które buduje, projektuje i promuje aplikacje mobilne. Ta strona jest o Gregu jako osobie i gościu podcastów; projekty aplikacji zaczynają się na subida.ai."
+      },
+      {
+        "q": "Co dostają słuchacze podcastów?",
+        "a": "Miesiąc Naralingo za darmo (aplikacja, która zamienia sytuacje z życia w spersonalizowane lekcje językowe audio) i subskrypcję Mentorista. Oba prezenty odbiera się na gregswierad.com/dla-sluchaczy."
+      }
+    ]
+  },
+  "topicPages": {
+    "eyebrow": "Temat do podcastu z Gregiem Świeradem",
+    "more": "Więcej o temacie",
+    "back": "Wszystkie tematy i media kit",
+    "coversTitle": "O czym będzie rozmowa",
+    "whyTitle": "Dlaczego Greg może o tym mówić",
+    "fitTitle": "Pasuje do:",
+    "questionsTitle": "Pytania, które możesz zadać",
+    "faqTitle": "Pytania o ten temat",
+    "otherTopics": "Inne tematy",
+    "cta": "Zaproś Grega do rozmowy o tym",
+    "items": [
+      {
+        "summary": "Greg Świerad przeprowadził ponad 500 testów A/B w Mentoriście, aplikacji subskrypcyjnej z ponad 500 tys. użytkowników. W podcastach opowiada, które testy naprawdę przesunęły konwersję i retencję, które nic nie zmieniły, i jak zespół z małym ruchem i budżetem ma zdecydować, co testować najpierw: onboarding, paywall czy funkcje.",
+        "why": [
+          "Ponad 500 testów A/B w Mentoriście, gdzie prawie każdy ekran był kiedyś testem",
+          "Mentorist: ponad 500 tys. użytkowników i runda 550 tys. €",
+          "Founder Subida AI, studia, które buduje i rozwija aplikacje mobilne"
+        ],
+        "fit": "podcastów o zarządzaniu produktem, wzroście, optymalizacji konwersji i aplikacjach subskrypcyjnych.",
+        "questions": [
+          "Które z ponad 500 testów w Mentoriście najbardziej przesunęły wyniki, a które nic nie dały?",
+          "Jak wybrać, co testować, gdy ruch i budżet są małe?",
+          "Zacząć testy od onboardingu, paywalla czy funkcji?"
+        ],
+        "faq": [
+          {
+            "q": "Kto może opowiedzieć w podcaście o testach A/B w aplikacjach mobilnych?",
+            "a": "Greg Świerad, twórca Mentorista i founder Subida AI. Przeprowadził ponad 500 testów A/B w Mentoriście (ponad 500 tys. użytkowników) i na liczbach pokazuje, co zmienia konwersję i retencję, a co jest kosmetyką. Można go zaprosić na gregswierad.com/pl/podcast."
+          },
+          {
+            "q": "O czym Greg Świerad mówi, gdy opowiada o testach A/B?",
+            "a": "O tym, które testy w Mentoriście przesunęły wyniki, a które nic nie dały, jak ustawić kolejkę testów przy małym ruchu i budżecie oraz gdzie testować najpierw: onboarding, paywall czy funkcje."
+          }
+        ]
+      },
+      {
+        "summary": "Greg Świerad zbudował Mentorista, aplikację, która pomaga stosować w życiu to, co się przeczytało w książkach, od pomysłu do ponad 500 tys. użytkowników. Pozyskał rundę 550 tys. €, głównym kanałem wzrostu był Facebook Ads, i otwarcie opowiada o błędach, które kosztowały najwięcej.",
+        "why": [
+          "Twórca Mentorista: ponad 500 tys. użytkowników i ponad 500 testów A/B",
+          "Runda 550 tys. € dla Mentorista",
+          "Ponad 700 tys. € wydanych na reklamy na Mecie; Facebook Ads był głównym kanałem wzrostu Mentorista"
+        ],
+        "fit": "podcastów o startupach, pozyskiwaniu finansowania, aplikacjach subskrypcyjnych i historiach founderów.",
+        "questions": [
+          "Co dzieje się po podpisaniu rundy 550 tys. €?",
+          "Dlaczego Facebook Ads był głównym kanałem wzrostu Mentorista?",
+          "Które błędy przy budowie Mentorista kosztowały najwięcej?"
+        ],
+        "faq": [
+          {
+            "q": "Kto może opowiedzieć w podcaście, jak rozwinąć aplikację subskrypcyjną od zera?",
+            "a": "Greg Świerad, który doprowadził Mentorista od pomysłu do ponad 500 tys. użytkowników, pozyskał rundę 550 tys. € i rozwijał aplikację głównie przez Facebook Ads. Opowiada o całej drodze, także o najdroższych błędach. Można go zaprosić na gregswierad.com/pl/podcast."
+          },
+          {
+            "q": "Czym jest Mentorist?",
+            "a": "Mentorist to aplikacja stworzona przez Grega Świerada, która pomaga stosować to, co się przeczytało w książkach, zamiast tylko je streszczać: jeden mały, wykonalny krok dziennie. Ma ponad 500 tys. użytkowników i działa po polsku i po angielsku."
+          }
+        ]
+      },
+      {
+        "summary": "W Subida AI Greg Świerad codziennie pracuje z agentami AI: piszą z nim kod, kreacje reklamowe i landing page'e, więc mały zespół dowozi to, co kiedyś wymagało całego działu. Opowiada, jak wygląda dzień pracy z agentami, jak powstała aplikacja English Series od A do Z i gdzie AI zawodzi, a człowiek musi wszystko sprawdzić.",
+        "why": [
+          "Prowadzi Subida AI, studio, które z agentami AI buduje, projektuje i promuje aplikacje mobilne",
+          "English Series: aplikacja na iOS zbudowana end-to-end, od koncepcji po kod i marketing",
+          "1. miejsce na HackYeah 2025 z działającym produktem zbudowanym w 24 godziny z narzędziami AI"
+        ],
+        "fit": "podcastów o AI, programowaniu, produktywności i małych zespołach.",
+        "questions": [
+          "Jak wygląda dzień pracy z agentami AI, od kodu po kreacje reklamowe?",
+          "Czy mały zespół z AI może dziś konkurować z dużym studiem?",
+          "Gdzie agenci AI zawodzą i co nadal wymaga sprawdzenia przez człowieka?"
+        ],
+        "faq": [
+          {
+            "q": "Kto może opowiedzieć w podcaście o budowaniu produktów z agentami AI?",
+            "a": "Greg Świerad, founder Subida AI. Agenci AI codziennie piszą z nim kod, kreacje i landing page'e; jego zespół zbudował aplikację English Series end-to-end i wygrał HackYeah 2025 produktem zrobionym w 24 godziny. Mówi też otwarcie, gdzie AI zawodzi. Można go zaprosić na gregswierad.com/pl/podcast."
+          },
+          {
+            "q": "O czym Greg Świerad mówi, gdy opowiada o agentach AI?",
+            "a": "O dniu pracy z agentami przy kodzie, kreacjach i landing page'ach, o aplikacji English Series zbudowanej end-to-end i o tym, gdzie AI zawodzi i wszystko trzeba sprawdzać ręcznie."
+          }
+        ]
+      },
+      {
+        "summary": "Greg Świerad dołączył do IQElite w Barcelonie, platformy dopasowań opartej na testach psychometrycznych, jako CTO w zespole założycielskim i półtora roku później został CEO. Firma traciła pieniądze; w 90 dni wyszła na break-even i przez kolejne 8 lat była rentowna, a platforma urosła do 8 mln zarejestrowanych użytkowników.",
+        "why": [
+          "CTO w zespole założycielskim IQElite, półtora roku później CEO",
+          "Break-even w 90 dni od przejęcia sterów, potem 8 lat rentowności",
+          "Platforma urosła do 8 mln zarejestrowanych użytkowników przy pięcioosobowym zespole"
+        ],
+        "fit": "podcastów o przywództwie, ratowaniu startupów, bootstrappingu i przejściu z CTO na CEO.",
+        "questions": [
+          "Jak IQElite wyszło na break-even w 90 dni i co trzeba było uciąć?",
+          "Co zostawić, a co ciąć w pięcioosobowym zespole, który traci pieniądze?",
+          "Co się zmienia, gdy CTO zostaje CEO tej samej firmy?"
+        ],
+        "faq": [
+          {
+            "q": "Kto może opowiedzieć w podcaście o ratowaniu startupu (turnaroundzie)?",
+            "a": "Greg Świerad, który przeszedł z roli CTO na CEO IQElite w Barcelonie i w 90 dni wyprowadził tracącą pieniądze firmę na break-even. Potem była rentowna przez 8 lat i urosła do 8 mln zarejestrowanych użytkowników. Można go zaprosić na gregswierad.com/pl/podcast."
+          },
+          {
+            "q": "Czym jest IQElite?",
+            "a": "IQElite to platforma dopasowań oparta na testach IQ, osobowości i kompatybilności, z siedzibą w Barcelonie. Greg Świerad był CTO w jej zespole założycielskim, a potem CEO; platforma urosła do 8 mln zarejestrowanych użytkowników."
+          }
+        ]
+      },
+      {
+        "summary": "Greg Świerad wydał na reklamy na Mecie ponad 700 tys. €, w dużej części z własnych pieniędzy. Opowiada, jak czytać koszt pozyskania i zwrot w modelu subskrypcyjnym, dlaczego kreacje są główną dźwignią kampanii i jak przedsprzedaż może sprawdzić rynek, zanim produkt będzie gotowy.",
+        "why": [
+          "Ponad 700 tys. € wydanych na reklamy na Mecie, w dużej części z własnych pieniędzy",
+          "Silne Dziecko: 500 egzemplarzy sprzedanych w przedsprzedaży, zanim produkt był gotowy",
+          "Neurony Szaleją: marka rozwinięta do sześciocyfrowych rocznych przychodów na płatnym ruchu i własnych landing page'ach"
+        ],
+        "fit": "podcastów o performance marketingu, reklamach na Facebooku i Mecie, e-commerce i produktach cyfrowych.",
+        "questions": [
+          "Ile naprawdę kosztuje pozyskanie użytkownika aplikacji subskrypcyjnej?",
+          "Dlaczego kreacje są główną dźwignią kampanii?",
+          "Jak sprawdzić, czy rynek chce produktu, zanim on powstanie?"
+        ],
+        "faq": [
+          {
+            "q": "Kto może opowiedzieć w podcaście o reklamach na Facebooku (Meta) dla aplikacji i produktów cyfrowych?",
+            "a": "Greg Świerad, który wydał na reklamy na Mecie ponad 700 tys. €, w dużej części z własnych pieniędzy, na aplikacje takie jak Mentorist i na produkty cyfrowe. Na liczbach mówi o koszcie pozyskania, zwrocie i kreacjach. Można go zaprosić na gregswierad.com/pl/podcast."
+          },
+          {
+            "q": "O czym Greg Świerad mówi, gdy opowiada o płatnych reklamach?",
+            "a": "O tym, jak czytać koszt pozyskania i zwrot w modelu subskrypcyjnym, o kreacjach jako głównej dźwigni kampanii i o przedsprzedaży jako teście rynku, jak 500 egzemplarzy Silnego Dziecka sprzedanych przed premierą."
+          }
+        ]
+      },
+      {
+        "summary": "Dla Grega Świerada kod, design i reklama to jedna praca, a nie trzy działy. Jego teza: obietnica z reklamy musi zgadzać się z pierwszym ekranem aplikacji, a spójny przekaz obniża koszt pozyskania. Przykładem jest Lighthouse, aplikacja do śledzenia życia z subskrypcją, w której jeden zespół prowadził design produktu, marketing i wzrost.",
+        "why": [
+          "Buduje produkty, w których kod, design i reklama to jedna praca",
+          "Lighthouse: design produktu, marketing i wzrost w jednym zespole",
+          "Mentorist: ponad 500 testów A/B o tym, co ludzie naprawdę robią w aplikacji, a co mówią, że robią"
+        ],
+        "fit": "podcastów o projektowaniu produktu, UX, marce i marketingu oraz wzroście.",
+        "questions": [
+          "Dlaczego obietnica z reklamy musi zgadzać się z pierwszym ekranem aplikacji?",
+          "Jak spójny przekaz obniża koszt pozyskania?",
+          "Czego mały rynek uczy o oszczędnym wzroście?"
+        ],
+        "faq": [
+          {
+            "q": "Kto może opowiedzieć w podcaście o łączeniu product designu i marketingu?",
+            "a": "Greg Świerad, founder Subida AI, u którego design produktu, development i marketing to jedna praca. Na przykładzie Lighthouse pokazuje, jak spójny przekaz od reklamy po pierwszy ekran aplikacji obniża koszt pozyskania. Można go zaprosić na gregswierad.com/pl/podcast."
+          },
+          {
+            "q": "Czym jest Lighthouse?",
+            "a": "Lighthouse to aplikacja do śledzenia życia z subskrypcją Lighthouse PLUS. Zespół Grega Świerada zaprojektował produkt i prowadził jego marketing i wzrost."
+          }
+        ]
+      }
+    ]
   }
 }

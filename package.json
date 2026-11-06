@@ -4,10 +4,12 @@
   "version": "0.0.1",
   "type": "module",
   "scripts": {
-    "build": "vite build && node scripts/route-pages.mjs",
+    "build": "vite build && vite build --ssr src/entry-server.tsx --outDir dist-ssr && node scripts/prerender.mjs && node scripts/verify-prerender.mjs",
     "dev": "vite",
     "preview": "vite preview",
     "deploy": "npm run build && npx wrangler pages deploy",
+    "verify": "node scripts/verify-prerender.mjs",
+    "ai-visibility": "node scripts/ai-visibility/run.mjs",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix"
   },

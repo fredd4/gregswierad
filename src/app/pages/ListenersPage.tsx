@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState, useSyncExternalStore } from "react";
 import type { FormEvent } from "react";
 import { ExternalLink, Gift } from "lucide-react";
 import { useTranslation } from "react-i18next";
@@ -6,6 +6,7 @@ import { Button } from "@/app/components/ui/button";
 import { Input } from "@/app/components/ui/input";
 import { Label } from "@/app/components/ui/label";
 import SiteLayout, { primaryButtonClass, useLang } from "@/app/components/SiteLayout";
+import { homePath } from "@/content/routes";
 import { MENTORIST_URL, NARALINGO_URL } from "@/content/site";
 import { track } from "@/lib/analytics/posthog";
 import { submitToFormspree } from "@/lib/formspree";
@@ -18,6 +19,8 @@ type AppId = (typeof APPS)[number]["id"];
 
 const fieldClass = "mt-2 bg-gray-50 border-0 text-foreground placeholder:text-muted-foreground rounded-xl";
 
+const noSubscription = () => () => {};
+
 /** `?ep=` (or `?show=`) lets a host's link say which episode a listener came from. */
 const episodeFromUrl = () => {
   if (typeof window === "undefined") return "";
@@ -28,9 +31,12 @@ const episodeFromUrl = () => {
 export default function ListenersPage() {
   const { t } = useTranslation();
   const lang = useLang();
-  const [episode] = useState(episodeFromUrl);
+  // The prerendered HTML has no query string: the server snapshot is "" and the browser
+  // reads ?ep= right after hydration, so both start from the same markup.
+  const episode = useSyncExternalStore(noSubscription, episodeFromUrl, () => "");
   const [email, setEmail] = useState("");
-  const [show, setShow] = useState(episode);
+  const [typedShow, setShow] = useState<string | null>(null);
+  const show = typedShow ?? episode;
   const [website, setWebsite] = useState("");
   const [apps, setApps] = useState<AppId[]>(["naralingo", "mentorist"]);
   const [status, setStatus] = useState<"idle" | "submitting" | "success" | "error">("idle");
@@ -76,7 +82,7 @@ export default function ListenersPage() {
   };
 
   return (
-    <SiteLayout title={t("listeners.eyebrow")}>
+    <SiteLayout>
       <section className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16">
         <p className="text-sm font-semibold uppercase tracking-wide text-teal-600 mb-4 inline-flex items-center gap-2">
           <Gift className="h-4 w-4" />
@@ -139,7 +145,7 @@ export default function ListenersPage() {
           )}
         </div>
 
-        <a href="/#about" className="inline-block mt-8 font-semibold text-teal-700 hover:underline">
+        <a href={`${homePath(lang) === "/" ? "/" : homePath(lang)}#about`} className="inline-block mt-8 font-semibold text-teal-700 hover:underline">
           {t("listeners.aboutLink")}
         </a>
       </section>

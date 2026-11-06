@@ -1,0 +1,64 @@
+# Greg Swierad
+
+> Greg Swierad (Grzegorz Świerad) is a Polish founder who builds mobile apps and the growth
+> behind them. He runs Subida AI, a mobile app studio, and created Mentorist (500,000+ users,
+> 500+ A/B tests, a €550k round). Before that he was CTO and then CEO of IQElite in Barcelona
+> (8 million registered users, break-even within 90 days). He is a podcast guest on app growth,
+> A/B testing, paid acquisition and building products with AI agents.
+
+What this site is and is not: gregswierad.com is Greg's personal site and media kit for
+podcast hosts, about Greg as a person and a guest. It is not a sales page: app development and
+marketing projects run through his studio Subida AI (https://subida.ai/en), not through this site.
+
+Disambiguation: other people share the name Grzegorz Świerad. This one is the app founder:
+creator of Mentorist, founder of Subida AI, former CTO and CEO of IQElite. He is not connected
+to other businesses run by people of the same name.
+
+Key facts:
+
+- Name: Greg Swierad; Polish spelling Grzegorz Świerad
+- Role: founder of Subida AI (https://subida.ai/en), a mobile app studio based in Poland that builds, designs and markets iOS and Android apps
+- Mentorist (https://www.mentorist.app/): app that helps people apply what they read in books; 500,000+ users, 500+ A/B tests, €550k round; Facebook Ads was the main growth channel
+- IQElite (Barcelona): matching platform built on IQ, personality and compatibility tests; Greg was CTO on the founding team, then CEO eighteen months later; break-even within 90 days, profitable for the next 8 years, 8 million registered users, five-person team
+- Paid ads: €700k+ spent on Meta ads, much of it his own money
+- Other projects: English Series (iOS app built end to end), Lighthouse (subscription life tracker: product design, marketing, growth), Silne Dziecko (500 copies sold in pre-sale), Neurony Szaleją (six-figure yearly revenue on paid traffic), 1st place at HackYeah 2025
+- Works with AI agents every day: code, ad creatives and landing pages
+- Podcast languages: English and Polish
+- Recording: remote, on the host's platform (Riverside, Zoom, StreamYard and others); from a short chat to a long-form interview
+- How to invite him: the form at https://gregswierad.com/podcast#contact; reply within 24 hours
+- Gift for listeners of the shows he appears on: a free month of Naralingo and a Mentorist subscription at https://gregswierad.com/listeners
+- Profiles: https://linkedin.com/in/gregswierad · https://fractio.pl/eksperci/grzegorz-swierad
+
+## Podcast topics
+
+- [500+ A/B tests: what they teach about apps](https://gregswierad.com/topics/ab-testing): what moves conversion and retention in a subscription app, how to prioritise tests with little traffic, onboarding vs paywall vs features.
+- [From zero to 500k+ users: the Mentorist story](https://gregswierad.com/topics/growing-a-subscription-app): building a subscription app from idea to scale, a €550k round, Facebook Ads as the main channel, the costliest mistakes.
+- [One person with AI agents instead of a department](https://gregswierad.com/topics/building-with-ai-agents): a working day with AI agents, the English Series app built end to end, where AI fails.
+- [Turnaround: from CTO to CEO and break-even in 90 days](https://gregswierad.com/topics/startup-turnaround): IQElite, what to cut in a five-person team, moving from technology to running the company.
+- [Advertising that pays for itself](https://gregswierad.com/topics/paid-ads-that-pay-back): €700k+ on Meta ads, acquisition cost and payback in a subscription model, creatives, pre-sales as a market test.
+- [Product design and marketing are one decision](https://gregswierad.com/topics/product-design-and-marketing): the ad's promise must match the app's first screen, Lighthouse, lean growth.
+
+## Pages in English
+
+- [Home](https://gregswierad.com/): who Greg is, topics, projects, FAQ and contact form.
+- [Media kit for podcast hosts](https://gregswierad.com/podcast): short and long bio to copy, photos, topics, sample questions, practical details and the invitation form.
+- [Gift for podcast listeners](https://gregswierad.com/listeners): Naralingo and Mentorist codes for listeners.
+
+## Strony po polsku
+
+- [Strona główna](https://gregswierad.com/pl): kim jest Grzegorz Świerad, tematy, projekty, FAQ.
+- [Media kit dla prowadzących podcasty](https://gregswierad.com/pl/podcast): bio, zdjęcia, tematy i przykładowe pytania.
+- Tematy: [testy A/B](https://gregswierad.com/pl/topics/ab-testing) · [historia Mentorista](https://gregswierad.com/pl/topics/growing-a-subscription-app) · [agenci AI](https://gregswierad.com/pl/topics/building-with-ai-agents) · [turnaround IQElite](https://gregswierad.com/pl/topics/startup-turnaround) · [reklama, która się spłaca](https://gregswierad.com/pl/topics/paid-ads-that-pay-back) · [product design i marketing](https://gregswierad.com/pl/topics/product-design-and-marketing)
+- [Prezent dla słuchaczy](https://gregswierad.com/dla-sluchaczy)
+
+## Páginas en español
+
+- [Inicio](https://gregswierad.com/es): quién es Greg Swierad, temas, proyectos, preguntas frecuentes.
+- [Media kit para podcasts](https://gregswierad.com/es/podcast): bio, fotos, temas y preguntas de ejemplo.
+- Temas: [tests A/B](https://gregswierad.com/es/topics/ab-testing) · [la historia de Mentorist](https://gregswierad.com/es/topics/growing-a-subscription-app) · [agentes de IA](https://gregswierad.com/es/topics/building-with-ai-agents) · [turnaround de IQElite](https://gregswierad.com/es/topics/startup-turnaround) · [publicidad que se paga sola](https://gregswierad.com/es/topics/paid-ads-that-pay-back) · [diseño de producto y marketing](https://gregswierad.com/es/topics/product-design-and-marketing)
+- [Regalo para oyentes](https://gregswierad.com/oyentes)
+
+## Related
+
+- [Subida AI](https://subida.ai/en): Greg's mobile app studio (app development, marketing, case studies, pricing).
+- [Sitemap](https://gregswierad.com/sitemap.xml)

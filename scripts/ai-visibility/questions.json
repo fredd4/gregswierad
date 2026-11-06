@@ -1,0 +1,27 @@
+{
+  "_comment": "Questions a podcast host asks before they know who to invite. None names Greg Swierad. Keep the set fixed so runs stay comparable; when a question changes, give it a new id instead of editing the old one. Themes: guest = 'who should I invite', expert = 'who knows about X', info = a how-to question the topic pages could be cited for. `branded: true` rows are controls (does the model describe Greg correctly?) and are left out of the share.",
+  "questions": [
+    { "id": "en-guest-app-growth", "lang": "en", "theme": "guest", "q": "Who would be a good podcast guest to talk about mobile app growth?" },
+    { "id": "en-guest-ab", "lang": "en", "theme": "guest", "q": "I host a podcast about product management. Suggest a guest who can talk about A/B testing in subscription apps." },
+    { "id": "en-guest-ai-agents", "lang": "en", "theme": "guest", "q": "Who could I invite on my podcast to talk about building products with AI agents in a very small team?" },
+    { "id": "en-guest-turnaround", "lang": "en", "theme": "guest", "q": "Suggest a podcast guest who took a loss-making startup to break-even quickly as CEO." },
+    { "id": "en-guest-meta-ads", "lang": "en", "theme": "guest", "q": "Who is a good podcast guest on Facebook and Meta ads for apps and digital products?" },
+    { "id": "en-guest-poland", "lang": "en", "theme": "guest", "q": "Recommend founders from Poland who would be good podcast guests about startups and mobile apps." },
+    { "id": "en-guest-subscription", "lang": "en", "theme": "guest", "q": "Which founders talk on podcasts about growing a subscription app from zero to hundreds of thousands of users?" },
+    { "id": "en-expert-ab", "lang": "en", "theme": "expert", "q": "Who are practitioners worth following on A/B testing onboarding and paywalls in mobile apps?" },
+    { "id": "en-expert-design-marketing", "lang": "en", "theme": "expert", "q": "Who talks about connecting product design and marketing so the ad matches the app's first screen?" },
+    { "id": "en-info-ab-low-traffic", "lang": "en", "theme": "info", "q": "How should a small mobile app with little traffic prioritise A/B tests?" },
+    { "id": "pl-guest-app-growth", "lang": "pl", "theme": "guest", "q": "Kogo zaprosić do podcastu, żeby opowiedział o wzroście aplikacji mobilnych?" },
+    { "id": "pl-guest-ab", "lang": "pl", "theme": "guest", "q": "Poleć gościa do podcastu, który zna się na testach A/B w aplikacjach subskrypcyjnych." },
+    { "id": "pl-guest-ai", "lang": "pl", "theme": "guest", "q": "Kto w Polsce może opowiedzieć w podcaście o budowaniu produktów z agentami AI?" },
+    { "id": "pl-guest-founder", "lang": "pl", "theme": "guest", "q": "Jakich polskich founderów aplikacji mobilnych warto zaprosić do podcastu o startupach?" },
+    { "id": "pl-guest-meta", "lang": "pl", "theme": "guest", "q": "Kto może opowiedzieć w podcaście o reklamach na Facebooku dla aplikacji i produktów cyfrowych?" },
+    { "id": "pl-guest-turnaround", "lang": "pl", "theme": "guest", "q": "Poleć gościa do podcastu, który jako CEO wyprowadził startup ze strat na break-even." },
+    { "id": "pl-expert-app-marketing", "lang": "pl", "theme": "expert", "q": "Kto w Polsce jest praktykiem marketingu i wzrostu aplikacji mobilnych?" },
+    { "id": "pl-info-ab", "lang": "pl", "theme": "info", "q": "Od czego zacząć testy A/B w aplikacji mobilnej: onboarding, paywall czy funkcje?" },
+    { "id": "es-guest-app-growth", "lang": "es", "theme": "guest", "q": "¿A quién podría invitar a mi podcast para hablar de crecimiento de apps móviles?" },
+    { "id": "es-guest-ai", "lang": "es", "theme": "guest", "q": "Recomiéndame un invitado para un podcast sobre crear productos con agentes de IA en un equipo pequeño." },
+    { "id": "en-brand", "lang": "en", "theme": "brand", "branded": true, "q": "Who is Greg Swierad?" },
+    { "id": "pl-brand", "lang": "pl", "theme": "brand", "branded": true, "q": "Kim jest Grzegorz Świerad?" }
+  ]
+}

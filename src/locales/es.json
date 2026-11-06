@@ -228,10 +228,22 @@
     "practical": {
       "title": "Detalles prácticos",
       "items": [
-        { "label": "Idiomas", "value": "polaco, inglés" },
-        { "label": "Formato", "value": "grabación remota en la plataforma del programa (Riverside, Zoom, StreamYard y otras)" },
-        { "label": "Duración", "value": "desde una charla corta hasta una entrevista larga" },
-        { "label": "Respuesta", "value": "en menos de 24 horas" }
+        {
+          "label": "Idiomas",
+          "value": "polaco, inglés"
+        },
+        {
+          "label": "Formato",
+          "value": "grabación remota en la plataforma del programa (Riverside, Zoom, StreamYard y otras)"
+        },
+        {
+          "label": "Duración",
+          "value": "desde una charla corta hasta una entrevista larga"
+        },
+        {
+          "label": "Respuesta",
+          "value": "en menos de 24 horas"
+        }
       ]
     },
     "gift": {
@@ -278,5 +290,214 @@
     "rights": "© 2026 Greg Swierad",
     "studio": "Estudio de apps móviles: Subida AI",
     "linkedin": "LinkedIn"
+  },
+  "meta": {
+    "home": {
+      "title": "Greg Swierad | Fundador que crea apps móviles y su crecimiento",
+      "description": "Greg Swierad, fundador de Subida AI y creador de Mentorist (más de 500 mil usuarios, más de 500 tests A/B). Antes, CTO y CEO de IQElite (8 millones de usuarios). Invitado de podcasts sobre crecimiento de apps, tests A/B y agentes de IA."
+    },
+    "podcast": {
+      "title": "Greg Swierad | Media kit para podcasts",
+      "description": "Bio, fotos, temas y preguntas de ejemplo para quienes presentan podcasts. Greg Swierad, fundador de Subida AI y de Mentorist, habla de crecimiento de apps, tests A/B y de crear productos con agentes de IA."
+    },
+    "listeners": {
+      "title": "Greg Swierad | Un regalo para quienes escuchan el podcast",
+      "description": "Un mes gratis de Naralingo y una suscripción a Mentorist para quienes escuchan los podcasts en los que participa Greg Swierad."
+    },
+    "notFound": {
+      "title": "Página no encontrada | Greg Swierad",
+      "description": "Esta página no existe. La página principal y el media kit de Greg Swierad están a un clic."
+    }
+  },
+  "notFound": {
+    "title": "Esta página no existe",
+    "body": "Puede que el enlace sea antiguo o tenga un error. Estas son las dos páginas que más se buscan."
+  },
+  "faq": {
+    "title": "Preguntas frecuentes",
+    "items": [
+      {
+        "q": "¿Quién es Greg Swierad?",
+        "a": "Greg Swierad (Grzegorz Świerad) es un fundador polaco que crea apps móviles y su crecimiento. Dirige Subida AI, un estudio de apps móviles, y creó Mentorist, una app con más de 500 mil usuarios, más de 500 tests A/B y una ronda de 550 mil €. Antes fue CTO y después CEO de IQElite en Barcelona, que alcanzó el punto de equilibrio en 90 días y llegó a 8 millones de usuarios registrados."
+      },
+      {
+        "q": "¿De qué habla Greg Swierad en los podcasts?",
+        "a": "De seis temas en los que tiene sus propios números: lo que enseñan más de 500 tests A/B sobre las apps, cómo Mentorist pasó de cero a más de 500 mil usuarios, crear productos con agentes de IA en lugar de un departamento, el turnaround de IQElite de CTO a CEO, publicidad que se paga sola (más de 700 mil € invertidos en Meta) y por qué el diseño de producto y el marketing son una sola decisión."
+      },
+      {
+        "q": "¿Para qué podcasts es un buen invitado Greg Swierad?",
+        "a": "Para programas sobre startups, apps móviles y de suscripción, crecimiento y performance marketing, gestión de producto y creación de productos con IA. Quienes más lo aprovechan son fundadores, product managers, profesionales del marketing y desarrolladores que prefieren números reales a la teoría."
+      },
+      {
+        "q": "¿Cómo invito a Greg Swierad a mi podcast?",
+        "a": "Con el formulario de gregswierad.com/es/podcast: basta con unas palabras sobre el programa y su audiencia. Greg responde en menos de 24 horas, graba en remoto en la plataforma del programa (Riverside, Zoom, StreamYard y otras) y habla inglés y polaco. La bio, las fotos y las preguntas de ejemplo están en la misma página."
+      },
+      {
+        "q": "¿Greg Swierad crea apps para clientes?",
+        "a": "Sí, a través de su estudio Subida AI (subida.ai), que construye, diseña y promociona apps móviles. Este sitio trata de Greg como persona e invitado de podcasts; los proyectos de apps empiezan en subida.ai."
+      },
+      {
+        "q": "¿Qué reciben quienes escuchan el podcast?",
+        "a": "Un mes gratis de Naralingo, una app que convierte situaciones reales en lecciones de idiomas en audio personalizadas, y una suscripción a Mentorist. Ambos regalos se piden en gregswierad.com/oyentes."
+      }
+    ]
+  },
+  "topicPages": {
+    "eyebrow": "Tema de podcast con Greg Swierad",
+    "more": "Más sobre este tema",
+    "back": "Todos los temas y el media kit",
+    "coversTitle": "De qué trata la conversación",
+    "whyTitle": "Por qué Greg puede hablar de esto",
+    "fitTitle": "Encaja en:",
+    "questionsTitle": "Preguntas que puedes hacer",
+    "faqTitle": "Preguntas sobre este tema",
+    "otherTopics": "Otros temas",
+    "cta": "Invita a Greg a hablar de esto",
+    "items": [
+      {
+        "summary": "Greg Swierad hizo más de 500 tests A/B en Mentorist, una app de suscripción con más de 500 mil usuarios. En los podcasts cuenta qué tests movieron de verdad la conversión y la retención, cuáles no cambiaron nada y cómo un equipo con poco tráfico y poco presupuesto debe decidir qué probar primero: el onboarding, el paywall o las funcionalidades.",
+        "why": [
+          "Más de 500 tests A/B en Mentorist, donde casi cada pantalla fue un test en algún momento",
+          "Mentorist: más de 500 mil usuarios y una ronda de 550 mil €",
+          "Fundador de Subida AI, un estudio que construye y hace crecer apps móviles"
+        ],
+        "fit": "programas sobre gestión de producto, crecimiento, optimización de la conversión y apps de suscripción.",
+        "questions": [
+          "¿Cuáles de los más de 500 tests de Mentorist movieron más los resultados y cuáles no sirvieron de nada?",
+          "¿Cómo eliges qué probar cuando el tráfico y el presupuesto son pequeños?",
+          "¿Conviene empezar a probar por el onboarding, el paywall o las funcionalidades?"
+        ],
+        "faq": [
+          {
+            "q": "¿Quién puede hablar de tests A/B en apps móviles en un podcast?",
+            "a": "Greg Swierad, creador de Mentorist y fundador de Subida AI. Hizo más de 500 tests A/B en Mentorist (más de 500 mil usuarios) y explica con números reales qué mueve la conversión y la retención y qué es pura cosmética. Se le puede invitar en gregswierad.com/es/podcast."
+          },
+          {
+            "q": "¿Qué cuenta Greg Swierad cuando habla de tests A/B?",
+            "a": "Qué tests en Mentorist movieron los resultados y cuáles no sirvieron de nada, cómo priorizar tests con poco tráfico y presupuesto, y dónde probar primero: el onboarding, el paywall o las funcionalidades."
+          }
+        ]
+      },
+      {
+        "summary": "Greg Swierad creó Mentorist, una app que ayuda a aplicar lo que se lee en los libros, y la llevó de una idea a más de 500.000 usuarios. Levantó una ronda de 550 mil €, usó Facebook Ads como principal canal de crecimiento y habla abiertamente de los errores que más caro salieron.",
+        "why": [
+          "Creador de Mentorist: más de 500 mil usuarios y más de 500 tests A/B",
+          "Una ronda de 550 mil € para Mentorist",
+          "Más de 700 mil € invertidos en anuncios de Meta; Facebook Ads fue el principal canal de crecimiento de Mentorist"
+        ],
+        "fit": "programas sobre startups, financiación, apps de suscripción e historias de fundadores.",
+        "questions": [
+          "¿Qué pasa después de firmar una ronda de 550 mil €?",
+          "¿Por qué Facebook Ads fue el principal canal de crecimiento de Mentorist?",
+          "¿Qué errores al construir Mentorist salieron más caros?"
+        ],
+        "faq": [
+          {
+            "q": "¿Quién puede hablar en un podcast de cómo hacer crecer una app de suscripción desde cero?",
+            "a": "Greg Swierad, que llevó Mentorist de una idea a más de 500 mil usuarios, levantó una ronda de 550 mil € y la hizo crecer sobre todo con Facebook Ads. Cuenta todo el camino, también los errores más caros. Se le puede invitar en gregswierad.com/es/podcast."
+          },
+          {
+            "q": "¿Qué es Mentorist?",
+            "a": "Mentorist es una app creada por Greg Swierad que ayuda a aplicar lo que se lee en los libros en lugar de solo resumirlos: un paso pequeño y factible al día. Tiene más de 500 mil usuarios y está disponible en inglés y polaco."
+          }
+        ]
+      },
+      {
+        "summary": "En Subida AI, Greg Swierad trabaja cada día con agentes de IA: escriben con él código, creatividades publicitarias y landing pages, así que un equipo pequeño entrega lo que antes necesitaba un departamento entero. Cuenta cómo es un día de trabajo con agentes, cómo se construyó English Series de principio a fin y dónde falla la IA y una persona tiene que revisarlo todo.",
+        "why": [
+          "Dirige Subida AI, un estudio que construye, diseña y promociona apps móviles con agentes de IA",
+          "English Series: una app de iOS construida de principio a fin, del concepto al código y el marketing",
+          "1.er puesto en HackYeah 2025 con un producto funcional construido en 24 horas con herramientas de IA"
+        ],
+        "fit": "programas sobre IA, desarrollo de software, productividad y equipos pequeños.",
+        "questions": [
+          "¿Cómo es un día de trabajo con agentes de IA, del código a las creatividades?",
+          "¿Puede hoy un equipo pequeño con IA competir con un gran estudio?",
+          "¿Dónde fallan los agentes de IA y qué sigue necesitando revisión humana?"
+        ],
+        "faq": [
+          {
+            "q": "¿Quién puede hablar en un podcast de crear productos con agentes de IA?",
+            "a": "Greg Swierad, fundador de Subida AI. Los agentes de IA escriben con él código, creatividades y landing pages cada día; su equipo construyó la app English Series de principio a fin y ganó HackYeah 2025 con un producto hecho en 24 horas. También cuenta abiertamente dónde falla la IA. Se le puede invitar en gregswierad.com/es/podcast."
+          },
+          {
+            "q": "¿Qué cuenta Greg Swierad cuando habla de agentes de IA?",
+            "a": "Un día de trabajo con agentes entre código, creatividades y landing pages, la app English Series construida de principio a fin y dónde falla la IA, de modo que todo necesita revisión humana."
+          }
+        ]
+      },
+      {
+        "summary": "Greg Swierad entró en IQElite en Barcelona, una plataforma de emparejamiento basada en tests psicométricos, como CTO del equipo fundador y dieciocho meses después pasó a ser CEO. La empresa perdía dinero; en 90 días alcanzó el punto de equilibrio y fue rentable durante los 8 años siguientes, hasta llegar a 8 millones de usuarios registrados.",
+        "why": [
+          "CTO del equipo fundador de IQElite y CEO dieciocho meses después",
+          "Punto de equilibrio en 90 días tras asumir la dirección y después 8 años de rentabilidad",
+          "La plataforma llegó a 8 millones de usuarios registrados con un equipo de cinco personas"
+        ],
+        "fit": "programas sobre liderazgo, rescate de startups, bootstrapping y el paso de CTO a CEO.",
+        "questions": [
+          "¿Cómo alcanzó IQElite el punto de equilibrio en 90 días y qué hubo que recortar?",
+          "¿Qué se mantiene y qué se recorta en un equipo de cinco personas que pierde dinero?",
+          "¿Qué cambia cuando un CTO pasa a ser CEO de la misma empresa?"
+        ],
+        "faq": [
+          {
+            "q": "¿Quién puede hablar en un podcast del rescate (turnaround) de una startup?",
+            "a": "Greg Swierad, que pasó de CTO a CEO de IQElite en Barcelona y llevó a la empresa, que perdía dinero, al punto de equilibrio en 90 días. Después fue rentable durante 8 años y llegó a 8 millones de usuarios registrados. Se le puede invitar en gregswierad.com/es/podcast."
+          },
+          {
+            "q": "¿Qué es IQElite?",
+            "a": "IQElite es una plataforma de emparejamiento basada en tests de CI, personalidad y compatibilidad, con sede en Barcelona. Greg Swierad fue CTO de su equipo fundador y después CEO; la plataforma llegó a 8 millones de usuarios registrados."
+          }
+        ]
+      },
+      {
+        "summary": "Greg Swierad ha invertido más de 700 mil € en anuncios de Meta, en gran parte dinero propio. Explica cómo leer el coste de adquisición y el retorno en un modelo de suscripción, por qué las creatividades son la palanca principal de una campaña y cómo una preventa puede probar el mercado antes de que el producto esté terminado.",
+        "why": [
+          "Más de 700 mil € invertidos en anuncios de Meta, en gran parte dinero propio",
+          "Silne Dziecko: 500 ejemplares vendidos en preventa, antes de que el producto estuviera terminado",
+          "Neurony Szaleją: una marca llevada a ingresos anuales de seis cifras con tráfico de pago y landing pages propias"
+        ],
+        "fit": "programas sobre performance marketing, anuncios en Facebook y Meta, e-commerce y productos digitales.",
+        "questions": [
+          "¿Cuánto cuesta de verdad conseguir un usuario para una app de suscripción?",
+          "¿Por qué las creatividades son la palanca principal de una campaña?",
+          "¿Cómo se comprueba si el mercado quiere un producto antes de que exista?"
+        ],
+        "faq": [
+          {
+            "q": "¿Quién puede hablar en un podcast de anuncios en Meta (Facebook) para apps y productos digitales?",
+            "a": "Greg Swierad, que ha invertido más de 700 mil € en anuncios de Meta, en gran parte dinero propio, para apps como Mentorist y para productos digitales. Habla con números reales de coste de adquisición, retorno y creatividades. Se le puede invitar en gregswierad.com/es/podcast."
+          },
+          {
+            "q": "¿Qué cuenta Greg Swierad cuando habla de publicidad de pago?",
+            "a": "Cómo leer el coste de adquisición y el retorno en un modelo de suscripción, las creatividades como palanca principal de una campaña y la preventa como test de mercado, como los 500 ejemplares de Silne Dziecko vendidos antes del lanzamiento."
+          }
+        ]
+      },
+      {
+        "summary": "Para Greg Swierad, el código, el diseño y la publicidad son un solo trabajo, no tres departamentos. Su idea: la promesa del anuncio tiene que coincidir con la primera pantalla de la app, y un mensaje coherente reduce el coste de adquisición. Su ejemplo es Lighthouse, una app para registrar la vida con suscripción, donde un solo equipo llevó el diseño de producto, el marketing y el crecimiento.",
+        "why": [
+          "Crea productos en los que código, diseño y publicidad son un solo trabajo",
+          "Lighthouse: diseño de producto, marketing y crecimiento en un solo equipo",
+          "Mentorist: más de 500 tests A/B sobre lo que la gente hace de verdad en una app frente a lo que dice que hace"
+        ],
+        "fit": "programas sobre diseño de producto, UX, marca y marketing, y crecimiento.",
+        "questions": [
+          "¿Por qué la promesa del anuncio tiene que coincidir con la primera pantalla de la app?",
+          "¿Cómo reduce un mensaje coherente el coste de adquisición?",
+          "¿Qué enseña un mercado pequeño sobre crecer con poco?"
+        ],
+        "faq": [
+          {
+            "q": "¿Quién puede hablar en un podcast de unir diseño de producto y marketing?",
+            "a": "Greg Swierad, fundador de Subida AI, que lleva el diseño de producto, el desarrollo y el marketing como un solo trabajo. Con Lighthouse como ejemplo, muestra cómo un mensaje coherente del anuncio a la primera pantalla de la app reduce el coste de adquisición. Se le puede invitar en gregswierad.com/es/podcast."
+          },
+          {
+            "q": "¿Qué es Lighthouse?",
+            "a": "Lighthouse es una app para registrar la vida con la suscripción Lighthouse PLUS. El equipo de Greg Swierad diseñó el producto y llevó su marketing y crecimiento."
+          }
+        ]
+      }
+    ]
   }
 }

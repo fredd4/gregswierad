@@ -1,5 +1,4 @@
 import type { ReactNode } from "react";
-import { useEffect } from "react";
 import { Globe, Linkedin, Mic } from "lucide-react";
 import { useTranslation } from "react-i18next";
 import { Button } from "@/app/components/ui/button";
@@ -10,7 +9,10 @@ import {
   DropdownMenuRadioItem,
   DropdownMenuTrigger,
 } from "@/app/components/ui/dropdown-menu";
+import { useRoute } from "@/app/route-context";
+import { homePath, podcastPath } from "@/content/routes";
 import { LINKEDIN_URL, SUBIDA_URLS, type Lang } from "@/content/site";
+import { saveLangChoice } from "@/lib/lang-choice";
 
 const LANGUAGE_OPTIONS = [
   { value: "en", label: "English" },
@@ -28,8 +30,16 @@ export const primaryButtonClass =
   "bg-gradient-to-r from-teal-600 to-teal-500 hover:from-teal-700 hover:to-teal-600 text-white rounded-full";
 
 function LanguageSwitcher() {
-  const { t, i18n } = useTranslation();
+  const { t } = useTranslation();
   const lang = useLang();
+  const route = useRoute();
+
+  // Every language has its own URL, so switching is a navigation, not a re-render.
+  const switchTo = (value: string) => {
+    const next = value as Lang;
+    saveLangChoice(next);
+    if (route.alternates[next] !== route.path) window.location.assign(`${route.alternates[next]}${window.location.hash}`);
+  };
 
   return (
     <DropdownMenu>
@@ -44,7 +54,7 @@ function LanguageSwitcher() {
         </button>
       </DropdownMenuTrigger>
       <DropdownMenuContent align="end">
-        <DropdownMenuRadioGroup value={lang} onValueChange={(value) => i18n.changeLanguage(value)}>
+        <DropdownMenuRadioGroup value={lang} onValueChange={switchTo}>
           {LANGUAGE_OPTIONS.map((option) => (
             <DropdownMenuRadioItem key={option.value} value={option.value}>
               {option.label}
@@ -56,20 +66,18 @@ function LanguageSwitcher() {
   );
 }
 
-export default function SiteLayout({ children, title }: { children: ReactNode; title?: string }) {
-  const { t, i18n } = useTranslation();
+// <title>, <html lang> and the rest of <head> come from the prerender (src/content/head.ts).
+export default function SiteLayout({ children }: { children: ReactNode }) {
+  const { t } = useTranslation();
   const lang = useLang();
-
-  useEffect(() => {
-    document.documentElement.lang = lang;
-    if (title) document.title = `${title} | Greg Swierad`;
-  }, [lang, i18n.language, title]);
+  const home = homePath(lang);
+  const anchor = (id: string) => (home === "/" ? `/#${id}` : `${home}#${id}`);
 
   const navLinks = [
-    { href: "/#about", label: t("nav.about") },
-    { href: "/#topics", label: t("nav.topics") },
-    { href: "/#projects", label: t("nav.projects") },
-    { href: "/podcast", label: t("nav.podcast") },
+    { href: anchor("about"), label: t("nav.about") },
+    { href: anchor("topics"), label: t("nav.topics") },
+    { href: anchor("projects"), label: t("nav.projects") },
+    { href: podcastPath(lang), label: t("nav.podcast") },
   ];
 
   return (
@@ -77,7 +85,7 @@ export default function SiteLayout({ children, title }: { children: ReactNode; t
       <header className="bg-card/95 backdrop-blur shadow-sm sticky top-0 z-50">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 py-4 flex items-center justify-between gap-3">
           <a
-            href="/"
+            href={home}
             className="flex items-center gap-2 text-lg font-bold text-teal-600 whitespace-nowrap sm:text-xl hover:opacity-80 transition-opacity"
           >
             <img src="/images/logo.webp" alt={t("common.logoAlt")} className="h-8 w-8 object-contain" />
@@ -93,7 +101,7 @@ export default function SiteLayout({ children, title }: { children: ReactNode; t
           <div className="flex items-center gap-1 sm:gap-3">
             <LanguageSwitcher />
             <Button asChild className={`${primaryButtonClass} px-4 sm:px-5`}>
-              <a href="/podcast#contact">
+              <a href={`${podcastPath(lang)}#contact`}>
                 <Mic className="h-4 w-4 sm:mr-2" />
                 <span className="hidden sm:inline">{t("nav.invite")}</span>
               </a>

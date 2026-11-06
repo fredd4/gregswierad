@@ -1,4 +1,75 @@
+# robots.txt for gregswierad.com
+# Everything is open to search engines and to AI assistants that can read and cite
+# the site in their answers. Only scrapers that send nothing back are blocked.
+
 User-agent: *
 Allow: /
+
+# Search engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# OpenAI: OAI-SearchBot indexes for ChatGPT search, ChatGPT-User fetches a page a user
+# asks about, GPTBot collects training data.
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+# Perplexity
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+# Anthropic (Claude)
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+# Google Gemini and AI Overviews training switch (separate from Googlebot)
+User-agent: Google-Extended
+Allow: /
+
+# Apple Intelligence (separate from Applebot)
+User-agent: Applebot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+# Microsoft Copilot uses Bingbot; others
+User-agent: Amazonbot
+Allow: /
+
+User-agent: Meta-ExternalAgent
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+User-agent: MistralAI-User
+Allow: /
+
+# Common Crawl: the corpus most language models are trained on
+User-agent: CCBot
+Allow: /
+
+# Blocked: collects content but sends neither visits nor citations back
+User-agent: Bytespider
+Disallow: /
 
 Sitemap: https://gregswierad.com/sitemap.xml
